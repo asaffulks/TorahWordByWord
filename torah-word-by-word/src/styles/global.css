@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+:root {
+  --parchment: #FAF6F0;
+  --parchment-deep: #F0E8DA;
+  --ink: #2C1810;
+  --ink-light: #5C4A3A;
+  --ink-faint: #8A7A6A;
+  --amber-bg: #FAEEDA;
+  --amber-text: #633806;
+  --amber-border: #E8D5B0;
+  --blue-bg: #E6F1FB;
+  --blue-text: #0C447C;
+  --blue-border: #B8D4F0;
+  --card-bg: #FEFDFB;
+  --card-border: #E0D8CC;
+  --card-hover: #FFF9F0;
+  --section-bg: #F5F0E8;
+  --divider: #D8CFBF;
+  --accent-gold: #B8860B;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'EB Garamond', serif;
+  background: var(--parchment);
+  color: var(--ink);
+  line-height: 1.6;
+  min-height: 100vh;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', serif;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+/* Hebrew font stack */
+.hebrew {
+  font-family: 'SBL Hebrew', 'Noto Serif Hebrew', 'EB Garamond', serif;
+  direction: rtl;
+}
+
+/* Scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--parchment-deep);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--divider);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--ink-faint);
+}
+
+/* Selection color */
+::selection {
+  background: var(--amber-bg);
+  color: var(--amber-text);
+}
+
+/* Responsive — mobile */
+@media (max-width: 640px) {
+  html { font-size: 14px; }
+  .nav-tagline { display: none; }
+  .nav-link { display: none; }
+}

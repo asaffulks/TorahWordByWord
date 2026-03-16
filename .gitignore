@@ -1,0 +1,14 @@
+sefaria_cache/
+node_modules/
+dist/
+fonts/freefont-20120503/
+fonts/freefont.zip
+fonts/fp_logo.jpg
+__pycache__/
+*.pyc
+test_output.pdf
+font_test.pdf
+interlinear_torah_genesis.pdf
+TanachWordByWord.jsx
+missing_words.csv
+Torah Word by Word - Genesis v2.pdf
