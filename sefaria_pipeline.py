@@ -182,8 +182,14 @@ def cached_get(endpoint, cache_key):
     cache_file = CACHE_DIR / f"{cache_key}.json"
 
     if cache_file.exists():
-        with open(cache_file, 'r', encoding='utf-8') as f:
-            return json.load(f)
+        try:
+            with open(cache_file, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            return data
+        except (json.JSONDecodeError, ValueError):
+            # Corrupt cache file — delete and re-fetch
+            cache_file.unlink()
+            pass
 
     url = f"{API_BASE}/{endpoint}"
     time.sleep(RATE_LIMIT)
@@ -260,8 +266,7 @@ def get_rashi(chapter, verse):
         return ""
 
     text = text.strip()
-    if len(text) > 3000:
-        text = text[:2997] + "..."
+    # No character cap — let the full commentary through
     return text
 
 
@@ -286,8 +291,7 @@ def get_ramban(chapter, verse):
         return ""
 
     text = html.unescape(text).strip()
-    if len(text) > 3000:
-        text = text[:2997] + "..."
+    # No character cap — let the full commentary through
     return text
 
 
@@ -312,8 +316,7 @@ def get_commentary(name, chapter, verse):
         return ""
 
     text = html.unescape(text).strip()
-    if len(text) > 3000:
-        text = text[:2997] + "..."
+    # No character cap — let the full commentary through
     return text
 
 

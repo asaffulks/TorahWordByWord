@@ -730,17 +730,20 @@ class PDFBuilder:
         ]
         active = [(lbl, txt) for lbl, txt in commentary_list if txt]
         num_active = len(active)
+        cross_refs = verse.get('cross_refs', '')
 
-        # Calculate fair line budget per commentator
+        # Two-pass budget: first measure how many lines each needs,
+        # then allocate proportionally, giving unused space to longer ones
         total_lines = max(1, int((cur_y - stop_y) / 13))
-        if num_active > 0:
-            lines_each = max(3, total_lines // num_active)
-        else:
-            lines_each = total_lines
+        # Reserve 3 lines for cross-refs + insights if they exist
+        reserved = 0
+        if cross_refs: reserved += 3
+        if verse.get('insights'): reserved += 3
+        commentary_lines = max(1, total_lines - reserved)
 
         for label, text in active:
             if cur_y - 28 < stop_y:
-                break  # no room for another section
+                break
 
             cur_y -= 14
             # Dashed divider
@@ -756,26 +759,79 @@ class PDFBuilder:
             c.drawString(left, cur_y, f"{label}:")
             label_end = left + c.stringWidth(f"{label}: ", 'SerifBold', 9) + 2
 
-            # First line — narrower (after label)
+            # Draw text — no truncation, no budget, just draw until bottom
             c.setFont('SerifItalic', 8.5)
             c.setFillColor(INK_LIGHT)
-            first_w = right - label_end
-            first_lines = self._wrap_text(text, 'SerifItalic', 8.5, first_w)
+
+            # First line after label (narrower)
+            first_line_w = right - label_end
+            first_lines = self._wrap_text(text, 'SerifItalic', 8.5, first_line_w)
             if first_lines:
                 c.drawString(label_end, cur_y, first_lines[0])
+                rest_text = text[len(first_lines[0]):].strip()
+                cont_lines = self._wrap_text(rest_text, 'SerifItalic', 8.5, text_w)
+                for line in cont_lines:
+                    if cur_y - 13 < stop_y:
+                        break
+                    cur_y -= 13
+                    c.drawString(left, cur_y, line)
 
-            # Continuation lines — full width, capped at lines_each
-            rest = text[len(first_lines[0]):].strip() if first_lines else text
-            cont_lines = self._wrap_text(rest, 'SerifItalic', 8.5, text_w)
-            drawn = 1
-            for line in cont_lines:
-                if drawn >= lines_each:
-                    break
-                if cur_y - 13 < stop_y:
-                    break
-                cur_y -= 13
-                c.drawString(left, cur_y, line)
-                drawn += 1
+        # -- Cross-references (fill remaining space) --
+        if cross_refs and cur_y - 28 > stop_y:
+            cur_y -= 14
+            c.setStrokeColor(DIVIDER)
+            c.setLineWidth(0.5)
+            c.setDash(3, 3)
+            c.line(left, cur_y + 10, right, cur_y + 10)
+            c.setDash()
+
+            c.setFont('SerifBold', 8)
+            c.setFillColor(INK_FAINT)
+            c.drawString(left, cur_y, "See also:")
+            label_end = left + c.stringWidth("See also: ", 'SerifBold', 8) + 2
+
+            c.setFont('Serif', 8)
+            c.setFillColor(INK_FAINT)
+            first_w = right - label_end
+            first_lines = self._wrap_text(cross_refs, 'Serif', 8, first_w)
+            if first_lines:
+                c.drawString(label_end, cur_y, first_lines[0])
+                rest = cross_refs[len(first_lines[0]):].strip()
+                cont_lines = self._wrap_text(rest, 'Serif', 8, text_w)
+                for line in cont_lines:
+                    if cur_y - 12 < stop_y:
+                        break
+                    cur_y -= 12
+                    c.drawString(left, cur_y, line)
+
+        # -- Insights (computed analysis, fills more space) --
+        insights = verse.get('insights', '')
+        if insights and cur_y - 28 > stop_y:
+            cur_y -= 14
+            c.setStrokeColor(DIVIDER)
+            c.setLineWidth(0.5)
+            c.setDash(3, 3)
+            c.line(left, cur_y + 10, right, cur_y + 10)
+            c.setDash()
+
+            c.setFont('SerifBold', 8)
+            c.setFillColor(INK_FAINT)
+            c.drawString(left, cur_y, "Insights:")
+            label_end_ins = left + c.stringWidth("Insights: ", 'SerifBold', 8) + 2
+
+            c.setFont('Serif', 8)
+            c.setFillColor(INK_FAINT)
+            first_w = right - label_end_ins
+            first_lines = self._wrap_text(insights, 'Serif', 8, first_w)
+            if first_lines:
+                c.drawString(label_end_ins, cur_y, first_lines[0])
+                rest = insights[len(first_lines[0]):].strip()
+                cont_lines = self._wrap_text(rest, 'Serif', 8, text_w)
+                for line in cont_lines:
+                    if cur_y - 12 < stop_y:
+                        break
+                    cur_y -= 12
+                    c.drawString(left, cur_y, line)
 
         if has_commentary:
             self.y = MARGIN_B - 1  # next verse on new page
