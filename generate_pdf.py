@@ -759,17 +759,62 @@ class PDFBuilder:
             c.drawString(left, cur_y, f"{label}:")
             label_end = left + c.stringWidth(f"{label}: ", 'SerifBold', 9) + 2
 
-            # Draw text — no truncation, no budget, just draw until bottom
+            # Draw text — full text, but end at last complete sentence that fits
             c.setFont('SerifItalic', 8.5)
             c.setFillColor(INK_LIGHT)
 
-            # First line after label (narrower)
+            # Calculate how many lines fit
+            lines_available = max(1, int((cur_y - stop_y) / 13))
+
+            # Wrap full text
             first_line_w = right - label_end
             first_lines = self._wrap_text(text, 'SerifItalic', 8.5, first_line_w)
+            rest_text = text[len(first_lines[0]):].strip() if first_lines else text
+            cont_lines = self._wrap_text(rest_text, 'SerifItalic', 8.5, text_w)
+            all_display = ([first_lines[0]] if first_lines else []) + cont_lines
+
+            # If text doesn't fit, find last natural break point
+            if len(all_display) > lines_available:
+                fit_lines = all_display[:lines_available]
+                joined = ' '.join(fit_lines)
+                # Find last natural break: sentence end, semicolon, closing bracket/quote, or comma
+                best_break = -1
+                for i, ch in enumerate(joined):
+                    if i < 20:
+                        continue
+                    if ch in '.!?':
+                        best_break = i
+                    elif ch in ';' and i > 40:
+                        best_break = i
+                    elif ch in ']\u201D\u2019)\u0027' and i > 30:  # ] " ' )
+                        best_break = i
+                    elif ch == ',' and i > 60 and best_break < i - 80:
+                        # Use comma only if no better break found recently
+                        best_break = i
+                if best_break > 0:
+                    trimmed = joined[:best_break + 1]
+                else:
+                    # No punctuation break — back up to last complete word
+                    last_space = joined.rfind(' ', 20, len(joined) - 1)
+                    if last_space > 0:
+                        trimmed = joined[:last_space].rstrip()
+                    else:
+                        trimmed = joined
+                # Ensure we don't end mid-word — strip trailing partial words
+                while trimmed and not trimmed[-1].isspace() and trimmed[-1] not in '.!?;,)]\u201D\u2019\u0027: ' and len(trimmed) > 50:
+                    last_sp = trimmed.rfind(' ')
+                    if last_sp > 20:
+                        trimmed = trimmed[:last_sp].rstrip()
+                    else:
+                        break
+                # Re-wrap the trimmed text
+                first_lines = self._wrap_text(trimmed, 'SerifItalic', 8.5, first_line_w)
+                rest_text = trimmed[len(first_lines[0]):].strip() if first_lines else trimmed
+                cont_lines = self._wrap_text(rest_text, 'SerifItalic', 8.5, text_w)
+
+            # Draw
             if first_lines:
                 c.drawString(label_end, cur_y, first_lines[0])
-                rest_text = text[len(first_lines[0]):].strip()
-                cont_lines = self._wrap_text(rest_text, 'SerifItalic', 8.5, text_w)
                 for line in cont_lines:
                     if cur_y - 13 < stop_y:
                         break
