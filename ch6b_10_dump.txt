@@ -1,0 +1,1276 @@
+Bereshit 6:15|This is how you shall make it: the length of the ark shall be three hundred cubi
+  0|וְזֶ֕ה|this
+  1|אֲשֶׁ֥ר|which
+  2|תַּֽעֲשֶׂ֖ה|to do
+  3|אֹתָ֑הּ|you
+  4|שְׁלֹ֧שׁ|three
+  5|מֵא֣וֹת|hundreds
+  6|אַמָּ֗ה|cubit
+  7|אֹ֚רֶךְ|length
+  8|הַתֵּבָ֔ה|ark
+  9|חֲמִשִּׁ֤ים|fifty
+  10|אַמָּה֙|cubit
+  11|רׇחְבָּ֔הּ|broad
+  12|וּשְׁלֹשִׁ֥ים|thirty
+  13|אַמָּ֖ה|cubit
+  14|קוֹמָתָֽהּ|height
+Bereshit 6:16|Make an opening for daylight in the ark, and terminate it within a cubit of the 
+  0|צֹ֣הַר|צהר
+  1|תַּעֲשֶׂ֣ה|to do
+  2|לַתֵּבָ֗ה|ark
+  3|וְאֶל־אַמָּה֙|cubit
+  4|תְּכַלֶּ֣נָּה|to accomplish
+  5|מִלְמַ֔עְלָה|unfaithful
+  6|וּפֶ֥תַח|opening
+  7|הַתֵּבָ֖ה|ark
+  8|בְּצִדָּ֣הּ|side
+  9|תָּשִׂ֑ים|to put
+  10|תַּחְתִּיִּ֛ם|low
+  11|שְׁנִיִּ֥ם|years
+  12|וּשְׁלִשִׁ֖ים|thirty
+  13|תַּֽעֲשֶֽׂהָ|to do
+Bereshit 6:17|“For My part, I am about to bring the Flood—waters upon the earth—to destroy all
+  0|וַאֲנִ֗י|I
+  1|הִנְנִי֩|they
+  2|מֵבִ֨יא|to go in
+  3|אֶת־הַמַּבּ֥וּל|[d.o.]
+  4|מַ֙יִם֙|water
+  5|עַל־הָאָ֔רֶץ|upon·the·earth
+  6|לְשַׁחֵ֣ת|to destroy
+  7|כׇּל־בָּשָׂ֗ר|all·flesh
+  8|אֲשֶׁר־בּוֹ֙|(relative part
+  9|ר֣וּחַ|to smell
+  10|חַיִּ֔ים|חי
+  11|מִתַּ֖חַת|the under part
+  12|הַשָּׁמָ֑יִם|the·heavens
+  13|כֹּ֥ל|all
+  14|אֲשֶׁר־בָּאָ֖רֶץ|which·earth
+  15|יִגְוָֽע|to expire
+Bereshit 6:18|But I will establish My covenant with you, and you shall enter the ark, with you
+  0|וַהֲקִמֹתִ֥י|to rise
+  1|אֶת־בְּרִיתִ֖י|[d.o.]
+  2|אִתָּ֑ךְ|[d.o.]·you
+  3|וּבָאתָ֙|to go in
+  4|אֶל־הַתֵּבָ֔ה|to·ark
+  5|אַתָּ֕ה|you
+  6|וּבָנֶ֛יךָ|son
+  7|וְאִשְׁתְּךָ֥|offering
+  8|וּנְשֵֽׁי־בָנֶ֖יךָ|burnt-offering·son
+  9|אִתָּֽךְ|[d.o.]·you
+Bereshit 6:19|And of all that lives, of all flesh, you shall take two of each into the ark to 
+  0|וּמִכׇּל־הָ֠חַ֠י|all·adj
+  1|מִֽכׇּל־בָּשָׂ֞ר|all·flesh
+  2|שְׁנַ֧יִם|years
+  3|מִכֹּ֛ל|from·all
+  4|תָּבִ֥יא|to go in
+  5|אֶל־הַתֵּבָ֖ה|to·ark
+  6|לְהַחֲיֹ֣ת|to live
+  7|אִתָּ֑ךְ|[d.o.]·you
+  8|זָכָ֥ר|to remember
+  9|וּנְקֵבָ֖ה|female
+  10|יִֽהְיֽוּ|to be
+Bereshit 6:20|From birds of every kind, cattle of every kind, every kind of creeping thing on 
+  0|מֵהָע֣וֹף|birds
+  1|לְמִינֵ֗הוּ|kind
+  2|וּמִן־הַבְּהֵמָה֙|from·beast
+  3|לְמִינָ֔הּ|kind
+  4|מִכֹּ֛ל|from·all
+  5|רֶ֥מֶשׂ|creeping things
+  6|הָֽאֲדָמָ֖ה|ground
+  7|לְמִינֵ֑הוּ|kind
+  8|שְׁנַ֧יִם|years
+  9|מִכֹּ֛ל|from·all
+  10|יָבֹ֥אוּ|to go in
+  11|אֵלֶ֖יךָ|to·you
+  12|לְהַֽחֲיֽוֹת|to live
+Bereshit 6:21|For your part, take of everything that is eaten and store it away, to serve as f
+  0|וְאַתָּ֣ה|you
+  1|קַח־לְךָ֗|take·unto
+  2|מִכׇּל־מַֽאֲכָל֙|all·food
+  3|אֲשֶׁ֣ר|which
+  4|יֵֽאָכֵ֔ל|to eat
+  5|וְאָסַפְתָּ֖|to gather
+  6|אֵלֶ֑יךָ|to·you
+  7|וְהָיָ֥ה|and·it·shall·be
+  8|לְךָ֛|to·you
+  9|וְלָהֶ֖ם|abundance
+  10|לְאׇכְלָֽה|food
+Bereshit 6:22|Noah did so; just as God commanded him, so he did.
+  0|וַיַּ֖עַשׂ|and·made
+  1|נֹ֑חַ|Noah
+  2|כְּ֠כֹ֠ל|all
+  3|אֲשֶׁ֨ר|which
+  4|צִוָּ֥ה|to command
+  5|אֹת֛וֹ|[d.o.]·him
+  6|אֱלֹהִ֖ים|God
+  7|כֵּ֥ן|so
+  8|עָשָֽׂה|made
+Bereshit 7:1|Then GOD said to Noah, “Go into the ark, with all your household, for you alone 
+  0|וַיֹּ֤אמֶר|and·said
+  1|יְהֹוָה֙|YHWH
+  2|לְנֹ֔חַ|to·Noah
+  3|בֹּֽא־אַתָּ֥ה|to go in·you
+  4|וְכׇל־בֵּיתְךָ֖|all·nm
+  5|אֶל־הַתֵּבָ֑ה|to·ark
+  6|כִּֽי־אֹתְךָ֥|[d.o.]
+  7|רָאִ֛יתִי|to see
+  8|צַדִּ֥יק|just
+  9|לְפָנַ֖י|before
+  10|בַּדּ֥וֹר|period
+  11|הַזֶּֽה|this
+Bereshit 7:2|Of every pure animal you shall take seven pairs, male and female mates, and of e
+  0|מִכֹּ֣ל|from·all
+  1|הַבְּהֵמָ֣ה|beast
+  2|הַטְּהוֹרָ֗ה|pure
+  3|תִּֽקַּח־לְךָ֛|take·unto
+  4|שִׁבְעָ֥ה|seven
+  5|שִׁבְעָ֖ה|seven
+  6|אִ֣ישׁ|man
+  7|וְאִשְׁתּ֑וֹ|offering
+  8|וּמִן־הַבְּהֵמָ֡ה|from·beast
+  9|אֲ֠שֶׁ֠ר|which
+  10|לֹ֣א|not
+  11|טְהֹרָ֥ה|pure
+  12|הִ֛וא|he
+  13|שְׁנַ֖יִם|years
+  14|אִ֥ישׁ|man
+  15|וְאִשְׁתּֽוֹ|offering
+Bereshit 7:3|of the birds of the sky also, seven pairs, male and female, to keep seed alive u
+  0|גַּ֣ם|also
+  1|מֵע֧וֹף|birds
+  2|הַשָּׁמַ֛יִם|the·heavens
+  3|שִׁבְעָ֥ה|seven
+  4|שִׁבְעָ֖ה|seven
+  5|זָכָ֣ר|to remember
+  6|וּנְקֵבָ֑ה|female
+  7|לְחַיּ֥וֹת|to live
+  8|זֶ֖רַע|seed
+  9|עַל־פְּנֵ֥י|above·face
+  10|כׇל־הָאָֽרֶץ|all·the·earth
+Bereshit 7:4|For in seven days’ time I will make it rain upon the earth, forty days and forty
+  0|כִּי֩|because
+  1|לְיָמִ֨ים|day
+  2|ע֜וֹד|yet
+  3|שִׁבְעָ֗ה|seven
+  4|אָֽנֹכִי֙|I
+  5|מַמְטִ֣יר|to rain
+  6|עַל־הָאָ֔רֶץ|upon·the·earth
+  7|אַרְבָּעִ֣ים|forty
+  8|י֔וֹם|day
+  9|וְאַרְבָּעִ֖ים|forty
+  10|לָ֑יְלָה|night
+  11|וּמָחִ֗יתִי|to wipe
+  12|אֶֽת־כׇּל־הַיְקוּם֙|[d.o.]
+  13|אֲשֶׁ֣ר|which
+  14|עָשִׂ֔יתִי|to do
+  15|מֵעַ֖ל|above
+  16|פְּנֵ֥י|face
+  17|הָֽאֲדָמָֽה|ground
+Bereshit 7:5|And Noah did just as GOD commanded him.
+  0|וַיַּ֖עַשׂ|and·made
+  1|נֹ֑חַ|Noah
+  2|כְּכֹ֥ל|all
+  3|אֲשֶׁר־צִוָּ֖הוּ|which·to command
+  4|יְהֹוָֽה|YHWH
+Bereshit 7:6|Noah was six hundred years old when the Flood came, waters upon the earth.
+  0|וְנֹ֕חַ|Noah
+  1|בֶּן־שֵׁ֥שׁ|between·something·bleached
+  2|מֵא֖וֹת|hundreds
+  3|שָׁנָ֑ה|year
+  4|וְהַמַּבּ֣וּל|flood
+  5|הָיָ֔ה|was
+  6|מַ֖יִם|water
+  7|עַל־הָאָֽרֶץ|upon·the·earth
+Bereshit 7:7|Noah, with his sons, his wife, and his sons’ wives, went into the ark because of
+  0|וַיָּ֣בֹא|and·came
+  1|נֹ֗חַ|Noah
+  2|וּ֠בָנָ֠יו|son
+  3|וְאִשְׁתּ֧וֹ|offering
+  4|וּנְשֵֽׁי־בָנָ֛יו|burnt-offering·son
+  5|אִתּ֖וֹ|[d.o.]·him
+  6|אֶל־הַתֵּבָ֑ה|to·ark
+  7|מִפְּנֵ֖י|face
+  8|מֵ֥י|who?
+  9|הַמַּבּֽוּל|flood
+Bereshit 7:8|Of the pure animals, of the animals that are not pure, of the birds, and of ever
+  0|מִן־הַבְּהֵמָה֙|from·beast
+  1|הַטְּהוֹרָ֔ה|pure
+  2|וּמִ֨ן־הַבְּהֵמָ֔ה|from·beast
+  3|אֲשֶׁ֥ר|which
+  4|אֵינֶ֖נָּה|nothing
+  5|טְהֹרָ֑ה|pure
+  6|וּמִ֨ן־הָע֔וֹף|from·flying
+  7|וְכֹ֥ל|and·all
+  8|אֲשֶׁר־רֹמֵ֖שׂ|which·creeping
+  9|עַל־הָֽאֲדָמָֽה|above·ground
+Bereshit 7:9|two of each, male and female, came to Noah into the ark, as God had commanded No
+  0|שְׁנַ֨יִם|years
+  1|שְׁנַ֜יִם|years
+  2|בָּ֧אוּ|to go in
+  3|אֶל־נֹ֛חַ|to·Noah
+  4|אֶל־הַתֵּבָ֖ה|to·ark
+  5|זָכָ֣ר|to remember
+  6|וּנְקֵבָ֑ה|female
+  7|כַּֽאֲשֶׁ֛ר|as
+  8|צִוָּ֥ה|to command
+  9|אֱלֹהִ֖ים|God
+  10|אֶת־נֹֽחַ|Targ. Gen. II
+Bereshit 7:10|And on the seventh day the waters of the Flood came upon the earth.
+  0|וַיְהִ֖י|and·it·was
+  1|לְשִׁבְעַ֣ת|seven
+  2|הַיָּמִ֑ים|the·days
+  3|וּמֵ֣י|water
+  4|הַמַּבּ֔וּל|flood
+  5|הָי֖וּ|to be
+  6|עַל־הָאָֽרֶץ|upon·the·earth
+Bereshit 7:11|In the six hundredth year of Noah’s life, in the second month, on the seventeent
+  0|בִּשְׁנַ֨ת|sleep
+  1|שֵׁשׁ־מֵא֤וֹת|something·bleached·white
+  2|שָׁנָה֙|year
+  3|לְחַיֵּי־נֹ֔חַ|adj·Noah
+  4|בַּחֹ֙דֶשׁ֙|the new moon
+  5|הַשֵּׁנִ֔י|second
+  6|בְּשִׁבְעָֽה־עָשָׂ֥ר|seven·ten
+  7|י֖וֹם|day
+  8|לַחֹ֑דֶשׁ|the new moon
+  9|בַּיּ֣וֹם|on·the·day
+  10|הַזֶּ֗ה|this
+  11|נִבְקְעוּ֙|to split
+  12|כׇּֽל־מַעְיְנֹת֙|all·spring
+  13|תְּה֣וֹם|deep
+  14|רַבָּ֔ה|רב
+  15|וַאֲרֻבֹּ֥ת|lattice
+  16|הַשָּׁמַ֖יִם|the·heavens
+  17|נִפְתָּֽחוּ|to open
+Bereshit 7:12|(The rain fell on the earth forty days and forty nights.)
+  0|וַיְהִ֥י|and·it·was
+  1|הַגֶּ֖שֶׁם|rain
+  2|עַל־הָאָ֑רֶץ|upon·the·earth
+  3|אַרְבָּעִ֣ים|forty
+  4|י֔וֹם|day
+  5|וְאַרְבָּעִ֖ים|forty
+  6|לָֽיְלָה|night
+Bereshit 7:13|That same day Noah and Noah’s sons, Shem, Ham, and Japheth, went into the ark, w
+  0|בְּעֶ֨צֶם|bone
+  1|הַיּ֤וֹם|the·day
+  2|הַזֶּה֙|this
+  3|בָּ֣א|to go in
+  4|נֹ֔חַ|Noah
+  5|וְשֵׁם־וְחָ֥ם|name·heat
+  6|וָיֶ֖פֶת|Japheth
+  7|בְּנֵי־נֹ֑חַ|son·Noah
+  8|וְאֵ֣שֶׁת|offering
+  9|נֹ֗חַ|Noah
+  10|וּשְׁלֹ֧שֶׁת|three
+  11|נְשֵֽׁי־בָנָ֛יו|burnt-offering·son
+  12|אִתָּ֖ם|[d.o.]·them
+  13|אֶל־הַתֵּבָֽה|to·ark
+Bereshit 7:14|they and all beasts of every kind, all cattle of every kind, all creatures of ev
+  0|הֵ֜מָּה|abundance
+  1|וְכׇל־הַֽחַיָּ֣ה|all·adj
+  2|לְמִינָ֗הּ|kind
+  3|וְכׇל־הַבְּהֵמָה֙|all·beast
+  4|לְמִינָ֔הּ|kind
+  5|וְכׇל־הָרֶ֛מֶשׂ|all·to creep
+  6|הָרֹמֵ֥שׂ|to creep
+  7|עַל־הָאָ֖רֶץ|upon·the·earth
+  8|לְמִינֵ֑הוּ|kind
+  9|וְכׇל־הָע֣וֹף|all·birds
+  10|לְמִינֵ֔הוּ|kind
+  11|כֹּ֖ל|all
+  12|צִפּ֥וֹר|bird
+  13|כׇּל־כָּנָֽף|all·wing
+Bereshit 7:15|They came to Noah into the ark, two each of all flesh in which there was breath 
+  0|וַיָּבֹ֥אוּ|and·they·came
+  1|אֶל־נֹ֖חַ|to·Noah
+  2|אֶל־הַתֵּבָ֑ה|to·ark
+  3|שְׁנַ֤יִם|years
+  4|שְׁנַ֙יִם֙|years
+  5|מִכׇּל־הַבָּשָׂ֔ר|all·flesh
+  6|אֲשֶׁר־בּ֖וֹ|(relative part
+  7|ר֥וּחַ|to smell
+  8|חַיִּֽים|חי
+Bereshit 7:16|Thus they that entered comprised male and female of all flesh, as God had comman
+  0|וְהַבָּאִ֗ים|to go in
+  1|זָכָ֨ר|to remember
+  2|וּנְקֵבָ֤ה|female
+  3|מִכׇּל־בָּשָׂר֙|all·flesh
+  4|בָּ֔אוּ|to go in
+  5|כַּֽאֲשֶׁ֛ר|as
+  6|צִוָּ֥ה|to command
+  7|אֹת֖וֹ|[d.o.]·him
+  8|אֱלֹהִ֑ים|God
+  9|וַיִּסְגֹּ֥ר|and·shut
+  10|יְהֹוָ֖ה|YHWH
+  11|בַּֽעֲדֽוֹ|behind
+Bereshit 7:17|The Flood continued forty days on the earth, and the waters increased and raised
+  0|וַֽיְהִ֧י|and·it·was
+  1|הַמַּבּ֛וּל|flood
+  2|אַרְבָּעִ֥ים|forty
+  3|י֖וֹם|day
+  4|עַל־הָאָ֑רֶץ|upon·the·earth
+  5|וַיִּרְבּ֣וּ|be·great
+  6|הַמַּ֗יִם|the·waters
+  7|וַיִּשְׂאוּ֙|and·lifted
+  8|אֶת־הַתֵּבָ֔ה|[d.o.]
+  9|וַתָּ֖רׇם|and·rose
+  10|מֵעַ֥ל|above
+  11|הָאָֽרֶץ|the·earth
+Bereshit 7:18|The waters swelled and increased greatly upon the earth, and the ark drifted upo
+  0|וַיִּגְבְּר֥וּ|and·prevailed
+  1|הַמַּ֛יִם|the·waters
+  2|וַיִּרְבּ֥וּ|be·great
+  3|מְאֹ֖ד|very
+  4|עַל־הָאָ֑רֶץ|upon·the·earth
+  5|וַתֵּ֥לֶךְ|and·went
+  6|הַתֵּבָ֖ה|ark
+  7|עַל־פְּנֵ֥י|above·face
+  8|הַמָּֽיִם|the·waters
+Bereshit 7:19|When the waters had swelled much more upon the earth, all the highest mountains 
+  0|וְהַמַּ֗יִם|water
+  1|גָּ֥בְר֛וּ|to prevail
+  2|מְאֹ֥ד|very
+  3|מְאֹ֖ד|very
+  4|עַל־הָאָ֑רֶץ|upon·the·earth
+  5|וַיְכֻסּ֗וּ|and·covered
+  6|כׇּל־הֶֽהָרִים֙|all·hill
+  7|הַגְּבֹהִ֔ים|גבה
+  8|אֲשֶׁר־תַּ֖חַת|which·the·under
+  9|כׇּל־הַשָּׁמָֽיִם|all·heaven
+Bereshit 7:20|Fifteen cubits higher did the waters swell, as the mountains were covered.
+  0|חֲמֵ֨שׁ|five
+  1|עֶשְׂרֵ֤ה|ten
+  2|אַמָּה֙|cubit
+  3|מִלְמַ֔עְלָה|unfaithful
+  4|גָּבְר֖וּ|to prevail
+  5|הַמָּ֑יִם|the·waters
+  6|וַיְכֻסּ֖וּ|and·covered
+  7|הֶהָרִֽים|hill
+Bereshit 7:21|And all flesh that stirred on earth perished—birds, cattle, beasts, and all the 
+  0|וַיִּגְוַ֞ע|and·expired
+  1|כׇּל־בָּשָׂ֣ר|all·flesh
+  2|הָרֹמֵ֣שׂ|to creep
+  3|עַל־הָאָ֗רֶץ|upon·the·earth
+  4|בָּע֤וֹף|birds
+  5|וּבַבְּהֵמָה֙|beast
+  6|וּבַ֣חַיָּ֔ה|חי
+  7|וּבְכׇל־הַשֶּׁ֖רֶץ|all·to teem
+  8|הַשֹּׁרֵ֣ץ|to teem
+  9|עַל־הָאָ֑רֶץ|upon·the·earth
+  10|וְכֹ֖ל|and·all
+  11|הָאָדָֽם|the·man
+Bereshit 7:22|All in whose nostrils was the merest breath of life, all that was on dry land, d
+  0|כֹּ֡ל|all
+  1|אֲשֶׁר֩|which
+  2|נִשְׁמַת־ר֨וּחַ|breath·to smell
+  3|חַיִּ֜ים|חי
+  4|בְּאַפָּ֗יו|in·his·anger
+  5|מִכֹּ֛ל|from·all
+  6|אֲשֶׁ֥ר|which
+  7|בֶּחָֽרָבָ֖ה|dry land
+  8|מֵֽתוּ|to die
+Bereshit 7:23|All existence on earth was blotted out—humans, cattle, creeping things, and bird
+  0|וַיִּ֜מַח|and·wiped
+  1|אֶֽת־כׇּל־הַיְק֣וּם|[d.o.]
+  2|אֲשֶׁ֣ר|which
+  3|עַל־פְּנֵ֣י|above·face
+  4|הָֽאֲדָמָ֗ה|ground
+  5|מֵאָדָ֤ם|man
+  6|עַד־בְּהֵמָה֙|perpetuity·beast
+  7|עַד־רֶ֙מֶשׂ֙|perpetuity·creeping
+  8|וְעַד־ע֣וֹף|perpetuity·flying
+  9|הַשָּׁמַ֔יִם|the·heavens
+  10|וַיִּמָּח֖וּ|and·wiped
+  11|מִן־הָאָ֑רֶץ|from·earth
+  12|וַיִּשָּׁ֧אֶר|and·remain
+  13|אַךְ־נֹ֛חַ|indeed·Noah
+  14|וַֽאֲשֶׁ֥ר|which
+  15|אִתּ֖וֹ|[d.o.]·him
+  16|בַּתֵּבָֽה|ark
+Bereshit 7:24|And when the waters had swelled on the earth one hundred and fifty days,
+  0|וַיִּגְבְּר֥וּ|and·prevailed
+  1|הַמַּ֖יִם|the·waters
+  2|עַל־הָאָ֑רֶץ|upon·the·earth
+  3|חֲמִשִּׁ֥ים|fifty
+  4|וּמְאַ֖ת|hundred
+  5|יֽוֹם|day
+Bereshit 8:1|God remembered Noah and all the beasts and all the cattle that were with him in 
+  0|וַיִּזְכֹּ֤ר|and·remembered
+  1|אֱלֹהִים֙|God
+  2|אֶת־נֹ֔חַ|Targ. Gen. II
+  3|וְאֵ֤ת|and·[d.o.]
+  4|כׇּל־הַֽחַיָּה֙|all·adj
+  5|וְאֶת־כׇּל־הַבְּהֵמָ֔ה|[d.o.]
+  6|אֲשֶׁ֥ר|which
+  7|אִתּ֖וֹ|[d.o.]·him
+  8|בַּתֵּבָ֑ה|ark
+  9|וַיַּעֲבֵ֨ר|and·passed·over
+  10|אֱלֹהִ֥ים|God
+  11|ר֙וּחַ֙|to smell
+  12|עַל־הָאָ֔רֶץ|upon·the·earth
+  13|וַיָּשֹׁ֖כּוּ|and·subside
+  14|הַמָּֽיִם|the·waters
+Bereshit 8:2|The fountains of the deep and the floodgates of the sky were stopped up, and the
+  0|וַיִּסָּֽכְרוּ֙|and·shut up
+  1|מַעְיְנֹ֣ת|spring
+  2|תְּה֔וֹם|deep
+  3|וַֽאֲרֻבֹּ֖ת|lattice
+  4|הַשָּׁמָ֑יִם|the·heavens
+  5|וַיִּכָּלֵ֥א|and·restrict
+  6|הַגֶּ֖שֶׁם|rain
+  7|מִן־הַשָּׁמָֽיִם|from·heaven
+Bereshit 8:3|the waters then receded steadily from the earth. At the end of one hundred and f
+  0|וַיָּשֻׁ֧בוּ|and·returned
+  1|הַמַּ֛יִם|the·waters
+  2|מֵעַ֥ל|above
+  3|הָאָ֖רֶץ|the·earth
+  4|הָל֣וֹךְ|going
+  5|וָשׁ֑וֹב|to return
+  6|וַיַּחְסְר֣וּ|and·lack
+  7|הַמַּ֔יִם|the·waters
+  8|מִקְצֵ֕ה|end
+  9|חֲמִשִּׁ֥ים|fifty
+  10|וּמְאַ֖ת|hundred
+  11|יֽוֹם|day
+Bereshit 8:4|so that in the seventh month, on the seventeenth day of the month, the ark came 
+  0|וַתָּ֤נַח|and·rested
+  1|הַתֵּבָה֙|ark
+  2|בַּחֹ֣דֶשׁ|the new moon
+  3|הַשְּׁבִיעִ֔י|seventh
+  4|בְּשִׁבְעָה־עָשָׂ֥ר|seven·ten
+  5|י֖וֹם|day
+  6|לַחֹ֑דֶשׁ|the new moon
+  7|עַ֖ל|upon
+  8|הָרֵ֥י|hill
+  9|אֲרָרָֽט|Ararat
+Bereshit 8:5|The waters went on diminishing until the tenth month; in the tenth month, on the
+  0|וְהַמַּ֗יִם|water
+  1|הָיוּ֙|to be
+  2|הָל֣וֹךְ|going
+  3|וְחָס֔וֹר|to lack
+  4|עַ֖ד|until
+  5|הַחֹ֣דֶשׁ|the new moon
+  6|הָֽעֲשִׂירִ֑י|ordinal number
+  7|בָּֽעֲשִׂירִי֙|ordinal number
+  8|בְּאֶחָ֣ד|one
+  9|לַחֹ֔דֶשׁ|the new moon
+  10|נִרְא֖וּ|to see
+  11|רָאשֵׁ֥י|head
+  12|הֶֽהָרִֽים|hill
+Bereshit 8:6|At the end of forty days, Noah opened the window of the ark that he had made
+  0|וַיְהִ֕י|and·it·was
+  1|מִקֵּ֖ץ|end
+  2|אַרְבָּעִ֣ים|forty
+  3|י֑וֹם|day
+  4|וַיִּפְתַּ֣ח|and·opened
+  5|נֹ֔חַ|Noah
+  6|אֶת־חַלּ֥|to perforate
+  7|וֹן|refuge
+  8|הַתֵּבָ֖ה|ark
+  9|אֲשֶׁ֥ר|which
+  10|עָשָֽׂה|made
+Bereshit 8:7|and sent out the raven; it went to and fro until the waters had dried up from th
+  0|וַיְשַׁלַּ֖ח|and·sent
+  1|אֶת־הָֽעֹרֵ֑ב|[d.o.]
+  2|וַיֵּצֵ֤א|and·went·out
+  3|יָצוֹא֙|to go out
+  4|וָשׁ֔וֹב|to return
+  5|עַד־יְבֹ֥שֶׁת|perpetuity·to·make
+  6|הַמַּ֖יִם|the·waters
+  7|מֵעַ֥ל|above
+  8|הָאָֽרֶץ|the·earth
+Bereshit 8:8|Then he sent out the dove to see whether the waters had decreased from the surfa
+  0|וַיְשַׁלַּ֥ח|and·sent
+  1|אֶת־הַיּוֹנָ֖ה|[d.o.]
+  2|מֵאִתּ֑וֹ|[d.o.]
+  3|לִרְאוֹת֙|to see
+  4|הֲקַ֣לּ|voice
+  5|וּ|and
+  6|הַמַּ֔יִם|the·waters
+  7|מֵעַ֖ל|above
+  8|פְּנֵ֥י|face
+  9|הָֽאֲדָמָֽה|ground
+Bereshit 8:9|But the dove could not find a resting place for its foot, and returned to him to
+  0|וְלֹֽא־מָצְאָה֩|not·to find
+  1|הַיּוֹנָ֨ה|dove
+  2|מָנ֜וֹחַ|resting place
+  3|לְכַף־רַגְלָ֗הּ|palm·foot
+  4|וַתָּ֤שׇׁב|and·dwelt
+  5|אֵלָיו֙|to·him
+  6|אֶל־הַתֵּבָ֔ה|to·ark
+  7|כִּי־מַ֖יִם|day
+  8|עַל־פְּנֵ֣י|above·face
+  9|כׇל־הָאָ֑רֶץ|all·the·earth
+  10|וַיִּשְׁלַ֤ח|and·sent
+  11|יָדוֹ֙|his·hand
+  12|וַיִּקָּחֶ֔הָ|and·took
+  13|וַיָּבֵ֥א|and·came
+  14|אֹתָ֛הּ|you
+  15|אֵלָ֖יו|to·him
+  16|אֶל־הַתֵּבָֽה|to·ark
+Bereshit 8:10|He waited another seven days, and again sent out the dove from the ark.
+  0|וַיָּ֣חֶל|and·began
+  1|ע֔וֹד|yet
+  2|שִׁבְעַ֥ת|seven
+  3|יָמִ֖ים|days
+  4|אֲחֵרִ֑ים|another
+  5|וַיֹּ֛סֶף|and·added
+  6|שַׁלַּ֥ח|to send
+  7|אֶת־הַיּוֹנָ֖ה|[d.o.]
+  8|מִן־הַתֵּבָֽה|from·ark
+Bereshit 8:11|The dove came back to him toward evening, and there in its bill was a plucked-of
+  0|וַתָּבֹ֨א|and·brought
+  1|אֵלָ֤יו|to·him
+  2|הַיּוֹנָה֙|dove
+  3|לְעֵ֣ת|time
+  4|עֶ֔רֶב|evening
+  5|וְהִנֵּ֥ה|and·behold
+  6|עֲלֵה־זַ֖יִת|to go up·name
+  7|טָרָ֣ף|to tear
+  8|בְּפִ֑יהָ|peh
+  9|וַיֵּ֣דַע|and·knew
+  10|נֹ֔חַ|Noah
+  11|כִּי־קַ֥לּ|because·lightness
+  12|וּ|and
+  13|הַמַּ֖יִם|the·waters
+  14|מֵעַ֥ל|above
+  15|הָאָֽרֶץ|the·earth
+Bereshit 8:12|He waited still another seven days and sent the dove forth; and it did not retur
+  0|וַיִּיָּ֣חֶל|and·wait
+  1|ע֔וֹד|yet
+  2|שִׁבְעַ֥ת|seven
+  3|יָמִ֖ים|days
+  4|אֲחֵרִ֑ים|another
+  5|וַיְשַׁלַּח֙|and·sent
+  6|אֶת־הַיּוֹנָ֔ה|[d.o.]
+  7|וְלֹֽא־יָסְפָ֥ה|not·to add
+  8|שׁוּב־אֵלָ֖יו|to return·ram
+  9|עֽוֹד|yet
+Bereshit 8:13|In the six hundred and first year, in the first month, on the first of the month
+  0|וַ֠יְהִ֠י|and·it·was
+  1|בְּאַחַ֨ת|one
+  2|וְשֵׁשׁ־מֵא֜וֹת|something·bleached·white
+  3|שָׁנָ֗ה|year
+  4|בָּֽרִאשׁוֹן֙|unknown
+  5|בְּאֶחָ֣ד|one
+  6|לַחֹ֔דֶשׁ|the new moon
+  7|חָֽרְב֥וּ|to be waste
+  8|הַמַּ֖יִם|the·waters
+  9|מֵעַ֣ל|above
+  10|הָאָ֑רֶץ|the·earth
+  11|וַיָּ֤סַר|and·turned
+  12|נֹ֙חַ֙|Noah
+  13|אֶת־מִכְסֵ֣ה|[d.o.]
+  14|הַתֵּבָ֔ה|ark
+  15|וַיַּ֕רְא|and·saw
+  16|וְהִנֵּ֥ה|and·behold
+  17|חָֽרְב֖וּ|to be waste
+  18|פְּנֵ֥י|face
+  19|הָֽאֲדָמָֽה|ground
+Bereshit 8:14|And in the second month, on the twenty-seventh day of the month, the earth was d
+  0|וּבַחֹ֙דֶשׁ֙|the new moon
+  1|הַשֵּׁנִ֔י|second
+  2|בְּשִׁבְעָ֧ה|seven
+  3|וְעֶשְׂרִ֛ים|twenty
+  4|י֖וֹם|day
+  5|לַחֹ֑דֶשׁ|the new moon
+  6|יָבְשָׁ֖ה|to make dry
+  7|הָאָֽרֶץ|the·earth
+Bereshit 8:15|God spoke to Noah, saying,
+  0|וַיְדַבֵּ֥ר|and·spoke
+  1|אֱלֹהִ֖ים|God
+  2|אֶל־נֹ֥חַ|to·Noah
+  3|לֵאמֹֽר|saying
+Bereshit 8:16|“Come out of the ark, together with your wife, your sons, and your sons’ wives.
+  0|צֵ֖א|to go out
+  1|מִן־הַתֵּבָ֑ה|from·ark
+  2|אַתָּ֕ה|you
+  3|וְאִשְׁתְּךָ֛|offering
+  4|וּבָנֶ֥יךָ|son
+  5|וּנְשֵֽׁי־בָנֶ֖יךָ|burnt-offering·son
+  6|אִתָּֽךְ|[d.o.]·you
+Bereshit 8:17|Bring out with you every living thing of all flesh that is with you: birds, anim
+  0|כׇּל־הַחַיָּ֨ה|all·adj
+  1|אֲשֶֽׁר־אִתְּךָ֜|[d.o.]
+  2|מִכׇּל־בָּשָׂ֗ר|all·flesh
+  3|בָּע֧וֹף|birds
+  4|וּבַבְּהֵמָ֛ה|beast
+  5|וּבְכׇל־הָרֶ֛מֶשׂ|all·to creep
+  6|הָרֹמֵ֥שׂ|to creep
+  7|עַל־הָאָ֖רֶץ|upon·the·earth
+  8|(הוצא)|bring·out
+  9|הַיְצֵ֣א|will·go·out
+  10|אִתָּ֑ךְ|[d.o.]·you
+  11|וְשָֽׁרְצ֣וּ|to teem
+  12|בָאָ֔רֶץ|in·the·land
+  13|וּפָר֥וּ|be·fruitful
+  14|וְרָב֖וּ|be·great
+  15|עַל־הָאָֽרֶץ|upon·the·earth
+Bereshit 8:18|So Noah came out, together with his sons, his wife, and his sons’ wives.
+  0|וַיֵּ֖צֵא־נֹ֑חַ|David
+  1|וּבָנָ֛יו|son
+  2|וְאִשְׁתּ֥וֹ|offering
+  3|וּנְשֵֽׁי־בָנָ֖יו|burnt-offering·son
+  4|אִתּֽוֹ|[d.o.]·him
+Bereshit 8:19|Every animal, every creeping thing, and every bird, everything that stirs on ear
+  0|כׇּל־הַֽחַיָּ֗ה|all·adj
+  1|כׇּל־הָרֶ֙מֶשׂ֙|all·to creep
+  2|וְכׇל־הָע֔וֹף|all·birds
+  3|כֹּ֖ל|all
+  4|רוֹמֵ֣שׂ|to creep
+  5|עַל־הָאָ֑רֶץ|upon·the·earth
+  6|לְמִשְׁפְּחֹ֣תֵיהֶ֔ם|clan
+  7|יָצְא֖וּ|to go out
+  8|מִן־הַתֵּבָֽה|from·ark
+Bereshit 8:20|Then Noah built an altar to GOD and, taking of every pure animal and of every pu
+  0|וַיִּ֥בֶן|and·built
+  1|נֹ֛חַ|Noah
+  2|מִזְבֵּ֖חַ|altar
+  3|לַֽיהֹוָ֑ה|YHWH
+  4|וַיִּקַּ֞ח|and·took
+  5|מִכֹּ֣ל|from·all
+  6|הַבְּהֵמָ֣ה|beast
+  7|הַטְּהֹרָ֗ה|pure
+  8|וּמִכֹּל֙|all
+  9|הָע֣וֹף|birds
+  10|הַטָּה֔וֹר|pure
+  11|וַיַּ֥עַל|and·went·up
+  12|עֹלֹ֖ת|to go up
+  13|בַּמִּזְבֵּֽחַ|altar
+Bereshit 8:21|GOD smelled the pleasing odor, and GOD resolved: “Never again will I doom the ea
+  0|וַיָּ֣רַח|and·smelled
+  1|יְהֹוָה֮|YHWH
+  2|אֶת־רֵ֣יחַ|[d.o.]
+  3|הַנִּיחֹ֒חַ֒|soothing
+  4|וַיֹּ֨אמֶר|and·said
+  5|יְהֹוָ֜ה|YHWH
+  6|אֶל־לִבּ֗וֹ|to·inner man
+  7|לֹֽא־אֹ֠סִ֠ף|not·to gather
+  8|לְקַלֵּ֨ל|to be slight
+  9|ע֤וֹד|yet
+  10|אֶת־הָֽאֲדָמָה֙|[d.o.]
+  11|בַּעֲב֣וּר|to
+  12|הָֽאָדָ֔ם|the·man
+  13|כִּ֠י|because
+  14|יֵ֣צֶר|to bind
+  15|לֵ֧ב|heart
+  16|הָאָדָ֛ם|the·man
+  17|רַ֖ע|רע
+  18|מִנְּעֻרָ֑יו|youth
+  19|וְלֹֽא־אֹסִ֥ף|not·to gather
+  20|ע֛וֹד|yet
+  21|לְהַכּ֥וֹת|to strike
+  22|אֶת־כׇּל־חַ֖י|[d.o.]
+  23|כַּֽאֲשֶׁ֥ר|as
+  24|עָשִֽׂיתִי|to do
+Bereshit 8:22|So long as the earth endures,Seedtime and harvest,Cold and heat,Summer and winte
+  0|עֹ֖ד|until
+  1|כׇּל־יְמֵ֣י|all·day
+  2|הָאָ֑רֶץ|the·earth
+  3|זֶ֡רַע|seed
+  4|וְ֠קָצִ֠יר|harvest
+  5|וְקֹ֨ר|cold
+  6|וָחֹ֜ם|heat
+  7|וְקַ֧יִץ|summer
+  8|וָחֹ֛רֶף|harvest time
+  9|וְי֥וֹם|day
+  10|וָלַ֖יְלָה|night
+  11|לֹ֥א|not
+  12|יִשְׁבֹּֽתוּ|to cease
+Bereshit 9:1|God blessed Noah and his sons, and said to them, “Be fertile and increase, and f
+  0|וַיְבָ֣רֶךְ|and·blessed
+  1|אֱלֹהִ֔ים|God
+  2|אֶת־נֹ֖חַ|Targ. Gen. II
+  3|וְאֶת־בָּנָ֑יו|[d.o.]
+  4|וַיֹּ֧אמֶר|and·said
+  5|לָהֶ֛ם|to·them
+  6|פְּר֥וּ|be·fruitful
+  7|וּרְב֖וּ|be·great
+  8|וּמִלְא֥וּ|to fill
+  9|אֶת־הָאָֽרֶץ|[d.o.]
+Bereshit 9:2|The fear and the dread of you shall be upon all the animals of the earth and upo
+  0|וּמוֹרַאֲכֶ֤ם|fear
+  1|וְחִתְּכֶם֙|fear
+  2|יִֽהְיֶ֔ה|to be
+  3|עַ֚ל|upon
+  4|כׇּל־חַיַּ֣ת|all·adj
+  5|הָאָ֔רֶץ|the·earth
+  6|וְעַ֖ל|to give suck
+  7|כׇּל־ע֣וֹף|all·birds
+  8|הַשָּׁמָ֑יִם|the·heavens
+  9|בְּכֹל֩|in·all
+  10|אֲשֶׁ֨ר|which
+  11|תִּרְמֹ֧שׂ|to creep
+  12|הָֽאֲדָמָ֛ה|ground
+  13|וּֽבְכׇל־דְּגֵ֥י|all·fish
+  14|הַיָּ֖ם|sea
+  15|בְּיֶדְכֶ֥ם|hand
+  16|נִתָּֽנוּ|to give
+Bereshit 9:3|Every creature that lives shall be yours to eat; as with the green grasses, I gi
+  0|כׇּל־רֶ֙מֶשׂ֙|all·creeping
+  1|אֲשֶׁ֣ר|which
+  2|הוּא־חַ֔י|you·adj
+  3|לָכֶ֥ם|to·you
+  4|יִהְיֶ֖ה|to be
+  5|לְאׇכְלָ֑ה|food
+  6|כְּיֶ֣רֶק|green
+  7|עֵ֔שֶׂב|herb
+  8|נָתַ֥תִּי|to give
+  9|לָכֶ֖ם|to·you
+  10|אֶת־כֹּֽל|Perf
+Bereshit 9:4|You must not, however, eat flesh with its life-blood in it.
+  0|אַךְ־בָּשָׂ֕ר|indeed·flesh
+  1|בְּנַפְשׁ֥וֹ|soul
+  2|דָמ֖וֹ|blood
+  3|לֹ֥א|not
+  4|תֹאכֵֽל|to eat
+  5|וּ|and
+Bereshit 9:5|But for your own life-blood I will require a reckoning: I will require it of eve
+  0|וְאַ֨ךְ|indeed
+  1|אֶת־דִּמְכֶ֤ם|[d.o.]
+  2|לְנַפְשֹֽׁתֵיכֶם֙|soul
+  3|אֶדְרֹ֔שׁ|to resort to
+  4|מִיַּ֥ד|hand
+  5|כׇּל־חַיָּ֖ה|all·adj
+  6|אֶדְרְשֶׁ֑נּוּ|to resort to
+  7|וּמִיַּ֣ד|hand
+  8|הָֽאָדָ֗ם|the·man
+  9|מִיַּד֙|hand
+  10|אִ֣ישׁ|man
+  11|אָחִ֔יו|his·brother
+  12|אֶדְרֹ֖שׁ|to resort to
+  13|אֶת־נֶ֥פֶשׁ|[d.o.]
+  14|הָֽאָדָֽם|the·man
+Bereshit 9:6|Whoever sheds human blood,By human [hands] shall their blood be shed;For in the 
+  0|שֹׁפֵךְ֙|to pour
+  1|דַּ֣ם|blood
+  2|הָֽאָדָ֔ם|the·man
+  3|בָּֽאָדָ֖ם|man
+  4|דָּמ֣וֹ|blood
+  5|יִשָּׁפֵ֑ךְ|to pour
+  6|כִּ֚י|because
+  7|בְּצֶ֣לֶם|image
+  8|אֱלֹהִ֔ים|God
+  9|עָשָׂ֖ה|made
+  10|אֶת־הָאָדָֽם|[d.o.]
+Bereshit 9:7|Be fertile, then, and increase; abound on the earth and increase on it.”
+  0|וְאַתֶּ֖ם|you
+  1|פְּר֣וּ|be·fruitful
+  2|וּרְב֑וּ|be·great
+  3|שִׁרְצ֥וּ|to teem
+  4|בָאָ֖רֶץ|in·the·land
+  5|וּרְבוּ־בָֽהּ|be
+Bereshit 9:8|And God said to Noah and to his sons with him,
+  0|וַיֹּ֤אמֶר|and·said
+  1|אֱלֹהִים֙|God
+  2|אֶל־נֹ֔חַ|to·Noah
+  3|וְאֶל־בָּנָ֥יו|to·son
+  4|אִתּ֖וֹ|[d.o.]·him
+  5|לֵאמֹֽר|saying
+Bereshit 9:9|“I now establish My covenant with you and your offspring to come,
+  0|וַאֲנִ֕י|I
+  1|הִנְנִ֥י|they
+  2|מֵקִ֛ים|to rise
+  3|אֶת־בְּרִיתִ֖י|[d.o.]
+  4|אִתְּכֶ֑ם|[d.o.]·you
+  5|וְאֶֽת־זַרְעֲכֶ֖ם|[d.o.]
+  6|אַֽחֲרֵיכֶֽם|after
+Bereshit 9:10|and with every living thing that is with you—birds, cattle, and every wild beast
+  0|וְאֵ֨ת|and·[d.o.]
+  1|כׇּל־נֶ֤פֶשׁ|all·soul
+  2|הַֽחַיָּה֙|חי
+  3|אֲשֶׁ֣ר|which
+  4|אִתְּכֶ֔ם|[d.o.]·you
+  5|בָּע֧וֹף|birds
+  6|בַּבְּהֵמָ֛ה|beast
+  7|וּֽבְכׇל־חַיַּ֥ת|all·adj
+  8|הָאָ֖רֶץ|the·earth
+  9|אִתְּכֶ֑ם|[d.o.]·you
+  10|מִכֹּל֙|from·all
+  11|יֹצְאֵ֣י|to go out
+  12|הַתֵּבָ֔ה|ark
+  13|לְכֹ֖ל|to·all
+  14|חַיַּ֥ת|חי
+  15|הָאָֽרֶץ|the·earth
+Bereshit 9:11|I will maintain My covenant with you: never again shall all flesh be cut off by 
+  0|וַהֲקִמֹתִ֤י|to rise
+  1|אֶת־בְּרִיתִי֙|[d.o.]
+  2|אִתְּכֶ֔ם|[d.o.]·you
+  3|וְלֹֽא־יִכָּרֵ֧ת|not·to cut
+  4|כׇּל־בָּשָׂ֛ר|all·flesh
+  5|ע֖וֹד|yet
+  6|מִמֵּ֣י|water
+  7|הַמַּבּ֑וּל|flood
+  8|וְלֹֽא־יִהְיֶ֥ה|not·to be
+  9|ע֛וֹד|yet
+  10|מַבּ֖וּל|flood
+  11|לְשַׁחֵ֥ת|to destroy
+  12|הָאָֽרֶץ|the·earth
+Bereshit 9:12|God further said, “This is the sign that I set for the covenant between Me and y
+  0|וַיֹּ֣אמֶר|and·said
+  1|אֱלֹהִ֗ים|God
+  2|זֹ֤את|this
+  3|אֽוֹת־הַבְּרִית֙|sign·covenant
+  4|אֲשֶׁר־אֲנִ֣י|which·I
+  5|נֹתֵ֗ן|to give
+  6|בֵּינִי֙|between
+  7|וּבֵ֣ינֵיכֶ֔ם|between
+  8|וּבֵ֛ין|and·between
+  9|כׇּל־נֶ֥פֶשׁ|all·soul
+  10|חַיָּ֖ה|חי
+  11|אֲשֶׁ֣ר|which
+  12|אִתְּכֶ֑ם|[d.o.]·you
+  13|לְדֹרֹ֖ת|period
+  14|עוֹלָֽם|long duration
+Bereshit 9:13|I have set My bow in the clouds, and it shall serve as a sign of the covenant be
+  0|אֶת־קַשְׁתִּ֕י|[d.o.]
+  1|נָתַ֖תִּי|to give
+  2|בֶּֽעָנָ֑ן|cloud
+  3|וְהָֽיְתָה֙|to be
+  4|לְא֣וֹת|sign
+  5|בְּרִ֔ית|covenant
+  6|בֵּינִ֖י|between
+  7|וּבֵ֥ין|and·between
+  8|הָאָֽרֶץ|the·earth
+Bereshit 9:14|When I bring clouds over the earth, and the bow appears in the clouds,
+  0|וְהָיָ֕ה|and·it·shall·be
+  1|בְּעַֽנְנִ֥י|to make appear
+  2|עָנָ֖ן|cloud
+  3|עַל־הָאָ֑רֶץ|upon·the·earth
+  4|וְנִרְאֲתָ֥ה|and·saw
+  5|הַקֶּ֖שֶׁת|bow
+  6|בֶּעָנָֽן|cloud
+Bereshit 9:15|I will remember My covenant between Me and you and every living creature among a
+  0|וְזָכַרְתִּ֣י|to remember
+  1|אֶת־בְּרִיתִ֗י|[d.o.]
+  2|אֲשֶׁ֤ר|which
+  3|בֵּינִי֙|between
+  4|וּבֵ֣ינֵיכֶ֔ם|between
+  5|וּבֵ֛ין|and·between
+  6|כׇּל־נֶ֥פֶשׁ|all·soul
+  7|חַיָּ֖ה|חי
+  8|בְּכׇל־בָּשָׂ֑ר|all·flesh
+  9|וְלֹֽא־יִֽהְיֶ֨ה|not·to be
+  10|ע֤וֹד|yet
+  11|הַמַּ֙יִם֙|the·waters
+  12|לְמַבּ֔וּל|flood
+  13|לְשַׁחֵ֖ת|to destroy
+  14|כׇּל־בָּשָֽׂר|all·flesh
+Bereshit 9:16|When the bow is in the clouds, I will see it and remember the everlasting covena
+  0|וְהָיְתָ֥ה|to be
+  1|הַקֶּ֖שֶׁת|bow
+  2|בֶּֽעָנָ֑ן|cloud
+  3|וּרְאִיתִ֗יהָ|to see
+  4|לִזְכֹּר֙|to remember
+  5|בְּרִ֣ית|covenant
+  6|עוֹלָ֔ם|long duration
+  7|בֵּ֣ין|between
+  8|אֱלֹהִ֔ים|God
+  9|וּבֵין֙|and·between
+  10|כׇּל־נֶ֣פֶשׁ|all·soul
+  11|חַיָּ֔ה|חי
+  12|בְּכׇל־בָּשָׂ֖ר|all·flesh
+  13|אֲשֶׁ֥ר|which
+  14|עַל־הָאָֽרֶץ|upon·the·earth
+Bereshit 9:17|That,” God said to Noah, “shall be the sign of the covenant that I have establis
+  0|וַיֹּ֥אמֶר|and·said
+  1|אֱלֹהִ֖ים|God
+  2|אֶל־נֹ֑חַ|to·Noah
+  3|זֹ֤את|this
+  4|אֽוֹת־הַבְּרִית֙|sign·covenant
+  5|אֲשֶׁ֣ר|which
+  6|הֲקִמֹ֔תִי|to rise
+  7|בֵּינִ֕י|between
+  8|וּבֵ֥ין|and·between
+  9|כׇּל־בָּשָׂ֖ר|all·flesh
+  10|אֲשֶׁ֥ר|which
+  11|עַל־הָאָֽרֶץ|upon·the·earth
+Bereshit 9:18|The sons of Noah who came out of the ark were Shem, Ham, and Japheth—Ham being t
+  0|וַיִּֽהְי֣וּ|and·were
+  1|בְנֵי־נֹ֗חַ|son·Noah
+  2|הַיֹּֽצְאִים֙|to go out
+  3|מִן־הַתֵּבָ֔ה|from·ark
+  4|שֵׁ֖ם|Shem
+  5|וְחָ֣ם|heat
+  6|וָיָ֑פֶת|Japheth
+  7|וְחָ֕ם|heat
+  8|ה֖וּא|he
+  9|אֲבִ֥י|father·of
+  10|כְנָֽעַן|Canaan
+Bereshit 9:19|These three were the sons of Noah, and from these the whole world branched out.
+  0|שְׁלֹשָׁ֥ה|three
+  1|אֵ֖לֶּה|these
+  2|בְּנֵי־נֹ֑חַ|son·Noah
+  3|וּמֵאֵ֖לֶּה|these
+  4|נָֽפְצָ֥ה|to shatter
+  5|כׇל־הָאָֽרֶץ|all·the·earth
+Bereshit 9:20|Noah, the tiller of the soil, was the first to plant a vineyard.
+  0|וַיָּ֥חֶל|and·began
+  1|נֹ֖חַ|Noah
+  2|אִ֣ישׁ|man
+  3|הָֽאֲדָמָ֑ה|ground
+  4|וַיִּטַּ֖ע|and·planted
+  5|כָּֽרֶם|vineyard
+Bereshit 9:21|He drank of the wine and became drunk, and he uncovered himself within his tent.
+  0|וַיֵּ֥שְׁתְּ|and·drank
+  1|מִן־הַיַּ֖יִן|from·wine
+  2|וַיִּשְׁכָּ֑ר|and·became·drunk
+  3|וַיִּתְגַּ֖ל|and·uncovered
+  4|בְּת֥וֹךְ|midst
+  5|אׇהֳלֹֽה|tent
+Bereshit 9:22|Ham, the father of Canaan, saw his father’s nakedness and told his two brothers 
+  0|וַיַּ֗רְא|and·saw
+  1|חָ֚ם|father-in-law
+  2|אֲבִ֣י|father·of
+  3|כְנַ֔עַן|Canaan
+  4|אֵ֖ת|[d.o.]
+  5|עֶרְוַ֣ת|nakedness
+  6|אָבִ֑יו|his·father
+  7|וַיַּגֵּ֥ד|and·told
+  8|לִשְׁנֵֽי־אֶחָ֖יו|two·brother
+  9|בַּחֽוּץ|the outside
+Bereshit 9:23|But Shem and Japheth took a cloth, placed it against both their backs and, walki
+  0|וַיִּקַּח֩|and·took
+  1|שֵׁ֨ם|Shem
+  2|וָיֶ֜פֶת|Japheth
+  3|אֶת־הַשִּׂמְלָ֗ה|[d.o.]
+  4|וַיָּשִׂ֙ימוּ֙|and·put
+  5|עַל־שְׁכֶ֣ם|above·shoulder
+  6|שְׁנֵיהֶ֔ם|two
+  7|וַיֵּֽלְכוּ֙|and·they·went
+  8|אֲחֹ֣רַנִּ֔ית|backwards
+  9|וַיְכַסּ֕וּ|and·covered
+  10|אֵ֖ת|[d.o.]
+  11|עֶרְוַ֣ת|nakedness
+  12|אֲבִיהֶ֑ם|father
+  13|וּפְנֵיהֶם֙|face
+  14|אֲחֹ֣רַנִּ֔ית|backwards
+  15|וְעֶרְוַ֥ת|nakedness
+  16|אֲבִיהֶ֖ם|father
+  17|לֹ֥א|not
+  18|רָאֽוּ|to see
+Bereshit 9:24|When Noah woke up from his wine and learned what his youngest son had done to hi
+  0|וַיִּ֥יקֶץ|and·awoke
+  1|נֹ֖חַ|Noah
+  2|מִיֵּינ֑וֹ|wine
+  3|וַיֵּ֕דַע|and·knew
+  4|אֵ֛ת|[d.o.]
+  5|אֲשֶׁר־עָ֥שָׂה|which·to do
+  6|ל֖וֹ|
+  7|בְּנ֥וֹ|his·son
+  8|הַקָּטָֽן|young
+Bereshit 9:25|he said,“Cursed be Canaan;The lowest of slavesShall he be to his brothers.”
+  0|וַיֹּ֖אמֶר|and·said
+  1|אָר֣וּר|to curse
+  2|כְּנָ֑עַן|Canaan
+  3|עֶ֥בֶד|servant
+  4|עֲבָדִ֖ים|slave
+  5|יִֽהְיֶ֥ה|to be
+  6|לְאֶחָֽיו|brother
+Bereshit 9:26|And he said,“Blessed be the ETERNAL,The God of Shem;Let Canaan be a slave to the
+  0|וַיֹּ֕אמֶר|and·said
+  1|בָּר֥וּךְ|Baruch
+  2|יְהֹוָ֖ה|YHWH
+  3|אֱלֹ֣הֵי|God·of
+  4|שֵׁ֑ם|Shem
+  5|וִיהִ֥י|and·it·was
+  6|כְנַ֖עַן|Canaan
+  7|עֶ֥בֶד|servant
+  8|לָֽמוֹ|at
+Bereshit 9:27|May God enlarge, play on Heb. yepheth “Japheth.” Japheth,And let him dwell in th
+  0|יַ֤פְתְּ|to be spacious
+  1|אֱלֹהִים֙|God
+  2|לְיֶ֔פֶת|Japheth
+  3|וְיִשְׁכֹּ֖ן|and·settled
+  4|בְּאׇֽהֳלֵי־שֵׁ֑ם|tent·there
+  5|וִיהִ֥י|and·it·was
+  6|כְנַ֖עַן|Canaan
+  7|עֶ֥בֶד|servant
+  8|לָֽמוֹ|at
+Bereshit 9:28|Noah lived after the Flood 350 years.
+  0|וַֽיְחִי־נֹ֖חַ|and·live·Noah
+  1|אַחַ֣ר|another
+  2|הַמַּבּ֑וּל|flood
+  3|שְׁלֹ֤שׁ|three
+  4|מֵאוֹת֙|hundreds
+  5|שָׁנָ֔ה|year
+  6|וַֽחֲמִשִּׁ֖ים|fifty
+  7|שָׁנָֽה|year
+Bereshit 9:29|And all the days of Noah came to 950 years; then he died.
+  0|וַיִּֽהְיוּ֙|and·were
+  1|כׇּל־יְמֵי־נֹ֔חַ|all·day·Noah
+  2|תְּשַׁ֤ע|nine
+  3|מֵאוֹת֙|hundreds
+  4|שָׁנָ֔ה|year
+  5|וַחֲמִשִּׁ֖ים|fifty
+  6|שָׁנָ֑ה|year
+  7|וַיָּמֹֽת|and·died
+Bereshit 10:1|These are the lines of Shem, Ham, and Japheth, the sons of Noah: sons were born 
+  0|וְאֵ֙לֶּה֙|and·these
+  1|תּוֹלְדֹ֣ת|descendants
+  2|בְּנֵי־נֹ֔חַ|son·Noah
+  3|שֵׁ֖ם|Shem
+  4|חָ֣ם|father-in-law
+  5|וָיָ֑פֶת|Japheth
+  6|וַיִּוָּלְד֥וּ|and·bore
+  7|לָהֶ֛ם|to·them
+  8|בָּנִ֖ים|sons
+  9|אַחַ֥ר|another
+  10|הַמַּבּֽוּל|flood
+Bereshit 10:2|The descendants of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tira
+  0|בְּנֵ֣י|sons·of
+  1|יֶ֔פֶת|to be spacious
+  2|גֹּ֣מֶר|Gomer
+  3|וּמָג֔וֹג|Magog
+  4|וּמָדַ֖י|Media
+  5|וְיָוָ֣ן|Javan
+  6|וְתֻבָ֑ל|Tubal
+  7|וּמֶ֖שֶׁךְ|a drawing
+  8|וְתִירָֽס|Tiras
+Bereshit 10:3|The descendants of Gomer: Ashkenaz, Riphath, and Togarmah.
+  0|וּבְנֵ֖י|and·sons·of
+  1|גֹּ֑מֶר|Gomer
+  2|אַשְׁכְּנַ֥ז|Ashkenaz·—·eldest
+  3|וְרִיפַ֖ת|Riphath
+  4|וְתֹגַרְמָֽה|Togarmah
+Bereshit 10:4|The descendants of Javan: Elishah and Tarshish, the Kittim and the Dodanim.
+  0|וּבְנֵ֥י|and·sons·of
+  1|יָוָ֖ן|Javan
+  2|אֱלִישָׁ֣ה|Elishah
+  3|וְתַרְשִׁ֑ישׁ|a precious stone
+  4|כִּתִּ֖ים|Chittim
+  5|וְדֹדָנִֽים|Dodanim
+Bereshit 10:5|From these the maritime nations branched out. [These are the descendants of Japh
+  0|מֵ֠אֵ֠לֶּה|these
+  1|נִפְרְד֞וּ|to separate
+  2|אִיֵּ֤י|not
+  3|הַגּוֹיִם֙|גוי
+  4|בְּאַרְצֹתָ֔ם|land
+  5|אִ֖ישׁ|man
+  6|לִלְשֹׁנ֑וֹ|tongue
+  7|לְמִשְׁפְּחֹתָ֖ם|clan
+  8|בְּגוֹיֵהֶֽם|גוי
+Bereshit 10:6|The descendants of Ham: Cush, Mizraim, Put, and Canaan.
+  0|וּבְנֵ֖י|and·sons·of
+  1|חָ֑ם|father-in-law
+  2|כּ֥וּשׁ|Cush
+  3|וּמִצְרַ֖יִם|Egyptian
+  4|וּפ֥וּט|Phut or Put
+  5|וּכְנָֽעַן|Canaan
+Bereshit 10:7|The descendants of Cush: Seba, Havilah, Sabtah, Raamah, and Sabteca. The descend
+  0|וּבְנֵ֣י|and·sons·of
+  1|כ֔וּשׁ|Cush
+  2|סְבָא֙|Seba
+  3|וַֽחֲוִילָ֔ה|Havilah
+  4|וְסַבְתָּ֥ה|Sabta or Sabtah
+  5|וְרַעְמָ֖ה|vibration
+  6|וְסַבְתְּכָ֑א|Sabtecha
+  7|וּבְנֵ֥י|and·sons·of
+  8|רַעְמָ֖ה|vibration
+  9|שְׁבָ֥א|Sheba
+  10|וּדְדָֽן|Dedan
+Bereshit 10:8|Cush also begot Nimrod, who was the first of the earth’s heroes.
+  0|וְכ֖וּשׁ|Cush
+  1|יָלַ֣ד|to bear
+  2|אֶת־נִמְרֹ֑ד|[d.o.]
+  3|ה֣וּא|he
+  4|הֵחֵ֔ל|to profane
+  5|לִֽהְי֥וֹת|to be
+  6|גִּבֹּ֖ר|גבור
+  7|בָּאָֽרֶץ|in·the·land
+Bereshit 10:9|He was a mighty hunter by the grace of GOD; hence the saying, “Like Nimrod a mig
+  0|הֽוּא־הָיָ֥ה|you·to be
+  1|גִבֹּֽר־צַ֖יִד|adj·hunting
+  2|לִפְנֵ֣י|before
+  3|יְהֹוָ֑ה|YHWH
+  4|עַל־כֵּן֙|above·adv
+  5|יֵֽאָמַ֔ר|to say
+  6|כְּנִמְרֹ֛ד|Nimrod
+  7|גִּבּ֥וֹר|גבור
+  8|צַ֖יִד|hunting
+  9|לִפְנֵ֥י|before
+  10|יְהֹוָֽה|YHWH
+Bereshit 10:10|The mainstays of his kingdom were Babylon, Erech, Accad, and Calneh, better voca
+  0|וַתְּהִ֨י|and·was
+  1|רֵאשִׁ֤ית|first
+  2|מַמְלַכְתּוֹ֙|kingdom
+  3|בָּבֶ֔ל|Babel
+  4|וְאֶ֖רֶךְ|Erech
+  5|וְאַכַּ֣ד|Accad
+  6|וְכַלְנֵ֑ה|Calneh or Calno
+  7|בְּאֶ֖רֶץ|in·the·land
+  8|שִׁנְעָֽר|Shinar
+Bereshit 10:11|From that land Asshur went forth and built Nineveh, Rehoboth-ir, Calah,
+  0|מִן־הָאָ֥רֶץ|from·earth
+  1|הַהִ֖וא|that
+  2|יָצָ֣א|to go out
+  3|אַשּׁ֑וּר|Assyria
+  4|וַיִּ֙בֶן֙|and·built
+  5|אֶת־נִ֣ינְוֵ֔ה|[d.o.]
+  6|וְאֶת־רְחֹבֹ֥ת|[d.o.]
+  7|עִ֖יר|city
+  8|וְאֶת־כָּֽלַח|[d.o.]
+Bereshit 10:12|and Resen between Nineveh and Calah, that is the great city.
+  0|וְֽאֶת־רֶ֔סֶן|[d.o.]
+  1|בֵּ֥ין|between
+  2|נִֽינְוֵ֖ה|Nineveh
+  3|וּבֵ֣ין|and·between
+  4|כָּ֑לַח|full strength
+  5|הִ֖וא|he
+  6|הָעִ֥יר|excitement
+  7|הַגְּדֹלָֽה|גדול
+Bereshit 10:13|And Mizraim begot the Ludim, the Anamim, the Lehabim, the Naphtuhim,
+  0|וּמִצְרַ֡יִם|Egyptian
+  1|יָלַ֞ד|to bear
+  2|אֶת־ל|[d.o.]
+  3|וּדִ֧ים|and·Dodanim
+  4|וְאֶת־עֲנָמִ֛ים|[d.o.]
+  5|וְאֶת־לְהָבִ֖ים|[d.o.]
+  6|וְאֶת־נַפְתֻּחִֽים|[d.o.]
+Bereshit 10:14|the Pathrusim, the Casluhim (from whom the Philistines came), and the Caphtorim.
+  0|וְֽאֶת־פַּתְרֻסִ֞ים|[d.o.]
+  1|וְאֶת־כַּסְלֻחִ֗ים|[d.o.]
+  2|אֲשֶׁ֨ר|which
+  3|יָצְא֥וּ|to go out
+  4|מִשָּׁ֛ם|there
+  5|פְּלִשְׁתִּ֖ים|Philistines
+  6|וְאֶת־כַּפְתֹּרִֽים|[d.o.]
+Bereshit 10:15|Canaan begot Sidon, his first-born, and Heth;
+  0|וּכְנַ֗עַן|Canaan
+  1|יָלַ֛ד|to bear
+  2|אֶת־צִידֹ֥ן|[d.o.]
+  3|בְּכֹר֖וֹ|firstborn
+  4|וְאֶת־חֵֽת|[d.o.]
+Bereshit 10:16|and the Jebusites, the Amorites, the Girgashites,
+  0|וְאֶת־הַיְבוּסִי֙|[d.o.]
+  1|וְאֶת־הָ֣אֱמֹרִ֔י|[d.o.]
+  2|וְאֵ֖ת|and·[d.o.]
+  3|הַגִּרְגָּשִֽׁי|Girgashite
+Bereshit 10:17|the Hivites, the Arkites, the Sinites,
+  0|וְאֶת־הַֽחִוִּ֥י|[d.o.]
+  1|וְאֶת־הַֽעַרְקִ֖י|[d.o.]
+  2|וְאֶת־הַסִּינִֽי|[d.o.]
+Bereshit 10:18|the Arvadites, the Zemarites, and the Hamathites. Afterward the clans of the Can
+  0|וְאֶת־הָֽאַרְוָדִ֥י|[d.o.]
+  1|וְאֶת־הַצְּמָרִ֖י|[d.o.]
+  2|וְאֶת־הַֽחֲמָתִ֑י|[d.o.]
+  3|וְאַחַ֣ר|after
+  4|נָפֹ֔צוּ|to scatter
+  5|מִשְׁפְּח֖וֹת|clan
+  6|הַֽכְּנַעֲנִֽי|Canaanite
+Bereshit 10:19|(The [original] Canaanite territory extended from Sidon as far as Gerar, near Ga
+  0|וַיְהִ֞י|and·it·was
+  1|גְּב֤וּל|border
+  2|הַֽכְּנַעֲנִי֙|Canaanite
+  3|מִצִּידֹ֔ן|Sidon
+  4|בֹּאֲכָ֥ה|to go in
+  5|גְרָ֖רָה|Gerar
+  6|עַד־עַזָּ֑ה|perpetuity·strong
+  7|בֹּאֲכָ֞ה|to go in
+  8|סְדֹ֧מָה|Sodom
+  9|וַעֲמֹרָ֛ה|Gomorrah
+  10|וְאַדְמָ֥ה|Admah
+  11|וּצְבֹיִ֖ם|Zeboim
+  12|עַד־לָֽשַׁע|perpetuity·Lasha
+Bereshit 10:20|These are the descendants of Ham, according to their clans and languages, by the
+  0|אֵ֣לֶּה|these
+  1|בְנֵי־חָ֔ם|son·father-in-law
+  2|לְמִשְׁפְּחֹתָ֖ם|clan
+  3|לִלְשֹֽׁנֹתָ֑ם|tongue
+  4|בְּאַרְצֹתָ֖ם|land
+  5|בְּגוֹיֵהֶֽם|גוי
+Bereshit 10:21|Sons were also born to Shem, ancestor of all the descendants of Eber and older b
+  0|וּלְשֵׁ֥ם|name
+  1|יֻלַּ֖ד|to bear
+  2|גַּם־ה֑וּא|also·he
+  3|אֲבִי֙|father·of
+  4|כׇּל־בְּנֵי־עֵ֔בֶר|all·son·to pass over
+  5|אֲחִ֖י|brother·of
+  6|יֶ֥פֶת|to be spacious
+  7|הַגָּדֽוֹל|גדול
+Bereshit 10:22|The descendants of Shem: Elam, Asshur, Arpachshad, Lud, and Aram.
+  0|בְּנֵ֥י|sons·of
+  1|שֵׁ֖ם|Shem
+  2|עֵילָ֣ם|Elam
+  3|וְאַשּׁ֑וּר|Assyria
+  4|וְאַרְפַּכְשַׁ֖ד|Arphaxad
+  5|וְל֥וּד|and·Lud
+  6|וַֽאֲרָֽם|Aram
+Bereshit 10:23|The descendants of Aram: Uz, Hul, Gether, and Mash.
+  0|וּבְנֵ֖י|and·sons·of
+  1|אֲרָ֑ם|Aram
+  2|ע֥וּץ|to counsel
+  3|וְח֖וּל|to twist
+  4|וְגֶ֥תֶר|Gether
+  5|וָמַֽשׁ|to feel
+Bereshit 10:24|Arpachshad begot Shelah, and Shelah begot Eber.
+  0|וְאַרְפַּכְשַׁ֖ד|Arphaxad
+  1|יָלַ֣ד|to bear
+  2|אֶת־שָׁ֑לַח|[d.o.]
+  3|וְשֶׁ֖לַח|weapon
+  4|יָלַ֥ד|to bear
+  5|אֶת־עֵֽבֶר|[d.o.]
+Bereshit 10:25|Two sons were born to Eber: the name of the first was Peleg, for in his days the
+  0|וּלְעֵ֥בֶר|Eber or Heber
+  1|יֻלַּ֖ד|to bear
+  2|שְׁנֵ֣י|two
+  3|בָנִ֑ים|sons
+  4|שֵׁ֣ם|Shem
+  5|הָֽאֶחָ֞ד|one
+  6|פֶּ֗לֶג|channel
+  7|כִּ֤י|because
+  8|בְיָמָיו֙|day
+  9|נִפְלְגָ֣ה|to divide
+  10|הָאָ֔רֶץ|the·earth
+  11|וְשֵׁ֥ם|name
+  12|אָחִ֖יו|his·brother
+  13|יׇקְטָֽן|Joktan
+Bereshit 10:26|Joktan begot Almodad, Sheleph, Hazarmaveth, Jerah,
+  0|וְיׇקְטָ֣ן|Joktan
+  1|יָלַ֔ד|to bear
+  2|אֶת־אַלְמוֹדָ֖ד|[d.o.]
+  3|וְאֶת־שָׁ֑לֶף|[d.o.]
+  4|וְאֶת־חֲצַרְמָ֖וֶת|[d.o.]
+  5|וְאֶת־יָֽרַח|[d.o.]
+Bereshit 10:27|Hadoram, Uzal, Diklah,
+  0|וְאֶת־הֲדוֹרָ֥ם|[d.o.]
+  1|וְאֶת־אוּזָ֖ל|[d.o.]
+  2|וְאֶת־דִּקְלָֽה|[d.o.]
+Bereshit 10:28|Obal, Abimael, Sheba,
+  0|וְאֶת־עוֹבָ֥ל|[d.o.]
+  1|וְאֶת־אֲבִֽימָאֵ֖ל|[d.o.]
+  2|וְאֶת־שְׁבָֽא|[d.o.]
+Bereshit 10:29|Ophir, Havilah, and Jobab; all these were the descendants of Joktan.
+  0|וְאֶת־אוֹפִ֥ר|[d.o.]
+  1|וְאֶת־חֲוִילָ֖ה|[d.o.]
+  2|וְאֶת־יוֹבָ֑ב|[d.o.]
+  3|כׇּל־אֵ֖לֶּה|all·these
+  4|בְּנֵ֥י|sons·of
+  5|יׇקְטָֽן|Joktan
+Bereshit 10:30|Their settlements extended from Mesha as far as Sephar, the hill country to the 
+  0|וַיְהִ֥י|and·it·was
+  1|מוֹשָׁבָ֖ם|seat
+  2|מִמֵּשָׁ֑א|Mesha
+  3|בֹּאֲכָ֥ה|to go in
+  4|סְפָ֖רָה|census
+  5|הַ֥ר|hill
+  6|הַקֶּֽדֶם|east
+Bereshit 10:31|These are the descendants of Shem according to their clans and languages, by the
+  0|אֵ֣לֶּה|these
+  1|בְנֵי־שֵׁ֔ם|son·there
+  2|לְמִשְׁפְּחֹתָ֖ם|clan
+  3|לִלְשֹׁנֹתָ֑ם|tongue
+  4|בְּאַרְצֹתָ֖ם|land
+  5|לְגוֹיֵהֶֽם|גוי
+Bereshit 10:32|These are the groupings of Noah’s descendants, according to their origins, by th
+  0|אֵ֣לֶּה|these
+  1|מִשְׁפְּחֹ֧ת|clan
+  2|בְּנֵי־נֹ֛חַ|son·Noah
+  3|לְתוֹלְדֹתָ֖ם|descendants
+  4|בְּגוֹיֵהֶ֑ם|גוי
+  5|וּמֵאֵ֜לֶּה|these
+  6|נִפְרְד֧וּ|to separate
+  7|הַגּוֹיִ֛ם|גוי
+  8|בָּאָ֖רֶץ|in·the·land
+  9|אַחַ֥ר|another
+  10|הַמַּבּֽוּל|flood

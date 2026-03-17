@@ -280,18 +280,15 @@ class PDFBuilder:
         self._draw_gematria_chart(y)
 
         # --- Bottom section ---
-        # Forum Press logo
-        logo_path = FONT_DIR / "fp_logo.jpg"
+        # Forum Press logo (PNG with transparency — includes "THE FORUM PRESS" text)
+        logo_path = FONT_DIR / "fp_logo.png"
+        if not logo_path.exists():
+            logo_path = FONT_DIR / "fp_logo.jpg"
         if logo_path.exists():
-            logo_w = 60
-            logo_h = 60
-            c.drawImage(str(logo_path), PAGE_W / 2 - logo_w / 2, MARGIN_B + 72,
+            logo_w = 80
+            logo_h = 80
+            c.drawImage(str(logo_path), PAGE_W / 2 - logo_w / 2, MARGIN_B + 48,
                         width=logo_w, height=logo_h, preserveAspectRatio=True, mask='auto')
-
-        # Publisher
-        c.setFont('SerifBold', 10)
-        c.setFillColor(INK)
-        c.drawCentredString(PAGE_W / 2, MARGIN_B + 56, "The Forum Press")
 
         # Book design credit
         c.setFont('SerifItalic', 8.5)
