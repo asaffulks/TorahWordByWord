@@ -426,11 +426,10 @@ def clean_hebrew_text(text):
     text = text.replace('[', '').replace(']', '')
     # Remove zero-width / invisible Unicode characters that merge words
     text = re.sub(r'[\u200B-\u200F\uFEFF\u034F]', '', text)
-    # Fix specific case: consecutive Hebrew words merged (consonant + vowels + consonant
-    # without space). Insert space before vav-conjunctive prefix after a word-final letter.
-    # Pattern: letter + nikud/cantillation + letter that starts a new word (vav prefix)
-    # This catches cases like יִשְׂרָאֵלוַיִּהְיוּ -> יִשְׂרָאֵל וַיִּהְיוּ
-    text = re.sub(r'(\u05DC)([\u0591-\u05AF\u05B0-\u05C7]*)(\u05D5[\u05B7\u05B0-\u05C7])', r'\1\2 \3', text)
+    # Fix specific case: Gen 35:22 where יִשְׂרָאֵלוַיִּהְיוּ is merged
+    # Only split when there's NO vowel between the consonants (indicating truly merged words)
+    # Do NOT split words like לוֹט (Lot) where ל+וֹ is part of one word
+    # Removed the aggressive regex that was breaking Lot and other words
     # Collapse multiple spaces
     text = re.sub(r'\s+', ' ', text).strip()
     return text
