@@ -1,0 +1,564 @@
+#!/usr/bin/env python3
+"""Build parasha_data.json with rich content for each of the 12 Genesis parashot title pages."""
+
+import sys
+sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+
+import json
+import math
+from collections import Counter
+
+# Load genesis data
+with open('genesis_v3.json', 'r', encoding='utf-8') as f:
+    genesis = json.load(f)
+
+# Parasha definitions: name, start (ch, v), end (ch, v)
+PARASHOT = [
+    ("Bereshit",      (1, 1),  (6, 8)),
+    ("Noach",         (6, 9),  (11, 32)),
+    ("Lech Lecha",    (12, 1), (17, 27)),
+    ("Vayera",        (18, 1), (22, 24)),
+    ("Chayei Sarah",  (23, 1), (25, 18)),
+    ("Toldot",        (25, 19),(28, 9)),
+    ("Vayetze",       (28, 10),(32, 3)),
+    ("Vayishlach",    (32, 4), (36, 43)),
+    ("Vayeshev",      (37, 1), (40, 23)),
+    ("Miketz",        (41, 1), (44, 17)),
+    ("Vayigash",      (44, 18),(47, 27)),
+    ("Vayechi",       (47, 28),(50, 26)),
+]
+
+# Rich content for each parasha
+CONTENT = {
+    "Bereshit": {
+        "thematic_summary": (
+            "Bereshit opens with God creating the universe in six days and resting on the seventh, "
+            "establishing the foundational rhythm of Shabbat. The narrative moves from cosmic origins to the "
+            "intimate drama of Adam and Eve in the Garden of Eden, their disobedience, and expulsion. "
+            "Cain murders his brother Abel, and the genealogy from Adam to Noah traces ten generations "
+            "of increasing corruption, setting the stage for divine judgment."
+        ),
+        "key_figures": [
+            {"name": "God", "role": "Creator of heaven and earth, who speaks the world into being"},
+            {"name": "Adam", "role": "First human, formed from the dust, placed in the Garden of Eden"},
+            {"name": "Eve (Chavah)", "role": "First woman, formed from Adam's side, mother of all living"},
+            {"name": "Cain", "role": "Firstborn son of Adam and Eve, murders his brother Abel"},
+            {"name": "Abel (Hevel)", "role": "Second son of Adam and Eve, shepherd whose offering God accepts"},
+            {"name": "Enoch (Chanoch)", "role": "Descendant of Adam who walked with God and was taken by God"},
+        ],
+        "notable_firsts": [
+            "First mention of light (1:3)",
+            "First Shabbat — God rests on the seventh day (2:2-3)",
+            "First marriage — 'a man shall leave his father and mother and cling to his wife' (2:24)",
+            "First sin — eating from the Tree of Knowledge (3:6)",
+            "First divine judgment on humanity (3:14-19)",
+            "First murder — Cain kills Abel (4:8)",
+            "First city — built by Cain, named Enoch (4:17)",
+        ],
+        "famous_verses": [
+            {"ref": "1:1", "text": "In the beginning God created the heavens and the earth."},
+            {"ref": "1:3", "text": "And God said, 'Let there be light'; and there was light."},
+            {"ref": "1:27", "text": "And God created man in His image, in the image of God He created him; male and female He created them."},
+        ],
+        "haftarah": {
+            "ref": "Isaiah 42:5-43:10",
+            "connection": "Isaiah echoes the Creation theme, praising God as the One who created the heavens and stretched them out, who spread forth the earth and its offspring."
+        },
+    },
+    "Noach": {
+        "thematic_summary": (
+            "God sees that human wickedness has filled the earth and resolves to bring a great flood, "
+            "sparing only the righteous Noah, his family, and pairs of every living creature aboard an ark. "
+            "After the waters recede, God establishes a covenant with Noah, setting the rainbow as its sign "
+            "and promising never again to destroy the earth by flood. The parasha concludes with the Tower of "
+            "Babel, where humanity's hubris leads God to scatter the nations and confuse their languages, "
+            "and with the genealogy leading to Abram."
+        ),
+        "key_figures": [
+            {"name": "Noah", "role": "Righteous man in his generation, builds the ark, saved from the flood"},
+            {"name": "Shem", "role": "Son of Noah, ancestor of the Semitic peoples and of Abraham"},
+            {"name": "Ham", "role": "Son of Noah, father of Canaan, sees his father's nakedness"},
+            {"name": "Japheth (Yefet)", "role": "Son of Noah, covers his father's nakedness with Shem"},
+            {"name": "Nimrod", "role": "Mighty hunter, associated with Babel and the founding of kingdoms"},
+        ],
+        "notable_firsts": [
+            "First covenant between God and humanity — the Noahide covenant (9:8-17)",
+            "First rainbow as a sign of covenant (9:13)",
+            "First vineyard — Noah plants a vineyard after the flood (9:20)",
+            "First intoxication recorded in the Torah (9:21)",
+            "First curse on a grandson — Noah curses Canaan (9:25)",
+            "First scattering of nations and confusion of languages at Babel (11:7-9)",
+        ],
+        "famous_verses": [
+            {"ref": "6:9", "text": "Noah was a righteous man, blameless in his generation; Noah walked with God."},
+            {"ref": "9:13", "text": "I have set My bow in the cloud, and it shall be a sign of the covenant between Me and the earth."},
+        ],
+        "haftarah": {
+            "ref": "Isaiah 54:1-55:5",
+            "connection": "Isaiah refers explicitly to 'the waters of Noah,' comparing God's promise never to flood the earth again to His enduring covenant of peace with Israel."
+        },
+    },
+    "Lech Lecha": {
+        "thematic_summary": (
+            "God calls Abram to leave his homeland and journey to a land that God will show him, "
+            "promising to make him a great nation. Abram travels through Canaan, sojourns in Egypt during "
+            "a famine, parts ways with his nephew Lot, and rescues Lot from captivity by four kings. "
+            "God makes a covenant with Abram — the Covenant Between the Parts — foretelling the Egyptian "
+            "bondage and redemption. The parasha concludes with the institution of circumcision as the "
+            "sign of the covenant, and with Abram and Sarai receiving their new names, Abraham and Sarah."
+        ),
+        "key_figures": [
+            {"name": "Abram/Abraham", "role": "Called by God to leave Haran, patriarch of the covenant"},
+            {"name": "Sarai/Sarah", "role": "Abram's wife, taken to Pharaoh's house, later promised a son"},
+            {"name": "Lot", "role": "Abram's nephew, separates from him and settles near Sodom"},
+            {"name": "Hagar", "role": "Sarai's Egyptian handmaid, bears Ishmael to Abram"},
+            {"name": "Ishmael", "role": "Son of Abram and Hagar, circumcised at age thirteen"},
+            {"name": "Melchizedek", "role": "King of Salem and priest of God Most High, blesses Abram"},
+        ],
+        "notable_firsts": [
+            "First divine call to an individual — 'Lech lecha,' go forth (12:1)",
+            "First mention of the Land of Israel as a divine promise (12:7)",
+            "First mention of faith — 'And he believed in the LORD, and He counted it to him as righteousness' (15:6)",
+            "First prophecy of the Egyptian bondage and Exodus (15:13-14)",
+            "First circumcision as a sign of covenant (17:10-11)",
+            "First name change by God — Abram to Abraham, Sarai to Sarah (17:5, 17:15)",
+        ],
+        "famous_verses": [
+            {"ref": "12:1", "text": "And the LORD said to Abram, 'Go forth from your land, your birthplace, and your father's house, to the land that I will show you.'"},
+            {"ref": "15:6", "text": "And he believed in the LORD, and He counted it to him as righteousness."},
+            {"ref": "17:7", "text": "I will establish My covenant between Me and you and your offspring after you, throughout their generations, as an everlasting covenant."},
+        ],
+        "haftarah": {
+            "ref": "Isaiah 40:27-41:16",
+            "connection": "Isaiah reassures Israel not to fear, recalling Abraham who trusted God's call, just as Abram had faith when God called him to journey to an unknown land."
+        },
+    },
+    "Vayera": {
+        "thematic_summary": (
+            "Three angelic visitors appear to Abraham at Mamre, announcing that Sarah will bear a son "
+            "within a year — she laughs in disbelief. Abraham pleads with God to spare Sodom, but the city's "
+            "wickedness proves irredeemable and it is destroyed; only Lot and his daughters escape. "
+            "Isaac is born, Hagar and Ishmael are sent away, and the parasha reaches its dramatic climax "
+            "with the Akedah — God's command to Abraham to offer Isaac as a sacrifice on Mount Moriah, "
+            "the supreme test of faith."
+        ),
+        "key_figures": [
+            {"name": "Abraham", "role": "Host to the angels, intercessor for Sodom, tested at the Akedah"},
+            {"name": "Sarah", "role": "Laughs at the promise, gives birth to Isaac, sends away Hagar"},
+            {"name": "Isaac (Yitzchak)", "role": "Promised son, born to Sarah, bound on the altar at Moriah"},
+            {"name": "Lot", "role": "Abraham's nephew, rescued from the destruction of Sodom"},
+            {"name": "Hagar", "role": "Sent away with Ishmael, saved by an angel at the well"},
+            {"name": "Ishmael", "role": "Abraham's son by Hagar, sent away but promised to become a great nation"},
+        ],
+        "notable_firsts": [
+            "First laughter in the Torah — Sarah laughs at the promise of a child (18:12)",
+            "First intercessory prayer — Abraham bargains with God for Sodom (18:23-32)",
+            "First destruction of cities by divine fire — Sodom and Gomorrah (19:24-25)",
+            "First recorded birth to a woman past childbearing age — Isaac (21:2)",
+            "First binding of a person for sacrifice — the Akedah (22:1-19)",
+        ],
+        "famous_verses": [
+            {"ref": "18:14", "text": "Is anything too wondrous for the LORD? At the set time I will return to you, and Sarah shall have a son."},
+            {"ref": "18:25", "text": "Shall not the Judge of all the earth do justly?"},
+            {"ref": "22:2", "text": "Take now your son, your only son, whom you love — Isaac — and go to the land of Moriah, and offer him there as a burnt offering."},
+        ],
+        "haftarah": {
+            "ref": "II Kings 4:1-37",
+            "connection": "The Haftarah parallels Sarah's story: Elisha promises the Shunammite woman a son despite her disbelief, echoing the miraculous birth announced to the aged Sarah."
+        },
+    },
+    "Chayei Sarah": {
+        "thematic_summary": (
+            "Sarah dies at the age of 127, and Abraham purchases the Cave of Machpelah in Hebron as a "
+            "burial site — the first purchase of land in the Land of Israel. Abraham then sends his servant "
+            "Eliezer to find a wife for Isaac from among his kinsmen in Aram-Naharaim. Through a providential "
+            "encounter at the well, Rebekah is chosen and returns to marry Isaac. The parasha concludes with "
+            "Abraham's remarriage to Keturah, his death, and the genealogy of Ishmael."
+        ),
+        "key_figures": [
+            {"name": "Sarah", "role": "Dies at age 127, buried in the Cave of Machpelah"},
+            {"name": "Abraham", "role": "Purchases burial land, sends servant to find Isaac a wife, dies at 175"},
+            {"name": "Eliezer", "role": "Abraham's servant, undertakes the mission to find a wife for Isaac"},
+            {"name": "Rebekah (Rivkah)", "role": "Chosen at the well for her kindness, becomes Isaac's wife"},
+            {"name": "Isaac", "role": "Comforted by Rebekah after his mother's death"},
+            {"name": "Ephron the Hittite", "role": "Sells the Cave of Machpelah to Abraham"},
+        ],
+        "notable_firsts": [
+            "First purchase of land in the Land of Israel — the Cave of Machpelah (23:16-18)",
+            "First detailed matchmaking narrative — the search for Rebekah (24:1-67)",
+            "First prayer for a sign — Eliezer's test at the well (24:12-14)",
+            "First mourning and eulogy recorded — Abraham mourns Sarah (23:2)",
+        ],
+        "famous_verses": [
+            {"ref": "23:1", "text": "And the life of Sarah was a hundred and seven and twenty years; these were the years of the life of Sarah."},
+            {"ref": "24:67", "text": "And Isaac brought her into the tent of his mother Sarah, and he took Rebekah, and she became his wife, and he loved her; and Isaac was comforted after his mother."},
+        ],
+        "haftarah": {
+            "ref": "I Kings 1:1-31",
+            "connection": "The Haftarah parallels Abraham's old age: King David, like Abraham, is aged and must secure the succession, ensuring Solomon inherits the throne as Abraham ensured Isaac's legacy."
+        },
+    },
+    "Toldot": {
+        "thematic_summary": (
+            "Rebekah, barren for twenty years, conceives twins after Isaac's prayer. Esau and Jacob struggle "
+            "in the womb, and their rivalry defines the parasha: Esau sells his birthright for lentil stew, "
+            "and Jacob, guided by Rebekah, obtains Isaac's blessing through deception. Isaac re-digs his "
+            "father's wells and makes a covenant with Abimelech at Beer-sheba. Esau's marriage to Hittite "
+            "women grieves his parents, and Jacob is sent away to find a wife among Rebekah's family."
+        ),
+        "key_figures": [
+            {"name": "Isaac (Yitzchak)", "role": "Patriarch who prays for Rebekah, deceived into blessing Jacob"},
+            {"name": "Rebekah (Rivkah)", "role": "Mother of the twins, orchestrates Jacob's receipt of the blessing"},
+            {"name": "Jacob (Yaakov)", "role": "Younger twin, acquires the birthright and the paternal blessing"},
+            {"name": "Esau (Esav)", "role": "Elder twin, sells his birthright, loses his father's blessing"},
+            {"name": "Abimelech", "role": "Philistine king who makes a covenant with Isaac"},
+        ],
+        "notable_firsts": [
+            "First twins in the Torah — Jacob and Esau (25:24-26)",
+            "First recorded sale of a birthright (25:33)",
+            "First deception of a parent by a child for a blessing (27:18-29)",
+            "First mention of Isaac praying for his barren wife (25:21)",
+        ],
+        "famous_verses": [
+            {"ref": "25:27", "text": "And the boys grew up; Esau was a skillful hunter, a man of the field, while Jacob was a quiet man, dwelling in tents."},
+            {"ref": "27:22", "text": "The voice is the voice of Jacob, but the hands are the hands of Esau."},
+            {"ref": "25:34", "text": "And Esau spurned the birthright."},
+        ],
+        "haftarah": {
+            "ref": "Malachi 1:1-2:7",
+            "connection": "Malachi opens with God's declaration 'I loved Jacob but rejected Esau,' directly reflecting the parasha's theme of divine election between the two brothers."
+        },
+    },
+    "Vayetze": {
+        "thematic_summary": (
+            "Jacob flees to Haran and on the way dreams of a ladder reaching to heaven with angels ascending "
+            "and descending — God confirms the Abrahamic covenant with him. He arrives at Laban's household, "
+            "falls in love with Rachel, and works seven years for her hand, only to be deceived into marrying "
+            "Leah first. Through both wives and their handmaids, eleven sons and one daughter are born. "
+            "After twenty years Jacob grows wealthy, and God tells him to return home; he departs secretly, "
+            "and Laban pursues but they part with a covenant at Gilead."
+        ),
+        "key_figures": [
+            {"name": "Jacob", "role": "Dreams of the ladder, works for Laban, fathers eleven sons"},
+            {"name": "Rachel", "role": "Jacob's beloved, initially barren, mother of Joseph"},
+            {"name": "Leah", "role": "Jacob's first wife through Laban's deception, mother of six sons and Dinah"},
+            {"name": "Laban", "role": "Jacob's uncle and father-in-law, repeatedly deceives Jacob"},
+            {"name": "Bilhah", "role": "Rachel's handmaid, mother of Dan and Naphtali"},
+            {"name": "Zilpah", "role": "Leah's handmaid, mother of Gad and Asher"},
+        ],
+        "notable_firsts": [
+            "First dream-vision with a ladder (sullam) reaching heaven (28:12)",
+            "First vow to God — Jacob vows at Bethel (28:20-22)",
+            "First instance of working for a bride — Jacob serves seven years for Rachel (29:20)",
+            "First mention of mandrakes as fertility aids (30:14-16)",
+        ],
+        "famous_verses": [
+            {"ref": "28:12", "text": "And he dreamed, and behold, a ladder was set on the earth, with its top reaching to heaven; and behold, the angels of God were ascending and descending on it."},
+            {"ref": "28:16-17", "text": "Surely the LORD is in this place, and I did not know it... How awesome is this place! This is none other than the house of God, and this is the gate of heaven."},
+            {"ref": "29:20", "text": "So Jacob served seven years for Rachel, and they seemed to him but a few days because of his love for her."},
+        ],
+        "haftarah": {
+            "ref": "Hosea 12:13-14:10",
+            "connection": "Hosea recalls that 'Jacob fled to the field of Aram; Israel served for a wife, and for a wife he guarded sheep,' directly referencing Jacob's sojourn with Laban."
+        },
+    },
+    "Vayishlach": {
+        "thematic_summary": (
+            "Jacob prepares to meet Esau after twenty years apart, dividing his camp and sending gifts ahead. "
+            "The night before the encounter, he wrestles with a mysterious being until dawn and receives the "
+            "name Israel — 'for you have striven with God and with men, and have prevailed.' The reunion with "
+            "Esau is peaceful, but tragedy follows: Dinah is violated in Shechem, and Simeon and Levi take "
+            "violent revenge. Rachel dies giving birth to Benjamin, Isaac dies and is buried by both sons, "
+            "and the parasha concludes with the genealogy of Esau and the chiefs of Edom."
+        ),
+        "key_figures": [
+            {"name": "Jacob/Israel", "role": "Wrestles with the angel, reconciles with Esau, receives the name Israel"},
+            {"name": "Esau", "role": "Meets Jacob peacefully, embraces him, settles in Seir"},
+            {"name": "Dinah", "role": "Daughter of Jacob and Leah, violated by Shechem son of Hamor"},
+            {"name": "Simeon and Levi", "role": "Avenge Dinah by destroying the city of Shechem"},
+            {"name": "Rachel", "role": "Dies giving birth to Benjamin, buried on the road to Ephrath"},
+            {"name": "Benjamin (Binyamin)", "role": "Rachel's second son, born as she dies"},
+        ],
+        "notable_firsts": [
+            "First name change by an angel — Jacob becomes Israel (32:29)",
+            "First all-night wrestling with a divine being (32:25-30)",
+            "First prohibition of eating the sciatic nerve (gid hanasheh) (32:33)",
+            "First pillar set up over a grave — Rachel's tomb (35:20)",
+        ],
+        "famous_verses": [
+            {"ref": "32:29", "text": "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed."},
+            {"ref": "33:4", "text": "And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him; and they wept."},
+        ],
+        "haftarah": {
+            "ref": "Obadiah 1:1-21",
+            "connection": "Obadiah prophesies judgment against Edom, the nation descended from Esau, directly connecting to the parasha's account of Esau and the founding of Edom."
+        },
+    },
+    "Vayeshev": {
+        "thematic_summary": (
+            "Jacob settles in Canaan, but his favoritism toward Joseph — symbolized by the coat of many colors — "
+            "ignites his brothers' jealousy. Joseph's dreams of dominion over his family deepen their hatred, "
+            "and the brothers sell him to a caravan heading to Egypt. They deceive Jacob with Joseph's bloodied "
+            "garment, and he mourns inconsolably. The narrative briefly turns to Judah and Tamar before "
+            "returning to Joseph in Egypt, where he rises in Potiphar's house, is falsely accused by "
+            "Potiphar's wife, and is imprisoned, where he interprets the dreams of the butler and the baker."
+        ),
+        "key_figures": [
+            {"name": "Joseph (Yosef)", "role": "Jacob's favored son, dreamer, sold into slavery, imprisoned in Egypt"},
+            {"name": "Jacob", "role": "Father who favors Joseph, deceived by his sons, mourns Joseph"},
+            {"name": "Judah (Yehudah)", "role": "Suggests selling Joseph, later involved in the Tamar episode"},
+            {"name": "Tamar", "role": "Judah's daughter-in-law who secures her rights through a bold act"},
+            {"name": "Potiphar", "role": "Egyptian official who purchases Joseph, later imprisons him"},
+            {"name": "Reuben", "role": "Firstborn who tries to save Joseph from the pit"},
+        ],
+        "notable_firsts": [
+            "First prophetic dreams by a non-patriarch — Joseph's two dreams (37:5-10)",
+            "First recorded instance of human trafficking — Joseph sold by his brothers (37:28)",
+            "First garment used as false evidence — the bloodied coat (37:31-33)",
+            "First dream interpretation by Joseph — the butler and baker (40:8-19)",
+        ],
+        "famous_verses": [
+            {"ref": "37:3", "text": "Now Israel loved Joseph more than all his sons, for he was the child of his old age; and he made him a coat of many colors."},
+            {"ref": "37:20", "text": "Come now, let us slay him and cast him into one of the pits... and we shall see what will become of his dreams."},
+            {"ref": "39:2", "text": "And the LORD was with Joseph, and he was a successful man."},
+        ],
+        "haftarah": {
+            "ref": "Amos 2:6-3:8",
+            "connection": "Amos condemns those who 'sold the righteous for silver,' echoing the brothers' sale of the righteous Joseph for twenty pieces of silver."
+        },
+    },
+    "Miketz": {
+        "thematic_summary": (
+            "Two years after the butler's release, Pharaoh has two disturbing dreams that none of his wise men "
+            "can interpret. The butler finally remembers Joseph, who is brought from prison and interprets the "
+            "dreams as seven years of plenty followed by seven years of famine. Pharaoh appoints Joseph as "
+            "viceroy over all Egypt. When the famine strikes, Joseph's brothers come to buy grain, and Joseph "
+            "recognizes them but conceals his identity, testing them by accusing them of espionage and "
+            "demanding they bring Benjamin. The parasha ends with Joseph's silver goblet planted in Benjamin's sack."
+        ),
+        "key_figures": [
+            {"name": "Joseph", "role": "Interprets Pharaoh's dreams, appointed viceroy, tests his brothers"},
+            {"name": "Pharaoh", "role": "King of Egypt whose dreams foretell famine, elevates Joseph to power"},
+            {"name": "Benjamin", "role": "Youngest brother whom Joseph demands to see"},
+            {"name": "Judah", "role": "Pledges himself as surety for Benjamin's safety"},
+            {"name": "Simeon", "role": "Held hostage by Joseph as a guarantee the brothers will return"},
+            {"name": "Jacob", "role": "Reluctant father who eventually sends Benjamin to Egypt"},
+        ],
+        "notable_firsts": [
+            "First national economic planning — Joseph's storage of grain during plenty (41:47-49)",
+            "First signet ring given as symbol of authority (41:42)",
+            "First recorded chariot ride of honor — Joseph rides in Pharaoh's second chariot (41:43)",
+        ],
+        "famous_verses": [
+            {"ref": "41:16", "text": "Not I; God will give Pharaoh an answer of peace."},
+            {"ref": "41:40", "text": "You shall be over my house, and according to your word shall all my people be ruled; only in the throne will I be greater than you."},
+            {"ref": "42:21", "text": "And they said to one another, 'Indeed we are guilty concerning our brother, for we saw the distress of his soul when he pleaded with us, and we did not listen.'"},
+        ],
+        "haftarah": {
+            "ref": "I Kings 3:15-4:1",
+            "connection": "Solomon's God-given wisdom and dream parallel Joseph's divinely inspired dream-interpretation and wise governance over Egypt."
+        },
+    },
+    "Vayigash": {
+        "thematic_summary": (
+            "Judah steps forward with an impassioned plea for Benjamin's freedom, offering himself as a slave "
+            "in his brother's place — one of the Torah's most powerful speeches. Joseph, overcome with emotion, "
+            "can no longer contain himself and reveals his identity: 'I am Joseph; is my father still alive?' "
+            "He interprets his entire ordeal as divine providence: 'God sent me before you to preserve life.' "
+            "Pharaoh invites Jacob's entire family to Egypt, and they settle in the land of Goshen. "
+            "Jacob and Joseph are reunited after twenty-two years apart."
+        ),
+        "key_figures": [
+            {"name": "Judah", "role": "Delivers the impassioned plea, offers himself in Benjamin's place"},
+            {"name": "Joseph", "role": "Reveals his identity to his brothers, reunites with his father"},
+            {"name": "Jacob/Israel", "role": "Journeys to Egypt, reunites with Joseph in Goshen"},
+            {"name": "Benjamin", "role": "The brother for whom Judah pleads"},
+            {"name": "Pharaoh", "role": "Welcomes Jacob's family, grants them the land of Goshen"},
+        ],
+        "notable_firsts": [
+            "First self-sacrificial plea — Judah offers himself as a slave for Benjamin (44:33)",
+            "First explicit statement of divine providence — 'God sent me before you' (45:5-8)",
+            "First migration of the Israelite family to Egypt (46:1-27)",
+            "First census of the children of Israel — seventy souls (46:27)",
+        ],
+        "famous_verses": [
+            {"ref": "45:3", "text": "And Joseph said to his brothers, 'I am Joseph; is my father still alive?' And his brothers could not answer him, for they were dismayed at his presence."},
+            {"ref": "45:5", "text": "And now, do not be distressed or angry with yourselves that you sold me here, for God sent me before you to preserve life."},
+            {"ref": "46:30", "text": "And Israel said to Joseph, 'Now let me die, since I have seen your face, that you are still alive.'"},
+        ],
+        "haftarah": {
+            "ref": "Ezekiel 37:15-28",
+            "connection": "Ezekiel's vision of two sticks — Judah and Joseph — joined into one symbolizes the reunification of the divided kingdom, mirroring Joseph and Judah's reconciliation."
+        },
+    },
+    "Vayechi": {
+        "thematic_summary": (
+            "Jacob lives his final seventeen years in Egypt, and as death approaches he summons Joseph and "
+            "makes him swear to bury him in the Cave of Machpelah. He adopts Joseph's sons Ephraim and "
+            "Manasseh, deliberately placing his right hand on the younger Ephraim's head. Jacob then gathers "
+            "all twelve sons for his deathbed blessings — a prophetic poem that defines each tribe's character "
+            "and destiny. Jacob dies, is embalmed, and is carried back to Canaan for burial. Joseph reassures "
+            "his brothers, and the book of Genesis closes with Joseph's death at age 110 in Egypt."
+        ),
+        "key_figures": [
+            {"name": "Jacob/Israel", "role": "Blesses his sons and grandsons on his deathbed, dies at 147"},
+            {"name": "Joseph", "role": "Brings his sons for blessing, buries Jacob in Canaan, dies at 110"},
+            {"name": "Ephraim", "role": "Joseph's younger son, receives the primary blessing over Manasseh"},
+            {"name": "Manasseh", "role": "Joseph's elder son, blessed second despite being the firstborn"},
+            {"name": "Judah", "role": "Receives the royal blessing — 'the scepter shall not depart from Judah'"},
+        ],
+        "notable_firsts": [
+            "First deathbed blessing scene — Jacob blesses all twelve sons (49:1-28)",
+            "First embalming in the Torah — Jacob is embalmed in Egypt (50:2-3)",
+            "First grand funeral procession from Egypt to Canaan (50:7-13)",
+            "First explicit request for forgiveness between brothers (50:17)",
+        ],
+        "famous_verses": [
+            {"ref": "48:16", "text": "The angel who has redeemed me from all harm — bless the lads; and let my name be carried on in them, and the name of my fathers Abraham and Isaac."},
+            {"ref": "49:10", "text": "The scepter shall not depart from Judah, nor the ruler's staff from between his feet, until Shiloh comes; and to him shall be the obedience of the peoples."},
+            {"ref": "50:20", "text": "As for you, you meant evil against me, but God meant it for good, to bring it about that many people should be kept alive."},
+        ],
+        "haftarah": {
+            "ref": "I Kings 2:1-12",
+            "connection": "David's final charge to Solomon before his death parallels Jacob's deathbed blessings and instructions to his sons, both patriarchs securing their legacy."
+        },
+    },
+}
+
+
+def verse_in_range(ch, v, start, end):
+    """Check if chapter:verse is within start-end range (inclusive)."""
+    if ch < start[0] or ch > end[0]:
+        return False
+    if ch == start[0] and v < start[1]:
+        return False
+    if ch == end[0] and v > end[1]:
+        return False
+    return True
+
+
+def compute_stats(chapters, start, end):
+    """Compute stats for a parasha range from the genesis data."""
+    verse_count = 0
+    word_count = 0
+    total_gematria = 0
+    roots = Counter()
+
+    for ch_data in chapters:
+        ch = ch_data['chapter']
+        if ch < start[0] or ch > end[0]:
+            continue
+        for v_data in ch_data['verses']:
+            v = v_data['verse']
+            if not verse_in_range(ch, v, start, end):
+                continue
+            verse_count += 1
+            if 'words' in v_data:
+                for w in v_data['words']:
+                    word_count += 1
+                    total_gematria += w.get('gem', 0)
+                    root = w.get('root', '')
+                    if root:
+                        roots[root] += 1
+
+    top_root = roots.most_common(1)[0] if roots else ('', 0)
+    return {
+        "verses": verse_count,
+        "words": word_count,
+        "total_gematria": total_gematria,
+        "unique_roots": len(roots),
+        "top_root": f"{top_root[0]} ({top_root[1]}x)" if top_root[0] else "N/A",
+    }
+
+
+def gematria_note(total):
+    """Generate an interesting factorization or property note about the total gematria."""
+    notes = []
+
+    # Check if prime
+    def is_prime(n):
+        if n < 2:
+            return False
+        if n < 4:
+            return True
+        if n % 2 == 0 or n % 3 == 0:
+            return False
+        i = 5
+        while i * i <= n:
+            if n % i == 0 or n % (i + 2) == 0:
+                return False
+            i += 6
+        return True
+
+    # Perfect square?
+    sqrt = int(math.isqrt(total))
+    if sqrt * sqrt == total:
+        notes.append(f"{total} is a perfect square ({sqrt}\u00b2)")
+
+    # Triangular number?
+    # n(n+1)/2 = total => n^2 + n - 2*total = 0
+    disc = 1 + 8 * total
+    sqrt_disc = int(math.isqrt(disc))
+    if sqrt_disc * sqrt_disc == disc and (sqrt_disc - 1) % 2 == 0:
+        n = (sqrt_disc - 1) // 2
+        notes.append(f"{total} is the {n}th triangular number (sum of 1 to {n})")
+
+    if is_prime(total):
+        notes.append(f"{total} is a prime number")
+
+    # Factorization
+    def factorize(n):
+        factors = []
+        d = 2
+        while d * d <= n:
+            while n % d == 0:
+                factors.append(d)
+                n //= d
+            d += 1
+        if n > 1:
+            factors.append(n)
+        return factors
+
+    factors = factorize(total)
+    if len(factors) > 1:
+        factor_str = " \u00d7 ".join(str(f) for f in factors)
+        notes.append(f"{total} = {factor_str}")
+
+    # Digit sum
+    dsum = sum(int(d) for d in str(total))
+    notes.append(f"digit sum = {dsum}")
+
+    # Divisibility by notable numbers
+    if total % 7 == 0:
+        notes.append(f"divisible by 7 (days of creation)")
+    if total % 18 == 0:
+        notes.append(f"divisible by 18 (chai, life)")
+    if total % 26 == 0:
+        notes.append(f"divisible by 26 (gematria of the Tetragrammaton)")
+
+    return "; ".join(notes[:3]) if notes else f"Total gematria is {total}"
+
+
+# Build output
+output = []
+for name, start, end in PARASHOT:
+    stats = compute_stats(genesis['chapters'], start, end)
+    content = CONTENT[name]
+
+    entry = {
+        "name": name,
+        "thematic_summary": content["thematic_summary"],
+        "key_figures": content["key_figures"],
+        "notable_firsts": content["notable_firsts"],
+        "famous_verses": content["famous_verses"],
+        "haftarah": content["haftarah"],
+        "stats": stats,
+        "gematria_note": gematria_note(stats["total_gematria"]),
+    }
+    output.append(entry)
+    print(f"  {name}: {stats['verses']} verses, {stats['words']} words, gematria={stats['total_gematria']}")
+
+with open('parasha_data.json', 'w', encoding='utf-8') as f:
+    json.dump(output, f, ensure_ascii=False, indent=2)
+
+print(f"\nSaved parasha_data.json with {len(output)} parashot.")

@@ -134,6 +134,14 @@ def heb(text):
     """Wrap Hebrew text with bidi for correct RTL rendering."""
     return get_display(text)
 
+def heb_mixed(text):
+    """Handle mixed Hebrew/English text: reverse only Hebrew segments in place.
+    This keeps numbers and English in LTR while Hebrew reads RTL."""
+    import re
+    def reverse_heb(m):
+        return get_display(m.group(0))
+    return re.sub(r'[\u05B0-\u05EA\u05BE]+', reverse_heb, text)
+
 def truncate(text, font, size, max_w, c):
     """Truncate text with ellipsis to fit max_w."""
     if not text:
@@ -270,7 +278,8 @@ class PDFBuilder:
         c.setFillColor(INK_LIGHT)
         desc = ("A complete word-by-word interlinear edition of the Book of Genesis, "
                 "presenting each Hebrew word with its transliteration, three-letter root, "
-                "English gloss, and gematria value. Commentary by Rashi and Ramban. "
+                "English gloss, and gematria value. Commentary by Rashi, Ramban, Ibn Ezra, "
+                "Sforno, Or HaChaim, Chizkuni, Rabbeinu Bahya, Onkelos, and Kli Yakar. "
                 "Gematria values follow the standard Mispar Hechrachi system.")
         for line in self._wrap_text(desc, 'Serif', 9, 360):
             c.drawCentredString(PAGE_W / 2, y, line)
@@ -365,159 +374,156 @@ class PDFBuilder:
             'has_rashi': has_rashi,
         }
 
-    def draw_parasha_title(self, parasha, data=None):
-        """Draw a parasha title page with stats and content."""
+    def draw_parasha_title(self, parasha, data=None, parasha_info=None):
+        """Draw a rich parasha title page with insights and content."""
         self.draw_footer()
         self.new_page()
         self.is_title_page = True
         c = self.c
-        y = PAGE_H - 140
+        left = MARGIN_L + 20
+        right = PAGE_W - MARGIN_R - 20
+        text_w = right - left
+        y = PAGE_H - 120
 
         # "Parashat" label
-        c.setFont('SerifItalic', 14)
+        c.setFont('SerifItalic', 13)
         c.setFillColor(INK_FAINT)
         c.drawCentredString(PAGE_W / 2, y, "Parashat")
-        y -= 45
+        y -= 40
 
         # Hebrew parasha name (large)
-        c.setFont('HebrewBold', 48)
+        c.setFont('HebrewBold', 44)
         c.setFillColor(INK)
         c.drawCentredString(PAGE_W / 2, y, heb(parasha['he']))
-        y -= 50
+        y -= 45
 
         # English parasha name
-        c.setFont('SerifBold', 26)
+        c.setFont('SerifBold', 24)
         c.setFillColor(INK_LIGHT)
         c.drawCentredString(PAGE_W / 2, y, parasha['name'])
-        y -= 35
+        y -= 28
 
         # Decorative line
         c.setStrokeColor(ACCENT_GOLD)
         c.setLineWidth(1.5)
         c.line(PAGE_W/2 - 100, y, PAGE_W/2 + 100, y)
-        y -= 30
+        y -= 22
 
         # Chapter/verse range
         s_ch, s_v = parasha['start']
         e_ch, e_v = parasha['end']
-        c.setFont('Serif', 12)
+        c.setFont('Serif', 11)
         c.setFillColor(INK_FAINT)
         c.drawCentredString(PAGE_W / 2, y, f"Genesis {s_ch}:{s_v} \u2013 {e_ch}:{e_v}")
-        y -= 35
+        y -= 22
 
-        # Statistics box
-        if data:
-            stats = self._get_parasha_stats(parasha, data)
+        if not parasha_info:
+            self.is_title_page = False
+            return
 
-            # Stats in amber box
-            box_w = 320
-            box_h = 70
-            box_x = (PAGE_W - box_w) / 2
-            draw_rounded_rect(c, box_x, y - box_h, box_w, box_h, 6, fill=AMBER_BG, stroke=AMBER_BORDER)
+        # ── Thematic Summary ──
+        summary = parasha_info.get('thematic_summary', '')
+        if summary:
+            c.setFont('SerifItalic', 9.5)
+            c.setFillColor(INK)
+            for line in self._wrap_text(summary, 'SerifItalic', 9.5, text_w):
+                c.drawString(left, y, line)
+                y -= 13
+            y -= 8
 
-            c.setFont('SerifBold', 10)
+        # ── Stats box ──
+        stats = parasha_info.get('stats', {})
+        if stats:
+            box_w = CONTENT_W - 40
+            box_h = 36
+            box_x = MARGIN_L + 20
+            draw_rounded_rect(c, box_x, y - box_h, box_w, box_h, 4, fill=AMBER_BG, stroke=AMBER_BORDER)
+            c.setFont('Serif', 8.5)
             c.setFillColor(AMBER_TEXT)
-            c.drawCentredString(PAGE_W / 2, y - 16, "Parasha Overview")
-
-            c.setFont('Serif', 9)
-            c.setFillColor(INK_LIGHT)
-            col1_x = box_x + 30
-            col2_x = box_x + box_w / 2 + 20
-            c.drawString(col1_x, y - 34, f"Verses: {stats['verses']}")
-            c.drawString(col2_x, y - 34, f"Words: {stats['words']}")
-            c.drawString(col1_x, y - 50, f"Total Gematria: {stats['total_gem']:,}")
-            c.drawString(col2_x, y - 50, f"Rashi Comments: {stats['has_rashi']}")
-
-            # Gematria factorization of total
-            from collections import Counter
-            factors = []
-            n = stats['total_gem']
-            d_val = 2
-            while d_val * d_val <= n:
-                while n % d_val == 0:
-                    factors.append(d_val)
-                    n //= d_val
-                d_val += 1
-            if n > 1:
-                factors.append(n)
-            if len(factors) > 1:
-                counts = Counter(factors)
-                parts = []
-                for p in sorted(counts.keys()):
-                    if counts[p] == 1:
-                        parts.append(str(p))
-                    else:
-                        parts.append(f"{p}^{counts[p]}")
-                c.setFont('SerifItalic', 8)
+            col_w = box_w / 4
+            c.drawCentredString(box_x + col_w * 0.5, y - 14, f"Verses: {stats.get('verses', 0)}")
+            c.drawCentredString(box_x + col_w * 1.5, y - 14, f"Words: {stats.get('words', 0)}")
+            c.drawCentredString(box_x + col_w * 2.5, y - 14, f"Gematria: {stats.get('total_gematria', 0):,}")
+            c.drawCentredString(box_x + col_w * 3.5, y - 14, f"Roots: {stats.get('unique_roots', 0)}")
+            gem_note = parasha_info.get('gematria_note', '')
+            if gem_note:
+                c.setFont('SerifItalic', 7.5)
                 c.setFillColor(INK_FAINT)
-                c.drawCentredString(PAGE_W / 2, y - 64, f"Parasha gematria: {stats['total_gem']:,} = {' x '.join(parts)}")
+                c.drawCentredString(box_x + box_w / 2, y - 30, gem_note[:120])
+            y -= box_h + 12
 
-            y -= box_h + 25
+        # ── Key Figures ──
+        figures = parasha_info.get('key_figures', [])
+        if figures:
+            c.setFont('SerifBold', 9)
+            c.setFillColor(ACCENT_GOLD)
+            c.drawString(left, y, "Key Figures")
+            y -= 14
+            c.setFont('Serif', 8.5)
+            c.setFillColor(INK_LIGHT)
+            for fig in figures[:5]:
+                line = f"\u2022 {fig['name']} \u2014 {fig['role']}"
+                for wl in self._wrap_text(line, 'Serif', 8.5, text_w - 10)[:2]:
+                    c.drawString(left + 5, y, wl)
+                    y -= 11
+            y -= 6
 
-        # Decorative line
-        c.setStrokeColor(DIVIDER)
-        c.setLineWidth(0.5)
-        c.line(PAGE_W/2 - 60, y, PAGE_W/2 + 60, y)
-        y -= 25
+        # ── Notable Firsts ──
+        firsts = parasha_info.get('notable_firsts', [])
+        if firsts:
+            c.setFont('SerifBold', 9)
+            c.setFillColor(ACCENT_GOLD)
+            c.drawString(left, y, "Notable Firsts")
+            y -= 14
+            c.setFont('Serif', 8.5)
+            c.setFillColor(INK_LIGHT)
+            for first in firsts[:5]:
+                line = f"\u2022 {first}"
+                c.drawString(left + 5, y, truncate(line, 'Serif', 8.5, text_w - 10, c))
+                y -= 11
+            y -= 6
 
-        # Opening verse preview (first verse of parasha)
-        if data:
-            # Find the first verse
-            for ch in data['chapters']:
-                for v in ch['verses']:
-                    if ch['chapter'] == s_ch and v['verse'] == s_v:
-                        # Hebrew text of opening verse
-                        c.setFont('SerifItalic', 10)
-                        c.setFillColor(INK_FAINT)
-                        c.drawCentredString(PAGE_W / 2, y, "Opening verse:")
-                        y -= 20
+        # ── Famous Verses ──
+        famous = parasha_info.get('famous_verses', [])
+        if famous and y > MARGIN_B + 100:
+            c.setFont('SerifBold', 9)
+            c.setFillColor(ACCENT_GOLD)
+            c.drawString(left, y, "Famous Verses")
+            y -= 14
+            for fv in famous[:3]:
+                c.setFont('SerifBold', 8.5)
+                c.setFillColor(INK)
+                c.drawString(left + 5, y, f"{fv['ref']}:")
+                y -= 12
+                c.setFont('SerifItalic', 8.5)
+                c.setFillColor(INK_LIGHT)
+                for wl in self._wrap_text(f"\u201C{fv['text']}\u201D", 'SerifItalic', 8.5, text_w - 15)[:3]:
+                    c.drawString(left + 10, y, wl)
+                    y -= 11
+                y -= 4
 
-                        c.setFont('Hebrew', 14)
-                        c.setFillColor(INK)
-                        heb_full = v.get('hebrew_full', '')
-                        # Wrap if long
-                        heb_lines = self._wrap_text(heb_full, 'Hebrew', 14, CONTENT_W - 80)
-                        for line in heb_lines[:2]:
-                            c.drawCentredString(PAGE_W / 2, y, heb(line))
-                            y -= 20
-                        y -= 8
-
-                        # Translation
-                        c.setFont('SerifItalic', 10)
-                        c.setFillColor(INK_LIGHT)
-                        trans = v.get('translation', '')
-                        trans_lines = self._wrap_text(trans, 'SerifItalic', 10, CONTENT_W - 80)
-                        for line in trans_lines[:3]:
-                            c.drawCentredString(PAGE_W / 2, y, line)
-                            y -= 15
-                        y -= 15
-
-                        # Rashi on opening verse
-                        rashi = v.get('rashi', '')
-                        if rashi:
-                            c.setStrokeColor(DIVIDER)
-                            c.setLineWidth(0.5)
-                            c.setDash(3, 3)
-                            c.line(PAGE_W/2 - 80, y + 8, PAGE_W/2 + 80, y + 8)
-                            c.setDash()
-
-                            c.setFont('SerifBold', 9)
-                            c.setFillColor(INK)
-                            c.drawString(MARGIN_L + 20, y, "Rashi on opening verse:")
-                            y -= 14
-
-                            c.setFont('SerifItalic', 8.5)
-                            c.setFillColor(INK_LIGHT)
-                            rashi_lines = self._wrap_text(rashi, 'SerifItalic', 8.5, CONTENT_W - 40)
-                            for line in rashi_lines:
-                                if y < MARGIN_B + 40:
-                                    break
-                                c.drawString(MARGIN_L + 20, y, line)
-                                y -= 13
-                        break
-                else:
-                    continue
-                break
+        # ── Haftarah ──
+        haftarah = parasha_info.get('haftarah', {})
+        if haftarah and y > MARGIN_B + 50:
+            y -= 4
+            c.setStrokeColor(DIVIDER)
+            c.setLineWidth(0.5)
+            c.line(left, y + 6, right, y + 6)
+            c.setFont('SerifBold', 9)
+            c.setFillColor(ACCENT_GOLD)
+            c.drawString(left, y - 6, f"Haftarah: ")
+            label_end = left + c.stringWidth("Haftarah: ", 'SerifBold', 9)
+            c.setFont('Serif', 8.5)
+            c.setFillColor(INK)
+            c.drawString(label_end, y - 6, haftarah.get('ref', ''))
+            y -= 18
+            conn = haftarah.get('connection', '')
+            if conn:
+                c.setFont('SerifItalic', 8.5)
+                c.setFillColor(INK_LIGHT)
+                for wl in self._wrap_text(conn, 'SerifItalic', 8.5, text_w)[:2]:
+                    c.drawString(left, y, wl)
+                    y -= 11
 
         self.is_title_page = False
 
@@ -682,7 +688,7 @@ class PDFBuilder:
 
         # ── Footer bar ──
         # Has commentary? Fill to bottom. No commentary? Compact footer, share page.
-        has_commentary = any(verse.get(k) for k in ['rashi','ramban','ibn_ezra','sforno','or_hachaim'])
+        has_commentary = any(verse.get(k) for k in ['rashi','ramban','ibn_ezra','sforno','or_hachaim','chizkuni','rabbeinu_bahya','onkelos','kli_yakar'])
         if has_commentary:
             footer_h = max(32, y - MARGIN_B)
         else:
@@ -715,7 +721,7 @@ class PDFBuilder:
             cur_y -= 16
             c.setFont('SerifItalic', 8)
             c.setFillColor(INK_FAINT)
-            c.drawString(left, cur_y, truncate(gem_note, 'SerifItalic', 8, text_w, c))
+            c.drawString(left, cur_y, heb_mixed(truncate(gem_note, 'SerifItalic', 8, text_w, c)))
 
         # -- Commentary sections --
         commentary_list = [
@@ -724,19 +730,16 @@ class PDFBuilder:
             ("Ibn Ezra", verse.get('ibn_ezra', '')),
             ("Sforno", verse.get('sforno', '')),
             ("Or HaChaim", verse.get('or_hachaim', '')),
+            ("Chizkuni", verse.get('chizkuni', '')),
+            ("Rabbeinu Bahya", verse.get('rabbeinu_bahya', '')),
+            ("Onkelos", verse.get('onkelos', '')),
+            ("Kli Yakar", verse.get('kli_yakar', '')),
         ]
         active = [(lbl, txt) for lbl, txt in commentary_list if txt]
         num_active = len(active)
         cross_refs = verse.get('cross_refs', '')
 
-        # Two-pass budget: first measure how many lines each needs,
-        # then allocate proportionally, giving unused space to longer ones
-        total_lines = max(1, int((cur_y - stop_y) / 13))
-        # Reserve 3 lines for cross-refs + insights if they exist
-        reserved = 0
-        if cross_refs: reserved += 3
-        if verse.get('insights'): reserved += 3
-        commentary_lines = max(1, total_lines - reserved)
+        insights = verse.get('insights', '')
 
         for label, text in active:
             if cur_y - 28 < stop_y:
@@ -858,22 +861,22 @@ class PDFBuilder:
 
             c.setFont('SerifBold', 8)
             c.setFillColor(INK_FAINT)
-            c.drawString(left, cur_y, "Insights:")
-            label_end_ins = left + c.stringWidth("Insights: ", 'SerifBold', 8) + 2
+            c.drawString(left, cur_y, "Gematria Reflections:")
+            label_end_ins = left + c.stringWidth("Gematria Reflections: ", 'SerifBold', 8) + 2
 
             c.setFont('Serif', 8)
             c.setFillColor(INK_FAINT)
             first_w = right - label_end_ins
             first_lines = self._wrap_text(insights, 'Serif', 8, first_w)
             if first_lines:
-                c.drawString(label_end_ins, cur_y, first_lines[0])
+                c.drawString(label_end_ins, cur_y, heb_mixed(first_lines[0]))
                 rest = insights[len(first_lines[0]):].strip()
                 cont_lines = self._wrap_text(rest, 'Serif', 8, text_w)
                 for line in cont_lines:
                     if cur_y - 12 < stop_y:
                         break
                     cur_y -= 12
-                    c.drawString(left, cur_y, line)
+                    c.drawString(left, cur_y, heb_mixed(line))
 
         if has_commentary:
             self.y = MARGIN_B - 1  # next verse on new page
@@ -940,22 +943,44 @@ class PDFBuilder:
         c.line(x + p, inner_y, x + w - p, inner_y)
         inner_y -= 3
 
-        # Primary English gloss (bold)
-        c.setFont('SerifBold', 9)
+        # Primary English gloss (bold) — wrap to 2 lines if needed
         c.setFillColor(INK)
-        eng = truncate(word.get('eng', ''), 'SerifBold', 9, w - 2*p, c)
-        c.drawCentredString(x + w/2, inner_y - 9, eng)
-        inner_y -= 13
+        eng_text = word.get('eng', '')
+        eng_w = c.stringWidth(eng_text, 'SerifBold', 9)
+        max_eng_w = w - 2*p
+
+        if eng_w <= max_eng_w:
+            # Fits on one line
+            c.setFont('SerifBold', 9)
+            c.drawCentredString(x + w/2, inner_y - 9, eng_text)
+            inner_y -= 13
+        else:
+            # Try smaller font first
+            eng_w_sm = c.stringWidth(eng_text, 'SerifBold', 7.5)
+            if eng_w_sm <= max_eng_w:
+                c.setFont('SerifBold', 7.5)
+                c.drawCentredString(x + w/2, inner_y - 9, eng_text)
+                inner_y -= 13
+            else:
+                # Wrap to two lines — split on middle dot or space
+                parts = eng_text.replace('\u00b7', ' \u00b7 ').split()
+                mid = len(parts) // 2
+                line1 = ' '.join(parts[:mid]).replace(' \u00b7 ', '\u00b7')
+                line2 = ' '.join(parts[mid:]).replace(' \u00b7 ', '\u00b7')
+                c.setFont('SerifBold', 7.5)
+                c.drawCentredString(x + w/2, inner_y - 8, truncate(line1, 'SerifBold', 7.5, max_eng_w, c))
+                c.drawCentredString(x + w/2, inner_y - 17, truncate(line2, 'SerifBold', 7.5, max_eng_w, c))
+                inner_y -= 21
+
+        # Thin divider (always drawn — uniform across all cards)
+        c.setStrokeColor(DIVIDER)
+        c.setLineWidth(0.3)
+        c.line(x + p + 5, inner_y, x + w - p - 5, inner_y)
+        inner_y -= 2
 
         # Alternative meanings (smaller, lighter)
         meanings = word.get('meanings', [])
         if meanings:
-            # Thin divider
-            c.setStrokeColor(DIVIDER)
-            c.setLineWidth(0.3)
-            c.line(x + p + 5, inner_y, x + w - p - 5, inner_y)
-            inner_y -= 2
-
             c.setFont('SerifItalic', 6.5)
             c.setFillColor(INK_FAINT)
             # Show up to 3 alternative meanings
@@ -975,8 +1000,14 @@ class PDFBuilder:
 
     # ─── Build ───────────────────────────────────────────────────────────
 
-    def build(self, data):
+    def build(self, data, parasha_data=None):
         print(f"Building PDF: {len(data['chapters'])} chapters, {len(PARASHOT)} parashot...")
+
+        # Index parasha data by name
+        p_info = {}
+        if parasha_data:
+            for pi in parasha_data:
+                p_info[pi['name']] = pi
 
         self.draw_title_page()
 
@@ -987,7 +1018,7 @@ class PDFBuilder:
             # Check if this chapter starts a new parasha — full title page
             for p in PARASHOT:
                 if p['start'][0] == ch_num and p['name'] not in drawn_parashot:
-                    self.draw_parasha_title(p, data)
+                    self.draw_parasha_title(p, data, p_info.get(p['name']))
                     drawn_parashot.add(p['name'])
                     # Start fresh content page after parasha title
                     self.draw_footer()
@@ -997,6 +1028,9 @@ class PDFBuilder:
                     break
 
             print(f"  Chapter {ch_num}: {len(ch_data['verses'])} verses")
+
+            # Inline chapter header (no full page)
+            self.current_chapter = ch_num
             self.draw_chapter_title(ch_num)
 
             for verse in ch_data['verses']:
@@ -1010,8 +1044,8 @@ class PDFBuilder:
 # ─── Main ────────────────────────────────────────────────────────────────────
 
 def main():
-    input_file = sys.argv[1] if len(sys.argv) > 1 else "genesis.json"
-    output_file = sys.argv[2] if len(sys.argv) > 2 else "Torah Word by Word - Genesis (Multi-Meaning).pdf"
+    input_file = sys.argv[1] if len(sys.argv) > 1 else "genesis_v3.json"
+    output_file = sys.argv[2] if len(sys.argv) > 2 else "genesis_pdf_v4.pdf"
 
     if not os.path.exists(input_file):
         print(f"Error: {input_file} not found")
@@ -1020,12 +1054,20 @@ def main():
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
+    # Load parasha data if available
+    parasha_data = None
+    parasha_file = Path(input_file).parent / 'parasha_data.json'
+    if parasha_file.exists():
+        with open(parasha_file, 'r', encoding='utf-8') as f:
+            parasha_data = json.load(f)
+        print(f"Loaded parasha data: {len(parasha_data)} parashot")
+
     print(f"Loaded {input_file}: {len(data['chapters'])} chapters")
 
     register_fonts()
 
     builder = PDFBuilder(output_file)
-    builder.build(data)
+    builder.build(data, parasha_data)
     print(f"Output: {output_file}")
 
 
