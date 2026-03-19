@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Vayikra",
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 5,
+    "end_verse": 26,
+    "thematic_summary": "God calls to Moses from the Tent of Meeting and lays out the laws of the voluntary offerings: the burnt offering (olah), the meal offering (minchah), the peace offering (shelamim), the sin offering (chatat), and the guilt offering (asham). Each offering addresses a different dimension of the human relationship with God — from total devotion to atonement for inadvertent wrongs. The parasha establishes that approaching God requires intentionality, humility, and the willingness to give of oneself.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Receives the laws of offerings from God in the Tent of Meeting"
+      },
+      {
+        "name": "God",
+        "role": "Calls to Moses and instructs him in the sacrificial system"
+      },
+      {
+        "name": "Aaron and his sons",
+        "role": "Designated priests who will perform the offerings on the altar"
+      }
+    ],
+    "notable_firsts": [
+      "First divine speech from the Tent of Meeting (1:1)",
+      "First codification of the burnt offering (olah) (1:3-17)",
+      "First codification of the meal offering (minchah) (2:1-16)",
+      "First mention of salt as a covenant requirement — 'the salt of the covenant of your God' (2:13)",
+      "First systematic law of the sin offering for inadvertent transgressions (4:1-35)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "1:1",
+        "text": "And the LORD called to Moses, and spoke to him from the Tent of Meeting, saying."
+      },
+      {
+        "ref": "2:13",
+        "text": "And every offering of your meal offering you shall season with salt; neither shall you allow the salt of the covenant of your God to be lacking from your meal offering."
+      },
+      {
+        "ref": "5:1",
+        "text": "If a person sins in that he heard a public adjuration and — though able to testify as one who has seen or learned of the matter — he does not speak up, he is subject to punishment."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 43:21-44:23",
+      "connection": "Isaiah rebukes Israel for failing to bring offerings to God, contrasting the sacrificial devotion outlined in Vayikra with Israel's neglect of worship."
+    }
+  },
+  {
+    "name": "Tzav",
+    "start_chapter": 6,
+    "start_verse": 1,
+    "end_chapter": 8,
+    "end_verse": 36,
+    "thematic_summary": "God instructs Moses in the detailed procedures for the priests regarding the burnt, meal, sin, guilt, and peace offerings, including the perpetual fire on the altar and the priestly portions. The parasha then narrates the seven-day consecration ceremony of Aaron and his sons, during which Moses anoints them with oil and blood, invests them with the priestly garments, and offers the ram of ordination. This inauguration transforms the tabernacle from a completed structure into a functioning house of worship.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Performs the consecration of Aaron and his sons as commanded by God"
+      },
+      {
+        "name": "Aaron",
+        "role": "Anointed as High Priest and consecrated for seven days"
+      },
+      {
+        "name": "Aaron's sons (Nadav, Avihu, Elazar, Itamar)",
+        "role": "Consecrated alongside their father to serve as priests"
+      }
+    ],
+    "notable_firsts": [
+      "First command for a perpetual fire on the altar — 'a fire shall be kept burning continually' (6:6)",
+      "First anointing of priests with oil and blood (8:10-12, 23-24)",
+      "First seven-day consecration ceremony (8:33-36)",
+      "First priestly investiture with the sacred garments (8:7-9)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "6:6",
+        "text": "Fire shall be kept burning upon the altar continually; it shall not go out."
+      },
+      {
+        "ref": "8:36",
+        "text": "And Aaron and his sons did all the things which the LORD commanded by the hand of Moses."
+      }
+    ],
+    "haftarah": {
+      "ref": "Jeremiah 7:21-8:3; 9:22-23",
+      "connection": "Jeremiah challenges Israel's reliance on sacrifices alone, declaring that God desires obedience over offerings — a corrective to the detailed ritual law of Tzav."
+    }
+  },
+  {
+    "name": "Shemini",
+    "start_chapter": 9,
+    "start_verse": 1,
+    "end_chapter": 11,
+    "end_verse": 47,
+    "thematic_summary": "On the eighth day after the consecration, Aaron offers the inaugural sacrifices and God's glory appears to all the people, with fire consuming the offerings on the altar. In the midst of this triumph, Aaron's sons Nadav and Avihu offer 'strange fire' before God and are consumed by divine fire — a shocking tragedy that underscores the gravity of approaching the holy. Aaron's silence in the face of his sons' death is one of the Torah's most poignant moments. The parasha concludes with the dietary laws distinguishing clean from unclean animals, establishing kashrut as a pillar of Israelite identity.",
+    "key_figures": [
+      {
+        "name": "Aaron",
+        "role": "Performs the inaugural service, loses two sons, responds with silence"
+      },
+      {
+        "name": "Nadav and Avihu",
+        "role": "Aaron's eldest sons who offer unauthorized fire and are consumed"
+      },
+      {
+        "name": "Moses",
+        "role": "Guides Aaron through the inaugural service and addresses the tragedy"
+      },
+      {
+        "name": "Elazar and Itamar",
+        "role": "Aaron's surviving sons who continue the priestly duties"
+      }
+    ],
+    "notable_firsts": [
+      "First divine fire consuming an offering on the altar (9:24)",
+      "First death as a consequence of improper worship — Nadav and Avihu (10:1-2)",
+      "First codification of dietary laws (kashrut) — distinguishing clean and unclean animals (11:1-47)",
+      "First prohibition against priests drinking wine before serving (10:9)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "9:24",
+        "text": "And fire came forth from before the LORD and consumed the burnt offering and the fat upon the altar; and when all the people saw it, they shouted and fell on their faces."
+      },
+      {
+        "ref": "10:3",
+        "text": "And Moses said to Aaron, 'This is what the LORD spoke, saying: Through those near to Me I will be sanctified, and before all the people I will be glorified.' And Aaron was silent."
+      },
+      {
+        "ref": "11:44",
+        "text": "For I am the LORD your God; sanctify yourselves therefore, and be holy, for I am holy."
+      }
+    ],
+    "haftarah": {
+      "ref": "II Samuel 6:1-7:17",
+      "connection": "The transfer of the Ark to Jerusalem parallels the inauguration of the Tabernacle, and the death of Uzzah for touching the Ark echoes the fate of Nadav and Avihu."
+    }
+  },
+  {
+    "name": "Tazria",
+    "start_chapter": 12,
+    "start_verse": 1,
+    "end_chapter": 13,
+    "end_verse": 59,
+    "thematic_summary": "The parasha opens with the laws of purification after childbirth, prescribing periods of ritual impurity and the offerings a new mother must bring. It then turns to the extensive laws of tzara'at, a skin affliction often mistranslated as leprosy, which serves as a visible sign of spiritual malady. The priest examines the afflicted person, determines whether the condition is ritually impure, and may quarantine the individual. These laws teach that the body can reflect the state of the soul, and that restoration to the community requires both physical healing and priestly declaration.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Receives and transmits the laws of purification and tzara'at"
+      },
+      {
+        "name": "Aaron",
+        "role": "The priest who examines and determines the status of skin afflictions"
+      }
+    ],
+    "notable_firsts": [
+      "First laws regarding purification after childbirth (12:1-8)",
+      "First systematic diagnosis of skin afflictions by a priest (13:1-46)",
+      "First quarantine procedure in the Torah — isolation for seven days (13:4-5)",
+      "First mention of tzara'at on garments (13:47-59)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "12:3",
+        "text": "And on the eighth day the flesh of his foreskin shall be circumcised."
+      },
+      {
+        "ref": "13:46",
+        "text": "All the days that the affliction is upon him he shall be unclean; he is unclean. He shall dwell alone; outside the camp shall his dwelling be."
+      }
+    ],
+    "haftarah": {
+      "ref": "II Kings 4:42-5:19",
+      "connection": "The story of Naaman the Aramean general who is stricken with tzara'at and healed by Elisha directly parallels the parasha's laws of diagnosing and purifying skin afflictions."
+    }
+  },
+  {
+    "name": "Metzora",
+    "start_chapter": 14,
+    "start_verse": 1,
+    "end_chapter": 15,
+    "end_verse": 33,
+    "thematic_summary": "Metzora details the purification process for a person healed of tzara'at, an elaborate ritual involving two birds, cedar wood, scarlet yarn, hyssop, and immersion, culminating in offerings on the eighth day. The parasha extends the laws of tzara'at to houses in the Land of Israel, where discolored patches on walls require priestly inspection and may necessitate demolition. It concludes with the laws of bodily discharges — both abnormal and normal — and their associated purification procedures, emphasizing that holiness extends to every dimension of physical life.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Receives and transmits the purification laws"
+      },
+      {
+        "name": "Aaron and the priests",
+        "role": "Examine and declare the healed person clean, perform the rituals"
+      }
+    ],
+    "notable_firsts": [
+      "First purification ritual involving two birds — one slaughtered, one released (14:4-7)",
+      "First mention of tzara'at afflicting houses (14:33-53)",
+      "First laws governing bodily discharges and their purification (15:1-33)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "14:2",
+        "text": "This shall be the law of the metzora on the day of his purification: he shall be brought to the priest."
+      },
+      {
+        "ref": "15:31",
+        "text": "Thus you shall keep the children of Israel separate from their uncleanness, lest they die in their uncleanness by defiling My Tabernacle that is in their midst."
+      }
+    ],
+    "haftarah": {
+      "ref": "II Kings 7:3-20",
+      "connection": "Four metzora'im (lepers) sitting outside the gate of Samaria during a siege discover the Aramean camp abandoned, echoing the metzora's exclusion from the camp and eventual restoration."
+    }
+  },
+  {
+    "name": "Acharei Mot",
+    "start_chapter": 16,
+    "start_verse": 1,
+    "end_chapter": 18,
+    "end_verse": 30,
+    "thematic_summary": "Following the death of Nadav and Avihu, God prescribes the Yom Kippur service — the only day the High Priest enters the Holy of Holies, making atonement for himself, his household, and all of Israel. The scapegoat (sa'ir la'azazel) carries the sins of the nation into the wilderness. The parasha then prohibits the consumption of blood and the offering of sacrifices outside the Tabernacle, and concludes with the laws of forbidden sexual relationships, warning that the land itself will expel a nation that defiles it.",
+    "key_figures": [
+      {
+        "name": "Aaron",
+        "role": "High Priest who enters the Holy of Holies on Yom Kippur"
+      },
+      {
+        "name": "Moses",
+        "role": "Transmits the Yom Kippur laws and the sexual prohibitions to Israel"
+      },
+      {
+        "name": "Nadav and Avihu",
+        "role": "Their death is the occasion for the Yom Kippur laws — 'after the death of the two sons of Aaron'"
+      }
+    ],
+    "notable_firsts": [
+      "First description of the Yom Kippur service and entry into the Holy of Holies (16:1-34)",
+      "First mention of the scapegoat sent to Azazel (16:8-10, 20-22)",
+      "First prohibition against consuming blood — 'for the life of the flesh is in the blood' (17:11)",
+      "First comprehensive list of forbidden sexual relationships (18:6-23)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "16:30",
+        "text": "For on this day shall atonement be made for you, to cleanse you; from all your sins before the LORD you shall be clean."
+      },
+      {
+        "ref": "17:11",
+        "text": "For the life of the flesh is in the blood, and I have given it to you upon the altar to make atonement for your souls; for it is the blood that makes atonement by reason of the life."
+      },
+      {
+        "ref": "18:5",
+        "text": "You shall therefore keep My statutes and My judgments, which if a man does, he shall live by them: I am the LORD."
+      }
+    ],
+    "haftarah": {
+      "ref": "Ezekiel 22:1-19",
+      "connection": "Ezekiel catalogues Jerusalem's abominations, including the very sexual transgressions and blood offenses prohibited in Acharei Mot, warning of the consequences of national defilement."
+    }
+  },
+  {
+    "name": "Kedoshim",
+    "start_chapter": 19,
+    "start_verse": 1,
+    "end_chapter": 20,
+    "end_verse": 27,
+    "thematic_summary": "God commands Moses to address the entire congregation of Israel with the charge: 'You shall be holy, for I the LORD your God am holy.' What follows is a sweeping code of ethical and ritual laws — revering parents, keeping Shabbat, leaving the corners of the field for the poor, dealing justly in business, and the foundational command to 'love your neighbor as yourself.' The parasha insists that holiness is not confined to the Temple but permeates every aspect of daily life. Chapter 20 prescribes penalties for violations of these laws, particularly idolatry and sexual immorality.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Addresses the entire congregation with God's call to holiness"
+      },
+      {
+        "name": "God",
+        "role": "Source of the holiness imperative, declaring 'I am the LORD' throughout"
+      }
+    ],
+    "notable_firsts": [
+      "First command to 'love your neighbor as yourself' (19:18)",
+      "First explicit command to leave the corners of the field for the poor (pe'ah) (19:9-10)",
+      "First prohibition of placing a stumbling block before the blind (19:14)",
+      "First prohibition of tattoo marks (19:28)",
+      "First command to revere the elderly — 'rise before the aged' (19:32)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "19:2",
+        "text": "You shall be holy, for I the LORD your God am holy."
+      },
+      {
+        "ref": "19:18",
+        "text": "You shall not take vengeance or bear a grudge against the children of your people; you shall love your neighbor as yourself: I am the LORD."
+      },
+      {
+        "ref": "19:32",
+        "text": "You shall rise before the aged and show deference to the old; you shall fear your God: I am the LORD."
+      }
+    ],
+    "haftarah": {
+      "ref": "Amos 9:7-15",
+      "connection": "Amos affirms that God holds Israel to the same moral standard demanded in Kedoshim, yet promises ultimate restoration — the fallen booth of David will be raised again."
+    }
+  },
+  {
+    "name": "Emor",
+    "start_chapter": 21,
+    "start_verse": 1,
+    "end_chapter": 24,
+    "end_verse": 23,
+    "thematic_summary": "Emor addresses three concentric circles of holiness: the priests, the festivals, and the sacred objects. Special restrictions govern the priests — they must avoid corpse contamination (with exceptions for close relatives), and the High Priest faces even stricter standards. The parasha then presents the annual festival calendar: Shabbat, Passover, the Omer offering, Shavuot, Rosh Hashanah, Yom Kippur, Sukkot, and Shemini Atzeret. It concludes with the laws of the menorah and showbread, and the narrative of a blasphemer who is stoned, establishing the principle of 'an eye for an eye' in judicial context.",
+    "key_figures": [
+      {
+        "name": "Aaron and his sons",
+        "role": "Subject to heightened holiness requirements as priests"
+      },
+      {
+        "name": "Moses",
+        "role": "Transmits the priestly laws and the festival calendar"
+      },
+      {
+        "name": "The blasphemer (son of Shelomith bat Dibri)",
+        "role": "Half-Israelite who blasphemes the Name and is stoned by the community"
+      }
+    ],
+    "notable_firsts": [
+      "First comprehensive festival calendar in the Torah (23:1-44)",
+      "First mention of counting the Omer — fifty days from Passover to Shavuot (23:15-16)",
+      "First mention of the four species (lulav, etrog, myrtle, willow) for Sukkot (23:40)",
+      "First judicial execution for blasphemy (24:10-16, 23)",
+      "First statement of 'an eye for an eye' as a legal principle (24:19-20)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "23:3",
+        "text": "Six days shall work be done, but on the seventh day is a Sabbath of complete rest, a holy convocation; you shall do no work: it is a Sabbath to the LORD in all your dwellings."
+      },
+      {
+        "ref": "23:40",
+        "text": "And you shall take for yourselves on the first day the fruit of a beautiful tree, branches of palm trees, boughs of thick trees, and willows of the brook."
+      },
+      {
+        "ref": "24:20",
+        "text": "Fracture for fracture, eye for eye, tooth for tooth; as he has caused a blemish in a person, so shall it be done to him."
+      }
+    ],
+    "haftarah": {
+      "ref": "Ezekiel 44:15-31",
+      "connection": "Ezekiel describes the priestly duties in the future Temple, echoing the standards of holiness and conduct required of the priests in Emor."
+    }
+  },
+  {
+    "name": "Behar",
+    "start_chapter": 25,
+    "start_verse": 1,
+    "end_chapter": 26,
+    "end_verse": 2,
+    "thematic_summary": "Spoken at Mount Sinai, this parasha establishes the sabbatical year (shemitah) — every seventh year the land must rest and lie fallow — and the Jubilee (yovel) — every fiftieth year when land reverts to its original owners, slaves are freed, and debts are released. These laws embed the principle that the land belongs to God and the Israelites are but sojourners and tenants. The parasha also addresses the redemption of property and persons, prohibits usury among Israelites, and provides for the humane treatment of those who fall into servitude.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Receives and transmits the laws of the sabbatical and Jubilee years"
+      },
+      {
+        "name": "God",
+        "role": "Declares ownership of the land — 'the land is Mine, for you are strangers and sojourners with Me'"
+      }
+    ],
+    "notable_firsts": [
+      "First command for the sabbatical year — the land rests every seventh year (25:1-7)",
+      "First institution of the Jubilee year — liberty proclaimed in the fiftieth year (25:8-13)",
+      "First prohibition of usury and interest among Israelites (25:35-37)",
+      "First explicit statement that God owns the land — 'the land shall not be sold in perpetuity, for the land is Mine' (25:23)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "25:10",
+        "text": "And you shall hallow the fiftieth year, and proclaim liberty throughout the land to all its inhabitants; it shall be a jubilee for you."
+      },
+      {
+        "ref": "25:23",
+        "text": "The land shall not be sold in perpetuity, for the land is Mine; for you are strangers and sojourners with Me."
+      },
+      {
+        "ref": "25:55",
+        "text": "For the children of Israel are servants to Me; they are My servants whom I brought out of the land of Egypt: I am the LORD your God."
+      }
+    ],
+    "haftarah": {
+      "ref": "Jeremiah 32:6-27",
+      "connection": "Jeremiah purchases a field in Anathoth during the Babylonian siege, demonstrating faith in God's promise to restore the land — echoing Behar's laws of land redemption and divine ownership."
+    }
+  },
+  {
+    "name": "Bechukotai",
+    "start_chapter": 26,
+    "start_verse": 3,
+    "end_chapter": 27,
+    "end_verse": 34,
+    "thematic_summary": "The final parasha of Leviticus opens with the Tochachah — a dramatic passage of blessings and curses contingent on Israel's fidelity to the covenant. If Israel walks in God's statutes, the land will yield abundance, peace will reign, and God's presence will dwell among them. But if they reject the commandments, a cascading series of punishments will follow: disease, defeat, famine, exile, and desolation. Yet even in exile, God will not utterly destroy them — the covenant endures. The book closes with laws of valuations, tithes, and dedications to the Temple.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Delivers the blessings, curses, and concluding laws to Israel"
+      },
+      {
+        "name": "God",
+        "role": "Author of the covenant who promises both reward and consequence"
+      }
+    ],
+    "notable_firsts": [
+      "First extended passage of blessings and curses (Tochachah) in the Torah (26:3-46)",
+      "First promise that God will remember the covenant even in Israel's exile (26:44-45)",
+      "First laws of valuations — dedicating persons or property to the Temple by monetary value (27:1-25)",
+      "First mention of the tithe of animals (27:32)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "26:3-4",
+        "text": "If you walk in My statutes and keep My commandments and do them, then I will give your rains in their season, and the land shall yield its produce, and the trees of the field shall yield their fruit."
+      },
+      {
+        "ref": "26:12",
+        "text": "And I will walk among you and will be your God, and you shall be My people."
+      },
+      {
+        "ref": "26:44",
+        "text": "Yet for all that, when they are in the land of their enemies, I will not reject them or abhor them so as to destroy them utterly and break My covenant with them; for I am the LORD their God."
+      }
+    ],
+    "haftarah": {
+      "ref": "Jeremiah 16:19-17:14",
+      "connection": "Jeremiah contrasts trust in God with trust in mortals, echoing the blessings and curses of Bechukotai — blessed is the man who trusts in the LORD, cursed is the one who turns from Him."
+    }
+  }
+]

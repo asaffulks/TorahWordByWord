@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Bamidbar",
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 4,
+    "end_verse": 20,
+    "thematic_summary": "God commands Moses to take a census of all Israelite males aged twenty and above who are fit for military service, yielding a total of 603,550. The twelve tribes are assigned specific positions around the Tabernacle in a precise camp formation, with the Levites encamped in the center as guardians of the sacred precincts. The parasha details the Levite clans — Gershon, Kohath, and Merari — and their respective duties in transporting the Tabernacle. This careful organization transforms the Israelites from a mass of freed slaves into a disciplined, God-centered nation.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Conducts the census and organizes the camp at God's command"
+      },
+      {
+        "name": "Aaron",
+        "role": "Assists Moses in the census, head of the Levitical tribe"
+      },
+      {
+        "name": "The twelve tribal chieftains (nesi'im)",
+        "role": "Lead each tribe and assist in the census count"
+      },
+      {
+        "name": "The Levites (Gershon, Kohath, Merari)",
+        "role": "Charged with transporting and guarding the Tabernacle"
+      }
+    ],
+    "notable_firsts": [
+      "First census of the Israelites in the wilderness (1:1-46)",
+      "First detailed arrangement of the tribal camp around the Tabernacle (2:1-34)",
+      "First assignment of Levitical duties by clan (3:14-39)",
+      "First redemption of the firstborn by the Levites (3:40-51)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "1:2",
+        "text": "Take a census of all the congregation of the children of Israel, by their families, by their fathers' houses, according to the number of names, every male, head by head."
+      },
+      {
+        "ref": "2:2",
+        "text": "The children of Israel shall camp each man by his own standard, with the ensigns of their fathers' houses; they shall camp facing the Tent of Meeting on every side."
+      },
+      {
+        "ref": "3:13",
+        "text": "For every firstborn is Mine; on the day that I struck down all the firstborn in the land of Egypt, I consecrated to Myself every firstborn in Israel, both man and beast; they shall be Mine: I am the LORD."
+      }
+    ],
+    "haftarah": {
+      "ref": "Hosea 2:1-22",
+      "connection": "Hosea prophesies that the number of the children of Israel shall be as the sand of the sea — 'which cannot be measured or counted' — contrasting with the precise census of Bamidbar and promising a future beyond enumeration."
+    }
+  },
+  {
+    "name": "Naso",
+    "start_chapter": 4,
+    "start_verse": 21,
+    "end_chapter": 7,
+    "end_verse": 89,
+    "thematic_summary": "Naso is the longest parasha in the Torah. It completes the Levitical assignments, prescribes the removal of ritually impure persons from the camp, and introduces the laws of the sotah (suspected adulteress) and the nazir (one who takes a vow of abstinence). The parasha reaches its spiritual climax with the Priestly Blessing — the three-fold benediction that Aaron and his sons are commanded to bestow upon Israel. It concludes with the identical offerings brought by each of the twelve tribal chieftains over twelve days for the dedication of the altar.",
+    "key_figures": [
+      {
+        "name": "Aaron and his sons",
+        "role": "Commanded to bless the children of Israel with the Priestly Blessing"
+      },
+      {
+        "name": "Moses",
+        "role": "Receives the laws, hears God's voice from between the cherubim"
+      },
+      {
+        "name": "The twelve tribal chieftains",
+        "role": "Each brings an identical offering for the altar dedication on successive days"
+      }
+    ],
+    "notable_firsts": [
+      "First Priestly Blessing (Birkat Kohanim) — the oldest known biblical text found on silver scrolls (6:24-26)",
+      "First law of the nazir — a layperson's vow of heightened holiness (6:1-21)",
+      "First description of the sotah ordeal for a suspected adulteress (5:11-31)",
+      "First twelve-day dedication of the altar by the tribal leaders (7:1-88)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "6:24-26",
+        "text": "The LORD bless you and keep you; the LORD make His face shine upon you and be gracious to you; the LORD lift up His countenance upon you and give you peace."
+      },
+      {
+        "ref": "6:27",
+        "text": "So shall they put My name upon the children of Israel, and I will bless them."
+      },
+      {
+        "ref": "7:89",
+        "text": "And when Moses went into the Tent of Meeting to speak with Him, he heard the voice speaking to him from above the cover that was upon the Ark of the Testimony, from between the two cherubim; and it spoke to him."
+      }
+    ],
+    "haftarah": {
+      "ref": "Judges 13:2-25",
+      "connection": "The angel's announcement of Samson's birth as a nazir from the womb directly parallels the laws of the nazirite vow in Naso."
+    }
+  },
+  {
+    "name": "Beha'alotcha",
+    "start_chapter": 8,
+    "start_verse": 1,
+    "end_chapter": 12,
+    "end_verse": 16,
+    "thematic_summary": "Aaron is commanded to light the menorah, and the Levites are consecrated for service. God provides for those who missed the first Passover by instituting Pesach Sheni (the Second Passover). The cloud over the Tabernacle guides Israel's journeys, and two silver trumpets signal the camp's movements. When the people begin to complain — first about hardships generally, then about the monotony of manna — God sends quail but also a plague. Moses appoints seventy elders to share his burden of leadership. The parasha ends with Miriam and Aaron speaking against Moses; Miriam is stricken with tzara'at and quarantined for seven days.",
+    "key_figures": [
+      {
+        "name": "Aaron",
+        "role": "Lights the menorah, speaks against Moses alongside Miriam"
+      },
+      {
+        "name": "Moses",
+        "role": "Overwhelmed by the people's complaints, prays for Miriam's healing"
+      },
+      {
+        "name": "Miriam",
+        "role": "Speaks against Moses, stricken with tzara'at for seven days"
+      },
+      {
+        "name": "The seventy elders",
+        "role": "Appointed to share the burden of leadership with Moses"
+      },
+      {
+        "name": "Eldad and Medad",
+        "role": "Prophesy in the camp; Moses wishes all God's people were prophets"
+      }
+    ],
+    "notable_firsts": [
+      "First institution of Pesach Sheni — a second chance to observe Passover (9:9-12)",
+      "First description of the cloud guiding Israel's journeys (9:15-23)",
+      "First appointment of the seventy elders as a governing body (11:16-17, 24-25)",
+      "First inverted nuns — the two reversed-nun brackets around 10:35-36, a unique scribal tradition"
+    ],
+    "famous_verses": [
+      {
+        "ref": "10:35",
+        "text": "And when the Ark set out, Moses would say: Rise up, O LORD, and let Your enemies be scattered, and let those who hate You flee before You."
+      },
+      {
+        "ref": "11:29",
+        "text": "Would that all the LORD's people were prophets, that the LORD would put His spirit upon them!"
+      },
+      {
+        "ref": "12:3",
+        "text": "Now the man Moses was very humble, more so than any person on the face of the earth."
+      }
+    ],
+    "haftarah": {
+      "ref": "Zechariah 2:14-4:7",
+      "connection": "Zechariah's vision of the golden menorah with seven lamps echoes the lighting of the menorah by Aaron, and the declaration 'Not by might, nor by power, but by My spirit' connects to divine guidance of Israel."
+    }
+  },
+  {
+    "name": "Shelach",
+    "start_chapter": 13,
+    "start_verse": 1,
+    "end_chapter": 15,
+    "end_verse": 41,
+    "thematic_summary": "Moses sends twelve spies to scout the Promised Land, and they return after forty days with a cluster of grapes so large it requires two men to carry. Ten spies deliver a terrifying report — the inhabitants are giants and the land devours its settlers — while only Caleb and Joshua urge the people to trust God. The nation panics and demands to return to Egypt, and God decrees that this generation will wander forty years in the wilderness until all adults perish. The parasha concludes with laws of offerings in the Land, the penalty for Sabbath violation, and the commandment of tzitzit (fringes).",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Sends the spies at God's command, intercedes for Israel after their sin"
+      },
+      {
+        "name": "Caleb ben Yephunneh",
+        "role": "Spy from Judah who urges the people to enter the Land"
+      },
+      {
+        "name": "Joshua bin Nun",
+        "role": "Spy from Ephraim who supports Caleb, one of two adults who will enter the Land"
+      },
+      {
+        "name": "The ten spies",
+        "role": "Deliver a fearful report that causes the nation to lose faith"
+      }
+    ],
+    "notable_firsts": [
+      "First reconnaissance mission into the Land of Israel (13:1-25)",
+      "First national crisis of faith — the people weep and demand to return to Egypt (14:1-4)",
+      "First decree of the forty-year wandering (14:33-34)",
+      "First death penalty for Sabbath desecration — the wood-gatherer (15:32-36)",
+      "First commandment of tzitzit (fringes) on garments (15:37-41)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "13:30",
+        "text": "And Caleb silenced the people before Moses and said, 'We shall surely go up and inherit it, for we can indeed overcome it.'"
+      },
+      {
+        "ref": "14:18",
+        "text": "The LORD is slow to anger and abounding in steadfast love, forgiving iniquity and transgression."
+      },
+      {
+        "ref": "15:39-40",
+        "text": "And it shall be a fringe for you, and you shall see it and remember all the commandments of the LORD and do them, and you shall not follow after your own heart and your own eyes."
+      }
+    ],
+    "haftarah": {
+      "ref": "Joshua 2:1-24",
+      "connection": "Joshua sends two spies to Jericho — a successful mission that contrasts with the catastrophic spy mission in Shelach — and Rahab's faith mirrors the trust that the original spies lacked."
+    }
+  },
+  {
+    "name": "Korach",
+    "start_chapter": 16,
+    "start_verse": 1,
+    "end_chapter": 18,
+    "end_verse": 32,
+    "thematic_summary": "Korach, a Levite of the clan of Kohath, along with Dathan, Abiram, and 250 community leaders, mounts a rebellion against the authority of Moses and Aaron, arguing that the entire congregation is holy and questioning why Moses and Aaron elevate themselves. God responds with dramatic judgment: the earth opens and swallows Korach, Dathan, and Abiram, and fire consumes the 250 incense-offerers. When the people complain about these deaths, a plague breaks out and Aaron halts it by running among the people with incense. God confirms Aaron's priesthood through the miracle of his staff that sprouts, blossoms, and bears almonds. The parasha concludes with the priestly and Levitical gifts.",
+    "key_figures": [
+      {
+        "name": "Korach",
+        "role": "Levite who leads the rebellion against Moses and Aaron"
+      },
+      {
+        "name": "Dathan and Abiram",
+        "role": "Reubenites who join Korach's revolt and are swallowed by the earth"
+      },
+      {
+        "name": "Moses",
+        "role": "Defends his God-given authority, proposes the incense test"
+      },
+      {
+        "name": "Aaron",
+        "role": "His priesthood is challenged and then confirmed by the budding staff"
+      }
+    ],
+    "notable_firsts": [
+      "First organized rebellion against divinely appointed leadership (16:1-3)",
+      "First time the earth opens to swallow people (16:31-33)",
+      "First plague stopped by priestly intercession with incense (17:11-13)",
+      "First miraculous proof of priestly election — Aaron's staff blossoms (17:16-24)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "16:3",
+        "text": "They assembled against Moses and Aaron and said to them, 'You have gone too far! For all the congregation are holy, every one of them, and the LORD is among them; why then do you exalt yourselves above the assembly of the LORD?'"
+      },
+      {
+        "ref": "16:22",
+        "text": "They fell on their faces and said, 'O God, the God of the spirits of all flesh, shall one man sin and You be angry with the whole congregation?'"
+      },
+      {
+        "ref": "17:23",
+        "text": "And on the next day Moses went into the Tent of the Testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds."
+      }
+    ],
+    "haftarah": {
+      "ref": "I Samuel 11:14-12:22",
+      "connection": "Samuel defends his leadership before Israel, declaring that he has taken nothing from anyone — paralleling Moses's defense against Korach's charge that he has lorded over the people."
+    }
+  },
+  {
+    "name": "Chukat",
+    "start_chapter": 19,
+    "start_verse": 1,
+    "end_chapter": 22,
+    "end_verse": 1,
+    "thematic_summary": "Chukat opens with the paradoxical law of the red heifer (parah adumah) — it purifies the impure but renders the pure impure, and even King Solomon declared he could not fathom it. The narrative then leaps forward nearly thirty-eight years: Miriam dies and the well dries up, the people complain of thirst, and Moses strikes the rock instead of speaking to it, for which God decrees that he and Aaron will not enter the Land. Aaron dies on Mount Hor and is mourned for thirty days. Israel defeats the Canaanite king of Arad, is plagued by fiery serpents and saved by the bronze serpent, and conquers the kingdoms of Sihon and Og east of the Jordan.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Strikes the rock in anger, told he will not enter the Promised Land"
+      },
+      {
+        "name": "Aaron",
+        "role": "Dies on Mount Hor, his garments transferred to his son Elazar"
+      },
+      {
+        "name": "Miriam",
+        "role": "Dies at Kadesh; the well that sustained Israel dries up at her death"
+      },
+      {
+        "name": "Elazar",
+        "role": "Aaron's son, succeeds him as High Priest"
+      },
+      {
+        "name": "Sihon and Og",
+        "role": "Amorite kings defeated by Israel east of the Jordan"
+      }
+    ],
+    "notable_firsts": [
+      "First law of the red heifer — paradigmatic statute beyond human comprehension (19:1-22)",
+      "First death of Miriam and the drying of the well (20:1-2)",
+      "First account of Moses's sin at the rock — striking instead of speaking (20:7-12)",
+      "First transfer of the high priesthood — from Aaron to Elazar (20:25-28)",
+      "First bronze serpent as an instrument of healing (21:8-9)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "20:12",
+        "text": "And the LORD said to Moses and Aaron, 'Because you did not believe in Me, to sanctify Me in the eyes of the children of Israel, therefore you shall not bring this assembly into the land which I have given them.'"
+      },
+      {
+        "ref": "21:8",
+        "text": "And the LORD said to Moses, 'Make a fiery serpent and set it on a pole; and everyone who is bitten, when he sees it, shall live.'"
+      },
+      {
+        "ref": "21:17",
+        "text": "Then Israel sang this song: Spring up, O well — sing to it!"
+      }
+    ],
+    "haftarah": {
+      "ref": "Judges 11:1-33",
+      "connection": "Jephthah's message to the king of Ammon recounts Israel's conquest of Sihon's territory — the same events narrated in Chukat — to justify Israel's possession of the land."
+    }
+  },
+  {
+    "name": "Balak",
+    "start_chapter": 22,
+    "start_verse": 2,
+    "end_chapter": 25,
+    "end_verse": 9,
+    "thematic_summary": "Balak, king of Moab, fears the Israelites and hires the prophet Balaam to curse them. God intervenes at every turn: Balaam's donkey sees an angel blocking the road and refuses to advance, and when Balaam finally reaches Moab, each attempt to curse Israel is transformed into a blessing. Balaam's oracles include some of the Torah's most beautiful poetry, praising Israel's tents, their destiny, and the future ruler who will arise from Jacob. Unable to curse Israel, Balaam advises Balak to seduce them through the women of Moab and Midian; Israel sins with the Moabite women at Baal-Peor, and a plague kills 24,000.",
+    "key_figures": [
+      {
+        "name": "Balak",
+        "role": "King of Moab who hires Balaam to curse Israel"
+      },
+      {
+        "name": "Balaam",
+        "role": "Non-Israelite prophet who is compelled to bless Israel instead of cursing"
+      },
+      {
+        "name": "Balaam's donkey",
+        "role": "Sees the angel and speaks, rebuking Balaam"
+      },
+      {
+        "name": "Pinchas (Phinehas)",
+        "role": "Zealously acts against the sin at Baal-Peor (his reward comes in the next parasha)"
+      }
+    ],
+    "notable_firsts": [
+      "First and only speaking animal (other than the serpent in Eden) — Balaam's donkey (22:28)",
+      "First oracle by a non-Israelite prophet that blesses Israel (23:7-10)",
+      "First mention of a star arising from Jacob — a messianic allusion (24:17)",
+      "First sin of idolatry with foreign women at Baal-Peor (25:1-3)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "24:5",
+        "text": "How goodly are your tents, O Jacob, your dwelling places, O Israel!"
+      },
+      {
+        "ref": "24:17",
+        "text": "I see him, but not now; I behold him, but not near. A star shall come forth from Jacob, and a scepter shall rise from Israel."
+      },
+      {
+        "ref": "23:10",
+        "text": "Who can count the dust of Jacob, or number the stock of Israel? Let me die the death of the upright, and let my end be like his."
+      }
+    ],
+    "haftarah": {
+      "ref": "Micah 5:6-6:8",
+      "connection": "Micah reminds Israel of God's salvation from Balak and Balaam and delivers one of Scripture's greatest summaries: 'What does the LORD require of you but to do justice, love mercy, and walk humbly with your God.'"
+    }
+  },
+  {
+    "name": "Pinchas",
+    "start_chapter": 25,
+    "start_verse": 10,
+    "end_chapter": 30,
+    "end_verse": 1,
+    "thematic_summary": "God rewards Pinchas with a covenant of peace and eternal priesthood for his zealous act that halted the plague at Baal-Peor. A second census is taken in preparation for entering the Land, yielding 601,730. The daughters of Zelophehad — Mahlah, Noah, Hoglah, Milcah, and Tirzah — petition for their father's inheritance since he left no sons, and God affirms their claim, establishing a precedent in inheritance law. Moses ascends Mount Abarim to view the Land he will not enter and commissions Joshua as his successor. The parasha concludes with the detailed calendar of communal offerings — daily, Sabbath, new moon, and festival sacrifices.",
+    "key_figures": [
+      {
+        "name": "Pinchas (Phinehas)",
+        "role": "Rewarded with the covenant of peace and eternal priesthood"
+      },
+      {
+        "name": "The daughters of Zelophehad",
+        "role": "Mahlah, Noah, Hoglah, Milcah, and Tirzah petition for inheritance rights"
+      },
+      {
+        "name": "Moses",
+        "role": "Conducts the second census, sees the Land from afar, commissions Joshua"
+      },
+      {
+        "name": "Joshua bin Nun",
+        "role": "Commissioned as Moses's successor by the laying on of hands"
+      }
+    ],
+    "notable_firsts": [
+      "First covenant of peace granted to an individual — Pinchas (25:12)",
+      "First legal claim by women for inheritance — the daughters of Zelophehad (27:1-11)",
+      "First formal transfer of leadership — Moses commissions Joshua (27:18-23)",
+      "First comprehensive calendar of communal daily and festival offerings (28:1-29:39)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "25:12-13",
+        "text": "Therefore say: I give him My covenant of peace, and it shall be for him and for his descendants after him a covenant of eternal priesthood."
+      },
+      {
+        "ref": "27:7",
+        "text": "The daughters of Zelophehad speak rightly; you shall surely give them a possession of an inheritance among their father's brothers."
+      },
+      {
+        "ref": "27:16-17",
+        "text": "Let the LORD, the God of the spirits of all flesh, appoint a man over the congregation who shall go out before them and come in before them, who shall lead them out and bring them in, that the congregation of the LORD may not be as sheep that have no shepherd."
+      }
+    ],
+    "haftarah": {
+      "ref": "I Kings 18:46-19:21",
+      "connection": "Elijah's zealousness for God parallels Pinchas's zeal; the rabbis identify Pinchas with Elijah, and both act decisively when Israel strays into idolatry."
+    }
+  },
+  {
+    "name": "Matot",
+    "start_chapter": 30,
+    "start_verse": 2,
+    "end_chapter": 32,
+    "end_verse": 42,
+    "thematic_summary": "Matot opens with the laws of vows and oaths, emphasizing that a person's word is binding — 'he shall not break his word; he shall do according to all that comes out of his mouth.' God commands Israel to take vengeance on Midian for the seduction at Baal-Peor; the war is fought and the spoils divided according to precise rules. The tribes of Reuben and Gad, seeing the rich pasturelands east of the Jordan, request to settle there. Moses initially rebukes them, fearing a repeat of the spies' sin, but agrees on the condition that they lead the military crossing into the Land of Israel before returning to their territory.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Teaches vow laws, leads the Midianite war, negotiates with Reuben and Gad"
+      },
+      {
+        "name": "Pinchas",
+        "role": "Leads the army against Midian carrying the sacred vessels"
+      },
+      {
+        "name": "Reuben and Gad (tribal leaders)",
+        "role": "Request settlement east of the Jordan, agree to fight first in the Land"
+      },
+      {
+        "name": "Elazar the priest",
+        "role": "Instructs the soldiers in the purification of the spoils of war"
+      }
+    ],
+    "notable_firsts": [
+      "First comprehensive law of vows and their annulment (30:2-17)",
+      "First divinely commanded war of vengeance — against Midian (31:1-12)",
+      "First detailed rules for purifying war spoils (31:19-24)",
+      "First negotiated settlement of land east of the Jordan (32:1-42)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "30:3",
+        "text": "If a man makes a vow to the LORD or takes an oath imposing an obligation on himself, he shall not break his word; he shall do according to all that comes out of his mouth."
+      },
+      {
+        "ref": "32:23",
+        "text": "But if you will not do so, behold, you have sinned against the LORD; and be sure your sin will find you out."
+      }
+    ],
+    "haftarah": {
+      "ref": "Jeremiah 1:1-2:3",
+      "connection": "This is the first of the three Haftarot of Rebuke read before Tisha B'Av; Jeremiah's call as a prophet and his warning of judgment parallel the themes of accountability in Matot."
+    }
+  },
+  {
+    "name": "Masei",
+    "start_chapter": 33,
+    "start_verse": 1,
+    "end_chapter": 36,
+    "end_verse": 13,
+    "thematic_summary": "Masei ('Journeys') opens with a detailed itinerary of Israel's forty-two encampments from Egypt to the plains of Moab, a retrospective that traces God's faithfulness through the wilderness. God then commands the Israelites to drive out the inhabitants of Canaan and outlines the precise boundaries of the Promised Land, appointing tribal leaders to oversee the division. Six cities of refuge are established for those who commit manslaughter, providing protection from the blood avenger until the death of the High Priest. The book closes by resolving the inheritance case of Zelophehad's daughters — they must marry within their tribe to keep the land from transferring between tribes.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Records the journey itinerary and transmits the land-division laws"
+      },
+      {
+        "name": "The daughters of Zelophehad",
+        "role": "Marry within the tribe of Manasseh to preserve their inheritance"
+      },
+      {
+        "name": "Elazar the priest",
+        "role": "Designated alongside Joshua to oversee the division of the Land"
+      },
+      {
+        "name": "Joshua",
+        "role": "Will lead the division of the Land among the tribes"
+      }
+    ],
+    "notable_firsts": [
+      "First complete itinerary of a nation's journey — forty-two stations (33:1-49)",
+      "First delineation of the boundaries of the Promised Land (34:1-12)",
+      "First establishment of cities of refuge for accidental killers (35:9-28)",
+      "First rule requiring heiresses to marry within their tribe (36:6-9)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "33:1",
+        "text": "These are the journeys of the children of Israel who went forth from the land of Egypt, by their hosts, under the hand of Moses and Aaron."
+      },
+      {
+        "ref": "35:11",
+        "text": "You shall designate cities to serve you as cities of refuge, where a manslayer who has killed a person unintentionally may flee."
+      },
+      {
+        "ref": "35:34",
+        "text": "You shall not defile the land in which you live, in the midst of which I dwell; for I the LORD dwell in the midst of the children of Israel."
+      }
+    ],
+    "haftarah": {
+      "ref": "Jeremiah 2:4-28; 3:4",
+      "connection": "This is the second of the three Haftarot of Rebuke; Jeremiah accuses Israel of abandoning God after He led them through the wilderness — recalling the journey itinerary of Masei and Israel's ingratitude despite divine guidance."
+    }
+  }
+]

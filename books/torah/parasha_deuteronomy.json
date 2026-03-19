@@ -1,0 +1,504 @@
+[
+  {
+    "name": "Devarim",
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 3,
+    "end_verse": 22,
+    "thematic_summary": "Moses begins his farewell address to the new generation on the plains of Moab, recapping the forty-year journey from Horeb to the threshold of the Promised Land. He recounts the appointment of judges, the catastrophic failure of the spies, the resulting forty-year decree, and the recent victories over Sihon king of Heshbon and Og king of Bashan. Moses reinterprets these events as lessons in faith and consequence, urging the people to learn from their parents' failures. This is Moses the teacher at his most reflective, preparing a nation to succeed where its predecessors fell short.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Delivers his farewell oration, recounting Israel's journey and failures"
+      },
+      {
+        "name": "Joshua",
+        "role": "Encouraged by Moses — 'Do not fear them, for the LORD your God fights for you'"
+      },
+      {
+        "name": "Caleb",
+        "role": "Recalled as the faithful spy who will receive his promised inheritance"
+      },
+      {
+        "name": "Sihon and Og",
+        "role": "Amorite kings whose defeat is recounted as proof of God's power"
+      }
+    ],
+    "notable_firsts": [
+      "First time Moses retells the wilderness narrative in his own voice (1:6-3:22)",
+      "First appointment of a judicial system — 'judges and officers for your tribes' (1:15-17)",
+      "First explicit statement that the Torah is always read on Shabbat Chazon before Tisha B'Av"
+    ],
+    "famous_verses": [
+      {
+        "ref": "1:17",
+        "text": "You shall not show partiality in judgment; you shall hear the small and the great alike. You shall not be afraid of any man, for the judgment is God's."
+      },
+      {
+        "ref": "1:21",
+        "text": "See, the LORD your God has set the land before you; go up, take possession, as the LORD the God of your fathers has spoken to you. Do not fear and do not be dismayed."
+      },
+      {
+        "ref": "3:22",
+        "text": "You shall not fear them, for the LORD your God is the One who fights for you."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 1:1-27",
+      "connection": "The Haftarah of Chazon (Vision) is always read on the Shabbat before Tisha B'Av. Isaiah rebukes a sinful nation, paralleling Moses's rebuke of Israel's failures in the wilderness."
+    }
+  },
+  {
+    "name": "Va'etchanan",
+    "start_chapter": 3,
+    "start_verse": 23,
+    "end_chapter": 7,
+    "end_verse": 11,
+    "thematic_summary": "Moses recounts his plea to enter the Land — 'Let me cross over and see the good land' — and God's firm refusal. He then delivers one of the Torah's most theologically dense passages, warning against idolatry, proclaiming that there is no God but the LORD, and repeating the Ten Commandments. The parasha contains the Shema — the foundational declaration of Jewish faith — and the command to teach God's words diligently to one's children, bind them as a sign, and write them on the doorposts. Moses designates three cities of refuge east of the Jordan.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Pleads to enter the Land, delivers the Shema and the Ten Commandments"
+      },
+      {
+        "name": "God",
+        "role": "Refuses Moses's plea, reveals Himself as the sole God of heaven and earth"
+      }
+    ],
+    "notable_firsts": [
+      "First recitation of the Shema — 'Hear, O Israel: the LORD our God, the LORD is one' (6:4)",
+      "First repetition of the Ten Commandments in Deuteronomy (5:6-18)",
+      "First command of tefillin — 'bind them as a sign upon your hand' (6:8)",
+      "First command of mezuzah — 'write them on the doorposts of your house' (6:9)",
+      "First designation of cities of refuge east of the Jordan (4:41-43)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "6:4",
+        "text": "Hear, O Israel: the LORD our God, the LORD is one."
+      },
+      {
+        "ref": "6:5",
+        "text": "And you shall love the LORD your God with all your heart, and with all your soul, and with all your might."
+      },
+      {
+        "ref": "4:35",
+        "text": "You have been shown, in order to know, that the LORD is God; there is none beside Him."
+      },
+      {
+        "ref": "6:7",
+        "text": "And you shall teach them diligently to your children, and you shall speak of them when you sit in your house and when you walk by the way, when you lie down and when you rise up."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 40:1-26",
+      "connection": "The Haftarah of Nachamu — 'Comfort, comfort My people' — is always read on the Shabbat after Tisha B'Av, offering consolation after mourning, just as Va'etchanan follows the rebuke of Devarim."
+    }
+  },
+  {
+    "name": "Eikev",
+    "start_chapter": 7,
+    "start_verse": 12,
+    "end_chapter": 11,
+    "end_verse": 25,
+    "thematic_summary": "Moses promises that if Israel faithfully observes God's commandments, they will be blessed with prosperity, health, and victory over their enemies. He reminds the people of the wilderness years — the hunger, the manna, the thirst — all designed to teach that 'man does not live by bread alone, but by every word that comes from the mouth of the LORD.' Moses recalls the golden calf, the broken tablets, and the second set of tablets, emphasizing God's mercy and Israel's stubbornness. The parasha contains the second paragraph of the Shema, linking rain and harvest to obedience, and the command to circumcise the foreskin of the heart.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Exhorts Israel to remember God's provision and to remain faithful"
+      },
+      {
+        "name": "God",
+        "role": "Tested Israel in the wilderness with manna, demands wholehearted devotion"
+      }
+    ],
+    "notable_firsts": [
+      "First declaration that 'man does not live by bread alone' (8:3)",
+      "First description of the Land's seven species — wheat, barley, grapes, figs, pomegranates, olives, dates (8:8)",
+      "First command to bless God after eating — the source of Birkat Hamazon (Grace After Meals) (8:10)",
+      "First command to circumcise the heart (10:16)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "8:3",
+        "text": "He afflicted you and let you hunger, and fed you with manna, which you did not know, nor did your fathers know, that He might make you know that man does not live by bread alone, but by every word that comes from the mouth of the LORD."
+      },
+      {
+        "ref": "8:10",
+        "text": "And you shall eat and be satisfied, and you shall bless the LORD your God for the good land which He has given you."
+      },
+      {
+        "ref": "10:12",
+        "text": "And now, Israel, what does the LORD your God require of you, but to fear the LORD your God, to walk in all His ways, to love Him, and to serve the LORD your God with all your heart and with all your soul."
+      },
+      {
+        "ref": "10:19",
+        "text": "You shall love the stranger, for you were strangers in the land of Egypt."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 49:14-51:3",
+      "connection": "The second Haftarah of consolation; Zion laments that God has forsaken her, but God responds that a mother may forget her child yet He will never forget Israel — echoing Eikev's promise that obedience brings divine remembrance."
+    }
+  },
+  {
+    "name": "Re'eh",
+    "start_chapter": 11,
+    "start_verse": 26,
+    "end_chapter": 16,
+    "end_verse": 17,
+    "thematic_summary": "Moses sets before the people a stark choice: blessing and curse, obedience and rebellion. He commands that upon entering the Land, the blessings be proclaimed on Mount Gerizim and the curses on Mount Ebal. The parasha then lays out laws for centralized worship — sacrifices may only be offered at the place God will choose — and warns against false prophets and enticers to idolatry. The dietary laws are reviewed, the sabbatical year's release of debts is commanded, and the three pilgrimage festivals — Passover, Shavuot, and Sukkot — are prescribed, with the instruction that no one shall appear before God empty-handed.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Presents the choice of blessing and curse, legislates centralized worship"
+      }
+    ],
+    "notable_firsts": [
+      "First presentation of blessing and curse as a national choice (11:26-28)",
+      "First command for a single chosen place of worship (12:5-7)",
+      "First law requiring the release of debts every seventh year (15:1-3)",
+      "First instruction that 'no man shall appear before the LORD empty-handed' at the festivals (16:16-17)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "11:26",
+        "text": "See, I set before you today a blessing and a curse."
+      },
+      {
+        "ref": "15:7-8",
+        "text": "If there is among you a needy person, one of your brothers, in any of your towns in your land which the LORD your God gives you, you shall not harden your heart or shut your hand against your needy brother, but you shall open your hand wide to him."
+      },
+      {
+        "ref": "16:20",
+        "text": "Justice, justice shall you pursue, that you may live and inherit the land which the LORD your God gives you."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 54:11-55:5",
+      "connection": "The third Haftarah of consolation; Isaiah promises that afflicted Jerusalem will be rebuilt with precious stones and her children taught by God — reflecting Re'eh's vision of a blessed, obedient Israel in its Land."
+    }
+  },
+  {
+    "name": "Shoftim",
+    "start_chapter": 16,
+    "start_verse": 18,
+    "end_chapter": 21,
+    "end_verse": 9,
+    "thematic_summary": "Moses establishes the institutional framework for a just society in the Promised Land. Judges and officers must be appointed in every city, and justice must never be perverted by bribery or favoritism. The parasha legislates the powers and limitations of the king, who must write a Torah scroll and read it daily. It defines the priestly tribe's portion, warns against the abominations of the Canaanite nations, and promises the rise of prophets like Moses. Laws of warfare include the requirement to offer peace before besieging a city and the prohibition against destroying fruit trees. The parasha concludes with the ceremony of the eglah arufah (broken-necked heifer) when a murder victim is found between cities.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Legislates the constitutional structure of the future Israelite society"
+      },
+      {
+        "name": "The future king",
+        "role": "Must not accumulate horses, wives, or wealth, and must study Torah daily"
+      },
+      {
+        "name": "The future prophet",
+        "role": "God promises to raise a prophet like Moses whom the people must heed"
+      }
+    ],
+    "notable_firsts": [
+      "First constitutional law for appointing judges in every city (16:18)",
+      "First law of the king — limitations on royal power (17:14-20)",
+      "First promise of a prophet like Moses (18:15, 18)",
+      "First establishment of cities of refuge with procedural detail (19:1-10)",
+      "First rules of engagement in warfare — exemptions and conduct (20:1-20)",
+      "First prohibition of destroying fruit trees during a siege (20:19)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "16:18",
+        "text": "Judges and officers you shall appoint in all your gates, which the LORD your God gives you, throughout your tribes; and they shall judge the people with righteous judgment."
+      },
+      {
+        "ref": "16:20",
+        "text": "Justice, justice shall you pursue, that you may live and inherit the land which the LORD your God gives you."
+      },
+      {
+        "ref": "18:15",
+        "text": "A prophet from your midst, from your brothers, like me, shall the LORD your God raise up for you; to him you shall listen."
+      },
+      {
+        "ref": "20:19",
+        "text": "When you besiege a city for many days, making war against it to capture it, you shall not destroy its trees by wielding an axe against them; for you may eat from them, and you shall not cut them down. For is the tree of the field a man, that it should be besieged by you?"
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 51:12-52:12",
+      "connection": "The fourth Haftarah of consolation; Isaiah proclaims God as Israel's true comforter and judge, echoing Shoftim's vision of a divinely ordered society ruled by justice."
+    }
+  },
+  {
+    "name": "Ki Teitzei",
+    "start_chapter": 21,
+    "start_verse": 10,
+    "end_chapter": 25,
+    "end_verse": 19,
+    "thematic_summary": "Ki Teitzei contains more commandments than any other parasha — seventy-four by traditional count — spanning family law, civil law, commercial ethics, and compassion for the vulnerable. The laws address the captive woman, the rights of the firstborn, the rebellious son, burial of the executed, returning lost property, the prohibition of cross-dressing, sending away the mother bird, building a parapet on a roof, and prohibitions against mixed planting and weaving. Laws of marriage, divorce, and sexual morality are detailed, as are protections for workers, widows, orphans, and strangers. The parasha concludes with the command to remember Amalek's attack and to blot out their memory.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Delivers the most extensive collection of laws in Deuteronomy"
+      }
+    ],
+    "notable_firsts": [
+      "First law of the captive woman's rights in warfare (21:10-14)",
+      "First command to build a parapet (safety railing) on a roof (22:8)",
+      "First law of sending away the mother bird (shiluach haken) (22:6-7)",
+      "First prohibition of charging interest to a fellow Israelite (23:20)",
+      "First explicit command to give a laborer his wages on time (24:14-15)",
+      "First command to remember Amalek and blot out their memory (25:17-19)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "22:6-7",
+        "text": "If a bird's nest happens to be before you on the road, in any tree or on the ground, with young ones or eggs, and the mother sitting on the young or on the eggs, you shall not take the mother with the young. You shall surely send the mother away, and take the young for yourself, that it may be well with you and that you may prolong your days."
+      },
+      {
+        "ref": "24:16",
+        "text": "Fathers shall not be put to death for children, nor children for fathers; each person shall be put to death for his own sin."
+      },
+      {
+        "ref": "25:13-15",
+        "text": "You shall not have in your bag differing weights, a large and a small. You shall have a perfect and just weight, a perfect and just measure, that your days may be lengthened in the land which the LORD your God gives you."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 54:1-10",
+      "connection": "The fifth Haftarah of consolation; Isaiah compares Israel to a barren woman who will rejoice with many children, and promises an everlasting covenant of peace — the compassion that underlies Ki Teitzei's extensive social legislation."
+    }
+  },
+  {
+    "name": "Ki Tavo",
+    "start_chapter": 26,
+    "start_verse": 1,
+    "end_chapter": 29,
+    "end_verse": 8,
+    "thematic_summary": "Upon entering the Land, the Israelite must bring first fruits to the Temple and recite a declaration beginning 'My father was a wandering Aramean' — a capsule history from Jacob's descent to Egypt through the Exodus. The parasha then describes the ceremony at Mounts Gerizim and Ebal, where the tribes pronounce blessings and curses. The Tochachah (Rebuke) of Deuteronomy follows — a harrowing prophecy of the consequences of disobedience that is even more severe than Leviticus's warnings, foretelling siege, starvation, exile, and dispersion among the nations. Moses concludes by reminding the people that despite forty years of miracles, 'the LORD has not given you a heart to understand or eyes to see or ears to hear until this day.'",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Prescribes the first-fruits ceremony and delivers the Tochachah"
+      },
+      {
+        "name": "The Levites",
+        "role": "Pronounce the curses on Mount Ebal"
+      }
+    ],
+    "notable_firsts": [
+      "First prescription of the first-fruits declaration (Mikra Bikkurim) — 'My father was a wandering Aramean' (26:5-10)",
+      "First tithe declaration (vidui ma'aser) (26:12-15)",
+      "First pronouncement of blessings and curses on Gerizim and Ebal (27:11-26)",
+      "First extended Tochachah (Rebuke) in Deuteronomy — ninety-eight curses (28:15-68)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "26:5",
+        "text": "And you shall answer and say before the LORD your God: A wandering Aramean was my father, and he went down to Egypt and sojourned there, few in number; and there he became a nation, great, mighty, and numerous."
+      },
+      {
+        "ref": "29:3",
+        "text": "But the LORD has not given you a heart to understand or eyes to see or ears to hear, until this day."
+      },
+      {
+        "ref": "28:9",
+        "text": "The LORD will establish you as a holy people to Himself, as He has sworn to you, if you keep the commandments of the LORD your God and walk in His ways."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 60:1-22",
+      "connection": "The sixth Haftarah of consolation; Isaiah proclaims 'Arise, shine, for your light has come' — a vision of Jerusalem's restoration and glory that counterbalances the devastating curses of the Tochachah."
+    }
+  },
+  {
+    "name": "Nitzavim",
+    "start_chapter": 29,
+    "start_verse": 9,
+    "end_chapter": 30,
+    "end_verse": 20,
+    "thematic_summary": "On the last day of his life, Moses gathers all of Israel — leaders and laborers, men and women, children and strangers — and renews the covenant, declaring that it binds not only those present but all future generations. He warns against secret idolatry and promises that after exile and suffering, God will restore Israel if they return with all their heart. Moses insists that the Torah is not in heaven or across the sea but 'very near to you, in your mouth and in your heart, that you may do it.' The parasha culminates in the ultimate existential choice: 'I have set before you life and death, blessing and curse — choose life.'",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Renews the covenant with all of Israel on his final day"
+      },
+      {
+        "name": "All of Israel",
+        "role": "Every person — from leader to water-carrier — stands in covenant before God"
+      }
+    ],
+    "notable_firsts": [
+      "First explicit inclusion of all future generations in the covenant (29:13-14)",
+      "First promise of national repentance and return (teshuvah) from exile (30:1-5)",
+      "First declaration that the Torah is accessible — 'it is not in heaven' (30:11-14)",
+      "First framing of the covenant as a choice between life and death (30:19)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "29:13-14",
+        "text": "Not with you alone do I make this covenant and this oath, but with those who are standing here with us today before the LORD our God, and also with those who are not here with us today."
+      },
+      {
+        "ref": "30:12-14",
+        "text": "It is not in heaven, that you should say, 'Who will go up to heaven for us and bring it to us?' Neither is it beyond the sea... But the word is very near to you, in your mouth and in your heart, that you may do it."
+      },
+      {
+        "ref": "30:19",
+        "text": "I call heaven and earth to witness against you today: I have set before you life and death, blessing and curse. Choose life, that you and your offspring may live."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 61:10-63:9",
+      "connection": "The seventh and final Haftarah of consolation; Isaiah rejoices in God's salvation and restoration of Zion, completing the cycle of comfort that mirrors Nitzavim's promise of return and renewal."
+    }
+  },
+  {
+    "name": "Vayelech",
+    "start_chapter": 31,
+    "start_verse": 1,
+    "end_chapter": 31,
+    "end_verse": 30,
+    "thematic_summary": "At the age of 120, Moses tells the people that he can no longer go out and come in, and that Joshua will lead them across the Jordan. He writes the Torah and entrusts it to the priests and elders, commanding that it be read publicly every seven years during Sukkot of the sabbatical year — the ceremony of Hakhel (Assembly). God summons Moses and Joshua to the Tent of Meeting and reveals that Israel will inevitably stray after Moses's death. God instructs Moses to write a song (Ha'azinu) as a witness against the people. The Torah scroll is placed beside the Ark of the Covenant.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Writes the Torah, transfers leadership to Joshua, receives the Song"
+      },
+      {
+        "name": "Joshua",
+        "role": "Commissioned publicly before all Israel — 'Be strong and courageous'"
+      },
+      {
+        "name": "God",
+        "role": "Foretells Israel's future apostasy and commands the writing of the Song"
+      }
+    ],
+    "notable_firsts": [
+      "First command to read the Torah publicly every seven years (Hakhel) (31:10-13)",
+      "First mention of writing the Torah and placing it beside the Ark (31:24-26)",
+      "First divine prophecy that Israel will break the covenant after Moses's death (31:16-18)",
+      "First charge to write a song as a prophetic witness (31:19)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "31:6",
+        "text": "Be strong and courageous, do not fear or be in dread of them; for it is the LORD your God who goes with you. He will not fail you or forsake you."
+      },
+      {
+        "ref": "31:8",
+        "text": "It is the LORD who goes before you; He will be with you. He will not fail you or forsake you. Do not fear or be dismayed."
+      },
+      {
+        "ref": "31:19",
+        "text": "Now write this song for yourselves, and teach it to the children of Israel; put it in their mouths, that this song may be a witness for Me against the children of Israel."
+      }
+    ],
+    "haftarah": {
+      "ref": "Hosea 14:2-10; Micah 7:18-20; Joel 2:15-27",
+      "connection": "Read on Shabbat Shuvah (the Sabbath of Return between Rosh Hashanah and Yom Kippur), the prophets call Israel to repentance, echoing Vayelech's theme of return to God even after inevitable failure."
+    }
+  },
+  {
+    "name": "Ha'azinu",
+    "start_chapter": 32,
+    "start_verse": 1,
+    "end_chapter": 32,
+    "end_verse": 52,
+    "thematic_summary": "Ha'azinu is Moses's great song — a sweeping poem that calls heaven and earth as witnesses and surveys the entire arc of Israel's relationship with God. It proclaims God's faithfulness and justice, recalls His tender care for Israel in the wilderness, and foretells the nation's prosperity, complacency, and eventual turn to idolatry. God will hide His face and bring calamity, yet ultimately will vindicate His people and judge their enemies. After completing the song, God commands Moses to ascend Mount Nebo to view the Promised Land and to die there, as Aaron died on Mount Hor.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Poet and prophet who delivers his final song to all of Israel"
+      },
+      {
+        "name": "God",
+        "role": "The Rock whose work is perfect and whose ways are just"
+      },
+      {
+        "name": "Joshua",
+        "role": "Named alongside Moses as the one who will lead Israel forward"
+      }
+    ],
+    "notable_firsts": [
+      "First extended poetic song by Moses — calling heaven and earth as witnesses (32:1-43)",
+      "First use of 'The Rock' (HaTzur) as a name for God (32:4)",
+      "First prophetic overview of Israel's entire future history in poetic form (32:1-43)",
+      "First command to Moses to ascend Mount Nebo to die (32:49-50)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "32:4",
+        "text": "The Rock, His work is perfect, for all His ways are justice; a God of faithfulness and without iniquity, just and upright is He."
+      },
+      {
+        "ref": "32:7",
+        "text": "Remember the days of old, consider the years of many generations; ask your father and he will show you, your elders and they will tell you."
+      },
+      {
+        "ref": "32:10-11",
+        "text": "He found him in a desert land, and in the howling waste of a wilderness; He encircled him, He cared for him, He guarded him as the apple of His eye. As an eagle stirs up its nest, hovers over its young, spreads its wings, catches them, bears them on its pinions."
+      },
+      {
+        "ref": "32:47",
+        "text": "For it is no empty thing for you; it is your very life, and through this word you shall prolong your days in the land that you are crossing the Jordan to possess."
+      }
+    ],
+    "haftarah": {
+      "ref": "II Samuel 22:1-51",
+      "connection": "David's song of thanksgiving after God delivers him from his enemies parallels Moses's song in both poetic form and theological content — both praise God as the Rock and faithful redeemer."
+    }
+  },
+  {
+    "name": "V'Zot HaBracha",
+    "start_chapter": 33,
+    "start_verse": 1,
+    "end_chapter": 34,
+    "end_verse": 12,
+    "thematic_summary": "In his final act, Moses blesses each of the twelve tribes individually, echoing Jacob's deathbed blessings in Genesis yet with a distinctly national and prophetic tone. The blessings celebrate each tribe's unique gifts and destiny — Judah's leadership, Levi's teaching, Joseph's abundance, Benjamin's divine shelter. Moses then ascends Mount Nebo, where God shows him the entire Land from Gilead to the Negev. Moses dies there at age 120 — 'his eye was not dim, nor his vigor diminished' — and God buries him in an unknown grave. The Torah concludes with the declaration that no prophet has risen in Israel like Moses, whom God knew face to face.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Blesses the tribes, views the Land from Nebo, dies at 120"
+      },
+      {
+        "name": "Joshua bin Nun",
+        "role": "Filled with the spirit of wisdom, succeeds Moses as leader"
+      },
+      {
+        "name": "God",
+        "role": "Shows Moses the Land, buries him in an unmarked grave"
+      }
+    ],
+    "notable_firsts": [
+      "First and only parasha not read on a regular Shabbat — read on Simchat Torah",
+      "First account of a prophet seeing the entire Promised Land (34:1-3)",
+      "First burial by God Himself — 'He buried him in the valley' (34:6)",
+      "Final statement of Moses's uniqueness — 'no prophet has risen in Israel like Moses' (34:10)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "33:1",
+        "text": "And this is the blessing with which Moses the man of God blessed the children of Israel before his death."
+      },
+      {
+        "ref": "33:27",
+        "text": "The eternal God is your dwelling place, and underneath are the everlasting arms."
+      },
+      {
+        "ref": "34:5-6",
+        "text": "So Moses the servant of the LORD died there in the land of Moab, according to the word of the LORD. And He buried him in the valley in the land of Moab, opposite Beth-peor; and no man knows his burial place to this day."
+      },
+      {
+        "ref": "34:10",
+        "text": "And there has not arisen a prophet since in Israel like Moses, whom the LORD knew face to face."
+      }
+    ],
+    "haftarah": {
+      "ref": "Joshua 1:1-18",
+      "connection": "Immediately after Moses's death, God commissions Joshua to lead Israel across the Jordan, directly continuing the narrative — 'Moses My servant is dead; now arise, cross this Jordan.'"
+    }
+  }
+]

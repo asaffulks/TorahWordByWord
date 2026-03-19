@@ -1,0 +1,622 @@
+[
+  {
+    "name": "Shemot",
+    "thematic_summary": "A new Pharaoh who did not know Joseph enslaves the Israelites and orders the drowning of all newborn Hebrew boys. Moses is born, hidden in a basket on the Nile, and raised in Pharaoh's palace. After killing an Egyptian taskmaster and fleeing to Midian, Moses encounters God at the burning bush and receives his mission to deliver Israel from bondage. He returns to Egypt with Aaron and demands that Pharaoh let the people go, but Pharaoh responds by increasing their burden.",
+    "key_figures": [
+      {
+        "name": "Moses (Moshe)",
+        "role": "Born in slavery, raised in Pharaoh's house, called by God at the burning bush to lead Israel out of Egypt"
+      },
+      {
+        "name": "Aaron (Aharon)",
+        "role": "Moses's elder brother, appointed as his spokesman before Pharaoh"
+      },
+      {
+        "name": "Pharaoh",
+        "role": "King of Egypt who enslaves Israel, refuses to let the people go"
+      },
+      {
+        "name": "Jochebed (Yocheved)",
+        "role": "Moses's mother, hides him for three months and places him in a basket on the Nile"
+      },
+      {
+        "name": "Miriam",
+        "role": "Moses's sister, watches over the basket and arranges for Jochebed to nurse him"
+      },
+      {
+        "name": "Pharaoh's daughter (Batya)",
+        "role": "Draws Moses from the water and raises him as her own"
+      },
+      {
+        "name": "Zipporah (Tzipporah)",
+        "role": "Daughter of Jethro, becomes Moses's wife in Midian"
+      }
+    ],
+    "notable_firsts": [
+      "First national enslavement of the Israelites (1:11-14)",
+      "First act of civil disobedience — the midwives Shiphrah and Puah defy Pharaoh's decree (1:17)",
+      "First theophany at the burning bush — fire that does not consume (3:2-4)",
+      "First revelation of God's name 'I AM THAT I AM' (Ehyeh Asher Ehyeh) (3:14)",
+      "First demand 'Let my people go' — Shelach et ami (5:1)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "2:10",
+        "text": "And she called his name Moses, and she said, 'Because I drew him out of the water.'"
+      },
+      {
+        "ref": "3:5",
+        "text": "Do not come closer; remove your sandals from your feet, for the place on which you stand is holy ground."
+      },
+      {
+        "ref": "3:14",
+        "text": "And God said to Moses, 'I AM THAT I AM'; and He said, 'Thus shall you say to the children of Israel: I AM has sent me to you.'"
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 27:6-28:13, 29:22-23",
+      "connection": "Isaiah prophesies Israel's future flourishing after suffering, echoing the parasha's theme of a people oppressed yet destined for redemption."
+    },
+    "start_chapter": 1,
+    "start_verse": 1,
+    "end_chapter": 6,
+    "end_verse": 1,
+    "he": "שְׁמוֹת",
+    "stats": {
+      "verses": 124,
+      "words": 1529,
+      "total_gematria": 445028,
+      "unique_roots": 363
+    },
+    "gematria_note": "Total gematria: 445,028"
+  },
+  {
+    "name": "Va'era",
+    "thematic_summary": "God reassures Moses with the fourfold language of redemption, revealing Himself by the name YHVH and reaffirming the covenant with the patriarchs. Moses and Aaron confront Pharaoh, and Aaron's staff swallows those of the Egyptian sorcerers. God unleashes the first seven plagues upon Egypt — blood, frogs, lice, wild beasts, pestilence, boils, and hail — each escalating in severity, yet Pharaoh's heart remains hardened and he refuses to release the Israelites.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "God's messenger, demands Pharaoh release the Israelites, brings the plagues"
+      },
+      {
+        "name": "Aaron",
+        "role": "Moses's spokesman, his staff initiates several plagues"
+      },
+      {
+        "name": "Pharaoh",
+        "role": "Repeatedly hardens his heart, refuses to let the people go despite the plagues"
+      }
+    ],
+    "notable_firsts": [
+      "First use of the four expressions of redemption — 'I will bring you out, I will deliver you, I will redeem you, I will take you' (6:6-7)",
+      "First plague — the Nile turns to blood (7:20-21)",
+      "First hardening of Pharaoh's heart by God (7:3)",
+      "First staff-to-serpent sign before a foreign king (7:10-12)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "6:6-7",
+        "text": "I will bring you out from under the burdens of the Egyptians, and I will deliver you from their bondage, and I will redeem you with an outstretched arm and with great judgments. And I will take you to Me for a people, and I will be to you a God."
+      },
+      {
+        "ref": "7:17",
+        "text": "By this you shall know that I am the LORD: behold, I will strike the water that is in the Nile with the staff that is in my hand, and it shall be turned to blood."
+      },
+      {
+        "ref": "9:27",
+        "text": "And Pharaoh sent and called for Moses and Aaron, and said to them, 'I have sinned this time; the LORD is righteous, and I and my people are wicked.'"
+      }
+    ],
+    "haftarah": {
+      "ref": "Ezekiel 28:25-29:21",
+      "connection": "Ezekiel prophesies against Pharaoh and Egypt, declaring God's judgment on Egyptian arrogance, directly paralleling God's confrontation with Pharaoh in the parasha."
+    },
+    "start_chapter": 6,
+    "start_verse": 2,
+    "end_chapter": 9,
+    "end_verse": 35,
+    "he": "וָאֵרָא",
+    "stats": {
+      "verses": 121,
+      "words": 1504,
+      "total_gematria": 434502,
+      "unique_roots": 313
+    },
+    "gematria_note": "Total gematria 434,502 is divisible by 18, the number of life (chai)."
+  },
+  {
+    "name": "Bo",
+    "thematic_summary": "God brings the final three plagues upon Egypt — locusts that devour every remaining crop, a palpable darkness that paralyzes the Egyptians for three days, and the devastating slaying of every Egyptian firstborn at midnight. Before the last plague, God institutes the Passover sacrifice and the festival of unleavened bread, commanding the Israelites to mark their doorposts with the lamb's blood. At last, Pharaoh drives the Israelites out, and they depart in haste with the wealth of Egypt, after 430 years of sojourning.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Announces the final plagues, instructs the people in the Passover laws"
+      },
+      {
+        "name": "Aaron",
+        "role": "Stands with Moses before Pharaoh through the final confrontations"
+      },
+      {
+        "name": "Pharaoh",
+        "role": "Broken by the death of the firstborn, finally expels the Israelites"
+      }
+    ],
+    "notable_firsts": [
+      "First commandment given to Israel as a nation — 'This month shall be to you the first of months' (12:2)",
+      "First Passover sacrifice — the paschal lamb (12:3-11)",
+      "First national exodus — the departure from Egypt (12:41)",
+      "First commandment of tefillin — 'it shall be as a sign upon your hand' (13:9, 13:16)",
+      "First consecration of the firstborn to God (13:2)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "12:2",
+        "text": "This month shall be to you the beginning of months; it shall be the first month of the year to you."
+      },
+      {
+        "ref": "12:13",
+        "text": "And the blood shall be to you for a sign upon the houses where you are; and when I see the blood, I will pass over you, and there shall be no plague upon you to destroy you."
+      },
+      {
+        "ref": "13:14",
+        "text": "And it shall be, when your son asks you in time to come, saying, 'What is this?' you shall say to him, 'By strength of hand the LORD brought us out from Egypt, from the house of bondage.'"
+      }
+    ],
+    "haftarah": {
+      "ref": "Jeremiah 46:13-28",
+      "connection": "Jeremiah prophesies the defeat of Egypt by Babylon, echoing God's judgment upon Egypt in the parasha, while reassuring Israel that God will save them from afar."
+    },
+    "start_chapter": 10,
+    "start_verse": 1,
+    "end_chapter": 13,
+    "end_verse": 16,
+    "he": "בֹּא",
+    "stats": {
+      "verses": 106,
+      "words": 1402,
+      "total_gematria": 400893,
+      "unique_roots": 311
+    },
+    "gematria_note": "Total gematria: 400,893"
+  },
+  {
+    "name": "Beshalach",
+    "thematic_summary": "God leads the Israelites out of Egypt by a pillar of cloud and fire, but rather than taking the direct route, He guides them toward the Sea of Reeds. Pharaoh pursues with his chariots, and God splits the sea, allowing Israel to cross on dry ground while the Egyptian army is drowned. Moses and the Israelites sing the Song of the Sea in triumph. The journey through the wilderness brings tests of faith: the bitter waters of Marah, the manna from heaven, water from the rock at Rephidim, and the battle against Amalek, where Moses's raised hands bring victory.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Leads the people through the sea, sings the song of triumph, raises his hands in battle"
+      },
+      {
+        "name": "Miriam",
+        "role": "Prophetess who leads the women in song and dance after the crossing"
+      },
+      {
+        "name": "Pharaoh",
+        "role": "Pursues the Israelites with his army, loses his forces in the sea"
+      },
+      {
+        "name": "Joshua (Yehoshua)",
+        "role": "Leads the Israelite fighters against Amalek in battle"
+      },
+      {
+        "name": "Aaron and Hur",
+        "role": "Support Moses's hands during the battle with Amalek"
+      }
+    ],
+    "notable_firsts": [
+      "First splitting of a body of water — the Sea of Reeds (14:21-22)",
+      "First national song of praise — the Song of the Sea (Shirat HaYam) (15:1-18)",
+      "First prophetess named in the Torah — Miriam (15:20)",
+      "First miraculous provision of food — manna from heaven (16:14-15)",
+      "First battle fought by the Israelites — against Amalek at Rephidim (17:8-13)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "14:13-14",
+        "text": "And Moses said to the people, 'Fear not, stand firm, and see the salvation of the LORD, which He will work for you today... The LORD will fight for you, and you shall hold your peace.'"
+      },
+      {
+        "ref": "15:1-2",
+        "text": "Then Moses and the children of Israel sang this song to the LORD: 'I will sing to the LORD, for He has triumphed gloriously; the horse and his rider He has thrown into the sea. The LORD is my strength and my song, and He has become my salvation.'"
+      },
+      {
+        "ref": "15:11",
+        "text": "Who is like You among the mighty, O LORD? Who is like You, glorious in holiness, awesome in praises, doing wonders?"
+      }
+    ],
+    "haftarah": {
+      "ref": "Judges 4:4-5:31",
+      "connection": "Deborah's song of victory after the defeat of Sisera parallels the Song of the Sea — both are triumphant songs by prophetic leaders celebrating God's deliverance through water."
+    },
+    "start_chapter": 13,
+    "start_verse": 17,
+    "end_chapter": 17,
+    "end_verse": 16,
+    "he": "בְּשַׁלַּח",
+    "stats": {
+      "verses": 116,
+      "words": 1466,
+      "total_gematria": 401378,
+      "unique_roots": 375
+    },
+    "gematria_note": "Total gematria: 401,378"
+  },
+  {
+    "name": "Yitro",
+    "thematic_summary": "Jethro, Moses's father-in-law and priest of Midian, hears of all that God has done for Israel and comes to the camp, bringing Moses's wife and sons. Seeing Moses judge the people from morning to evening, Jethro advises him to delegate authority by appointing judges over thousands, hundreds, fifties, and tens. The Israelites arrive at Mount Sinai, and after three days of preparation, God descends upon the mountain in thunder, lightning, smoke, and the sound of the shofar. God speaks the Ten Commandments directly to the entire nation — the foundational moment of divine revelation.",
+    "key_figures": [
+      {
+        "name": "Jethro (Yitro)",
+        "role": "Moses's father-in-law, priest of Midian, advises the establishment of a judicial system"
+      },
+      {
+        "name": "Moses",
+        "role": "Mediator between God and the people, ascends the mountain to receive the commandments"
+      },
+      {
+        "name": "God",
+        "role": "Descends upon Sinai and speaks the Ten Commandments to the entire nation"
+      }
+    ],
+    "notable_firsts": [
+      "First judicial system — Jethro's advice to appoint judges (18:21-22)",
+      "First national revelation — God speaks to an entire people at Sinai (19:16-20:17)",
+      "First articulation of the Ten Commandments (Aseret HaDibrot) (20:2-14)",
+      "First prohibition of idolatry as a formal commandment (20:3-5)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "19:5-6",
+        "text": "And now, if you will indeed obey My voice and keep My covenant, then you shall be My own treasure among all peoples; for all the earth is Mine. And you shall be to Me a kingdom of priests and a holy nation."
+      },
+      {
+        "ref": "20:2-3",
+        "text": "I am the LORD your God, who brought you out of the land of Egypt, out of the house of bondage. You shall have no other gods before Me."
+      },
+      {
+        "ref": "20:8",
+        "text": "Remember the Sabbath day to keep it holy."
+      }
+    ],
+    "haftarah": {
+      "ref": "Isaiah 6:1-7:6, 9:5-6",
+      "connection": "Isaiah's vision of God enthroned in the Temple, with the seraphim calling 'Holy, holy, holy,' mirrors the awesome theophany at Sinai where God reveals Himself in majesty."
+    },
+    "start_chapter": 18,
+    "start_verse": 1,
+    "end_chapter": 20,
+    "end_verse": 23,
+    "he": "יִתְרוֹ",
+    "stats": {
+      "verses": 75,
+      "words": 920,
+      "total_gematria": 282327,
+      "unique_roots": 252
+    },
+    "gematria_note": "Total gematria: 282,327"
+  },
+  {
+    "name": "Mishpatim",
+    "thematic_summary": "Immediately following the Ten Commandments, God delivers a comprehensive code of civil and criminal law governing Israelite society. The ordinances cover the treatment of Hebrew servants, personal injury, property damage, lending, justice for the stranger, the widow, and the orphan, as well as the sabbatical year and the three pilgrimage festivals. Moses reads the Book of the Covenant to the people, who declare 'All that the LORD has spoken we will do and we will obey.' The covenant is sealed with a blood ceremony, and Moses ascends the mountain to receive the tablets of stone.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Transmits the laws to the people, reads the Book of the Covenant, ascends Sinai"
+      },
+      {
+        "name": "Aaron, Nadab, Abihu, and the seventy elders",
+        "role": "Accompany Moses partway up the mountain and behold a vision of God"
+      },
+      {
+        "name": "Joshua",
+        "role": "Moses's attendant who accompanies him partway up the mountain"
+      }
+    ],
+    "notable_firsts": [
+      "First comprehensive law code in the Torah — the Book of the Covenant (21:1-23:33)",
+      "First national acceptance of the Torah — 'We will do and we will obey' (Na'aseh v'nishma) (24:7)",
+      "First covenant ratification with blood — Moses sprinkles blood on the people (24:8)",
+      "First mention of the three pilgrimage festivals (23:14-17)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "21:24",
+        "text": "Eye for eye, tooth for tooth, hand for hand, foot for foot."
+      },
+      {
+        "ref": "23:2",
+        "text": "You shall not follow a multitude to do evil."
+      },
+      {
+        "ref": "24:7",
+        "text": "And they said, 'All that the LORD has spoken we will do and we will obey.'"
+      }
+    ],
+    "haftarah": {
+      "ref": "Jeremiah 34:8-22, 33:25-26",
+      "connection": "Jeremiah rebukes the people for re-enslaving Hebrew servants they had freed, directly violating the laws of Mishpatim regarding the release of slaves."
+    },
+    "start_chapter": 21,
+    "start_verse": 1,
+    "end_chapter": 24,
+    "end_verse": 18,
+    "he": "מִשְׁפָּטִים",
+    "stats": {
+      "verses": 118,
+      "words": 1256,
+      "total_gematria": 384356,
+      "unique_roots": 380
+    },
+    "gematria_note": "Total gematria 384,356 is divisible by 7, the number of completion."
+  },
+  {
+    "name": "Terumah",
+    "thematic_summary": "God instructs Moses to collect voluntary offerings from the people — gold, silver, copper, fine fabrics, wood, oil, and precious stones — to build a Sanctuary where God's presence will dwell among Israel. Detailed instructions follow for the construction of the Ark of the Covenant with its golden cherubim, the Table of the Showbread, the seven-branched Menorah, the Tabernacle's curtains and coverings, its wooden boards and sockets, and the copper altar and surrounding courtyard. The parasha establishes the principle that the infinite God desires to dwell in a finite, human-made structure.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Receives the detailed blueprint for the Tabernacle from God on Sinai"
+      },
+      {
+        "name": "God",
+        "role": "Commands the construction of a dwelling place among the people"
+      }
+    ],
+    "notable_firsts": [
+      "First communal fundraising campaign — the voluntary offering for the Tabernacle (25:2-7)",
+      "First description of the Ark of the Covenant (Aron HaBrit) (25:10-22)",
+      "First description of the Menorah — hammered from a single piece of gold (25:31-40)",
+      "First divine instruction for a permanent house of worship (25:8)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "25:2",
+        "text": "Speak to the children of Israel, that they bring Me an offering; from every man whose heart moves him you shall take My offering."
+      },
+      {
+        "ref": "25:8",
+        "text": "And let them make Me a sanctuary, that I may dwell among them."
+      },
+      {
+        "ref": "25:22",
+        "text": "And there I will meet with you, and I will speak with you from above the cover, from between the two cherubim which are upon the Ark of the Testimony."
+      }
+    ],
+    "haftarah": {
+      "ref": "I Kings 5:26-6:13",
+      "connection": "Solomon builds the Temple in Jerusalem, fulfilling the vision that began with the Tabernacle — God promises to dwell among Israel if they keep His commandments."
+    },
+    "start_chapter": 25,
+    "start_verse": 1,
+    "end_chapter": 27,
+    "end_verse": 19,
+    "he": "תְּרוּמָה",
+    "stats": {
+      "verses": 96,
+      "words": 1059,
+      "total_gematria": 421671,
+      "unique_roots": 221
+    },
+    "gematria_note": "Total gematria: 421,671"
+  },
+  {
+    "name": "Tetzaveh",
+    "thematic_summary": "God commands the Israelites to bring pure olive oil for the Menorah's eternal light. The parasha then details the sacred garments of the High Priest — the breastplate set with twelve stones representing the twelve tribes, the ephod, the robe with golden bells and pomegranates, the turban with its golden plate inscribed 'Holy to the LORD,' and the linen garments for the ordinary priests. An elaborate seven-day consecration ceremony is prescribed, including sacrificial offerings and the anointing of Aaron and his sons. The parasha concludes with instructions for the golden incense altar.",
+    "key_figures": [
+      {
+        "name": "Aaron",
+        "role": "Designated as High Priest, wears the sacred garments, serves in the Tabernacle"
+      },
+      {
+        "name": "Aaron's sons (Nadab, Abihu, Eleazar, Ithamar)",
+        "role": "Consecrated as priests alongside their father"
+      }
+    ],
+    "notable_firsts": [
+      "First priestly garments described — for glory and splendor (28:2)",
+      "First breastplate of judgment with twelve tribal stones (Choshen Mishpat) (28:15-30)",
+      "First anointing and consecration ceremony for priests (29:1-37)",
+      "First eternal light (Ner Tamid) — the lamp kept burning continually (27:20-21)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "27:20",
+        "text": "And you shall command the children of Israel that they bring to you pure olive oil, beaten, for the light, to cause a lamp to burn continually."
+      },
+      {
+        "ref": "28:2",
+        "text": "And you shall make holy garments for Aaron your brother, for glory and for splendor."
+      },
+      {
+        "ref": "28:36",
+        "text": "And you shall make a plate of pure gold, and engrave upon it, like the engravings of a signet: HOLY TO THE LORD."
+      }
+    ],
+    "haftarah": {
+      "ref": "Ezekiel 43:10-27",
+      "connection": "Ezekiel describes the altar of the future Temple and its consecration, mirroring the Tabernacle altar consecration and priestly investiture detailed in Tetzaveh."
+    },
+    "start_chapter": 27,
+    "start_verse": 20,
+    "end_chapter": 30,
+    "end_verse": 10,
+    "he": "תְּצַוֶּה",
+    "stats": {
+      "verses": 101,
+      "words": 1220,
+      "total_gematria": 461906,
+      "unique_roots": 287
+    },
+    "gematria_note": "Total gematria: 461,906"
+  },
+  {
+    "name": "Ki Tisa",
+    "thematic_summary": "God commands a census through the half-shekel offering and gives instructions for the copper laver, the anointing oil, and the incense. Bezalel and Oholiab are appointed as master craftsmen. While Moses is on the mountain for forty days, the people lose faith and fashion a golden calf. God threatens to destroy the nation, but Moses intercedes, descends, shatters the tablets in fury, and punishes the idolaters. Moses ascends again to plead for forgiveness, God reveals His Thirteen Attributes of Mercy, and a renewed covenant is established. Moses descends with the second tablets, his face radiant with divine light.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Intercedes for the people, breaks and receives new tablets, his face shines with divine light"
+      },
+      {
+        "name": "Aaron",
+        "role": "Fashions the golden calf under pressure from the people"
+      },
+      {
+        "name": "Bezalel",
+        "role": "Master craftsman of the tribe of Judah, filled with the spirit of God"
+      },
+      {
+        "name": "Oholiab",
+        "role": "Craftsman of the tribe of Dan, assists Bezalel in building the Tabernacle"
+      }
+    ],
+    "notable_firsts": [
+      "First census through a half-shekel contribution (30:12-16)",
+      "First act of national idolatry — the golden calf (32:1-6)",
+      "First breaking of the tablets of the covenant (32:19)",
+      "First revelation of God's Thirteen Attributes of Mercy (Shelosh Esreh Middot) (34:6-7)",
+      "First time a human face shines with divine radiance — Moses's face (34:29-35)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "31:17",
+        "text": "Between Me and the children of Israel it is a sign forever; for in six days the LORD made heaven and earth, and on the seventh day He rested and was refreshed."
+      },
+      {
+        "ref": "32:4",
+        "text": "And he received the gold from their hand and fashioned it with an engraving tool and made a molten calf; and they said, 'These are your gods, O Israel, who brought you up out of the land of Egypt.'"
+      },
+      {
+        "ref": "34:6-7",
+        "text": "The LORD, the LORD, a God merciful and gracious, slow to anger, and abounding in steadfast love and faithfulness, keeping steadfast love for thousands, forgiving iniquity and transgression and sin."
+      }
+    ],
+    "haftarah": {
+      "ref": "I Kings 18:1-39",
+      "connection": "Elijah confronts the prophets of Baal on Mount Carmel, mirroring Moses's confrontation with the golden calf — both are dramatic showdowns between the worship of the true God and idolatry."
+    },
+    "start_chapter": 30,
+    "start_verse": 11,
+    "end_chapter": 34,
+    "end_verse": 35,
+    "he": "כִּי תִשָּׂא",
+    "stats": {
+      "verses": 139,
+      "words": 1715,
+      "total_gematria": 521251,
+      "unique_roots": 401
+    },
+    "gematria_note": "Total gematria: 521,251"
+  },
+  {
+    "name": "Vayakhel",
+    "thematic_summary": "Moses assembles the entire community and reiterates the commandment of Shabbat rest before calling for voluntary contributions to build the Tabernacle. The people respond with such generosity that Moses must restrain them from bringing more. Bezalel and Oholiab, filled with divine wisdom, lead the construction. The parasha details the actual building of the Tabernacle components — the curtains, boards, Ark, Table, Menorah, incense altar, and copper altar — following the blueprints given in Terumah, now transformed from divine instruction into human craftsmanship.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Assembles the people, transmits the commandment to build the Tabernacle"
+      },
+      {
+        "name": "Bezalel",
+        "role": "Chief artisan, leads the construction of the Tabernacle and its vessels"
+      },
+      {
+        "name": "Oholiab",
+        "role": "Assistant artisan, skilled in weaving, embroidering, and engraving"
+      },
+      {
+        "name": "The women of Israel",
+        "role": "Spin the goat hair and contribute their mirrors and jewelry for the Tabernacle"
+      }
+    ],
+    "notable_firsts": [
+      "First public assembly (Vayakhel) of the entire Israelite community for a sacred purpose (35:1)",
+      "First instance of the people giving so generously that they must be told to stop (36:5-7)",
+      "First execution of divinely inspired artisanship — Bezalel builds the Ark (37:1)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "35:1",
+        "text": "And Moses assembled all the congregation of the children of Israel, and said to them, 'These are the things which the LORD has commanded, that you should do them.'"
+      },
+      {
+        "ref": "35:5",
+        "text": "Take from among you an offering to the LORD; whoever is of a willing heart, let him bring it."
+      },
+      {
+        "ref": "36:7",
+        "text": "For the stuff they had was sufficient for all the work to make it, and too much."
+      }
+    ],
+    "haftarah": {
+      "ref": "I Kings 7:40-50",
+      "connection": "The Haftarah describes the vessels Hiram crafted for Solomon's Temple, paralleling Bezalel's crafting of the Tabernacle vessels in the parasha."
+    },
+    "start_chapter": 35,
+    "start_verse": 1,
+    "end_chapter": 38,
+    "end_verse": 20,
+    "he": "וַיַּקְהֵל",
+    "stats": {
+      "verses": 122,
+      "words": 1371,
+      "total_gematria": 506297,
+      "unique_roots": 261
+    },
+    "gematria_note": "Total gematria: 506,297"
+  },
+  {
+    "name": "Pekudei",
+    "thematic_summary": "The book of Exodus concludes with a detailed accounting of all the materials used in building the Tabernacle — the gold, silver, and copper donated by the people. The priestly garments are completed and brought to Moses, who inspects every element and blesses the workers. On the first day of Nisan, Moses erects the Tabernacle, places the Ark inside, sets up the furnishings, and anoints everything with sacred oil. The glory of the LORD fills the Tabernacle in a cloud, so that even Moses cannot enter — God's presence now dwells among Israel, guiding them by cloud and fire on all their journeys.",
+    "key_figures": [
+      {
+        "name": "Moses",
+        "role": "Inspects the completed work, erects and anoints the Tabernacle"
+      },
+      {
+        "name": "Bezalel and the craftsmen",
+        "role": "Complete all the work of the Tabernacle according to God's instructions"
+      },
+      {
+        "name": "Aaron and his sons",
+        "role": "Anointed and prepared to serve as priests in the newly erected Tabernacle"
+      }
+    ],
+    "notable_firsts": [
+      "First public financial accounting of a sacred project (38:21-31)",
+      "First time the Tabernacle is erected and God's glory fills it (40:33-34)",
+      "First use of the divine cloud to guide Israel's journeys (40:36-38)"
+    ],
+    "famous_verses": [
+      {
+        "ref": "39:43",
+        "text": "And Moses saw all the work, and behold, they had done it; as the LORD had commanded, so they had done it. And Moses blessed them."
+      },
+      {
+        "ref": "40:34",
+        "text": "Then the cloud covered the Tent of Meeting, and the glory of the LORD filled the Tabernacle."
+      },
+      {
+        "ref": "40:38",
+        "text": "For the cloud of the LORD was upon the Tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys."
+      }
+    ],
+    "haftarah": {
+      "ref": "I Kings 7:51-8:21",
+      "connection": "Solomon completes the Temple and the glory of the LORD fills it in a cloud, directly mirroring the moment when God's glory fills the Tabernacle at the end of Exodus."
+    },
+    "start_chapter": 38,
+    "start_verse": 21,
+    "end_chapter": 40,
+    "end_verse": 38,
+    "he": "פְקוּדֵי",
+    "stats": {
+      "verses": 92,
+      "words": 989,
+      "total_gematria": 381321,
+      "unique_roots": 237
+    },
+    "gematria_note": "Total gematria: 381,321"
+  }
+]

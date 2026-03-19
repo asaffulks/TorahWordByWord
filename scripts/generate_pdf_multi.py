@@ -83,11 +83,14 @@ PARCHMENT = HexColor('#FAF6F0')
 # Card dimensions — MULTI-MEANING VERSION (taller cards)
 CARD_W = 90
 CARD_H = 130
+CARD_H_COMPACT = 100  # Shorter cards without alternative meanings
 CARD_PAD = 6
 CARD_GAP = 4
 ROW_GAP = 6
 
 # ─── Parasha Data ───────────────────────────────────────────────────────────
+
+BOOK_NAME = "Genesis"  # Overridden by main() when processing other books
 
 PARASHOT = [
     {"name": "Bereshit",      "he": "\u05D1\u05B0\u05BC\u05E8\u05B5\u05D0\u05E9\u05C1\u05B4\u05D9\u05EA", "start": (1,1),  "end": (6,8)},
@@ -182,7 +185,7 @@ def draw_pill(c, x, y, text, font, size, bg, fg, border, min_w=30):
 class PDFBuilder:
     def __init__(self, output_path):
         self.c = canvas.Canvas(output_path, pagesize=letter)
-        self.c.setTitle("Torah: Word by Word - Genesis")
+        self.c.setTitle(f"Torah: Word by Word - {BOOK_NAME}")
         self.c.setAuthor("The Forum Press")
         self.page_num = 0
         self.current_chapter = 0
@@ -205,7 +208,7 @@ class PDFBuilder:
         parasha = get_parasha_for_chapter(self.current_chapter)
         self.c.setFillColor(INK_LIGHT)
         self.c.setFont('Serif', 9)
-        self.c.drawString(MARGIN_L, y, f"Parashat {parasha['name']} \u00B7 Genesis Chapter {self.current_chapter}")
+        self.c.drawString(MARGIN_L, y, f"Parashat {parasha['name']} \u00B7 {BOOK_NAME} Chapter {self.current_chapter}")
         self.c.setFont('Hebrew', 9)
         self.c.drawRightString(PAGE_W - MARGIN_R, y, heb(parasha['he']))
         self.c.setStrokeColor(DIVIDER)
@@ -276,7 +279,7 @@ class PDFBuilder:
         # Description
         c.setFont('Serif', 9)
         c.setFillColor(INK_LIGHT)
-        desc = ("A complete word-by-word interlinear edition of the Book of Genesis, "
+        desc = (f"A complete word-by-word interlinear edition of the Book of {BOOK_NAME}, "
                 "presenting each Hebrew word with its transliteration, three-letter root, "
                 "English gloss, and gematria value. Commentary by Rashi, Ramban, Ibn Ezra, "
                 "Sforno, Or HaChaim, Chizkuni, Rabbeinu Bahya, Onkelos, and Kli Yakar. "
@@ -414,7 +417,7 @@ class PDFBuilder:
         e_ch, e_v = parasha['end']
         c.setFont('Serif', 11)
         c.setFillColor(INK_FAINT)
-        c.drawCentredString(PAGE_W / 2, y, f"Genesis {s_ch}:{s_v} \u2013 {e_ch}:{e_v}")
+        c.drawCentredString(PAGE_W / 2, y, f"{BOOK_NAME} {s_ch}:{s_v} \u2013 {e_ch}:{e_v}")
         y -= 22
 
         if not parasha_info:
@@ -645,6 +648,15 @@ class PDFBuilder:
         footer_h = self._calc_footer_h(verse)
         verse_h = self.calc_verse_height(verse)
 
+        # Use compact cards ONLY when verse literally won't fit on a fresh page
+        # Genesis v7 layout is locked — never compact for Genesis
+        compact = False
+        card_h = CARD_H
+        if BOOK_NAME != "Genesis" and verse_h > (PAGE_H - MARGIN_T - MARGIN_B - 20):
+            compact = True
+            card_h = CARD_H_COMPACT
+            verse_h = header_h + num_rows * card_h + max(0, num_rows - 1) * ROW_GAP + 12 + footer_h + 12
+
         # Never split a verse across pages — if it doesn't fit, push to next page
         if verse_h > self._available():
             self._next_page()
@@ -679,10 +691,10 @@ class PDFBuilder:
             card_x = x_base + CONTENT_W
             for word in row_words:
                 card_x -= CARD_W
-                self._draw_word_card(card_x, y - CARD_H, word)
+                self._draw_word_card(card_x, y - card_h, word, compact=compact)
                 card_x -= CARD_GAP
 
-            y -= CARD_H + ROW_GAP
+            y -= card_h + ROW_GAP
 
         y -= 2
 
@@ -899,10 +911,10 @@ class PDFBuilder:
             lines.append(' '.join(current))
         return lines
 
-    def _draw_word_card(self, x, y, word):
+    def _draw_word_card(self, x, y, word, compact=False):
         c = self.c
         w = CARD_W
-        h = CARD_H
+        h = CARD_H_COMPACT if compact else CARD_H
         p = CARD_PAD
 
         draw_rounded_rect(c, x, y, w, h, 4, fill=CARD_BG, stroke=CARD_BORDER)
@@ -978,16 +990,17 @@ class PDFBuilder:
         c.line(x + p + 5, inner_y, x + w - p - 5, inner_y)
         inner_y -= 2
 
-        # Alternative meanings (smaller, lighter)
-        meanings = word.get('meanings', [])
-        if meanings:
-            c.setFont('SerifItalic', 6.5)
-            c.setFillColor(INK_FAINT)
-            # Show up to 3 alternative meanings
-            for i, meaning in enumerate(meanings[:3]):
-                m_text = truncate(meaning, 'SerifItalic', 6.5, w - 2*p, c)
-                c.drawCentredString(x + w/2, inner_y - 7, m_text)
-                inner_y -= 9
+        # Alternative meanings (smaller, lighter) — skip in compact mode
+        if not compact:
+            meanings = word.get('meanings', [])
+            if meanings:
+                c.setFont('SerifItalic', 6.5)
+                c.setFillColor(INK_FAINT)
+                # Show up to 3 alternative meanings
+                for i, meaning in enumerate(meanings[:3]):
+                    m_text = truncate(meaning, 'SerifItalic', 6.5, w - 2*p, c)
+                    c.drawCentredString(x + w/2, inner_y - 7, m_text)
+                    inner_y -= 9
         # Gematria badge — always anchored to bottom of card
         gem_y = y + p + 2  # fixed position near bottom
         gem_text = str(word.get('gem', 0))
@@ -1044,8 +1057,11 @@ class PDFBuilder:
 # ─── Main ────────────────────────────────────────────────────────────────────
 
 def main():
+    global BOOK_NAME, PARASHOT
+
     input_file = sys.argv[1] if len(sys.argv) > 1 else "genesis_v3.json"
     output_file = sys.argv[2] if len(sys.argv) > 2 else "genesis_pdf_v4.pdf"
+    book_name = sys.argv[3] if len(sys.argv) > 3 else None
 
     if not os.path.exists(input_file):
         print(f"Error: {input_file} not found")
@@ -1054,15 +1070,36 @@ def main():
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
 
-    # Load parasha data if available
+    # Auto-detect book name from data if not specified
+    if book_name:
+        BOOK_NAME = book_name
+    elif 'book' in data:
+        BOOK_NAME = data['book']
+    else:
+        BOOK_NAME = "Genesis"
+
+    # Load parasha data — try book-specific file first, then generic
     parasha_data = None
-    parasha_file = Path(input_file).parent / 'parasha_data.json'
+    parasha_file = Path(input_file).parent / f'parasha_{BOOK_NAME.lower()}.json'
+    if not parasha_file.exists():
+        parasha_file = Path(input_file).parent / 'parasha_data.json'
     if parasha_file.exists():
         with open(parasha_file, 'r', encoding='utf-8') as f:
             parasha_data = json.load(f)
-        print(f"Loaded parasha data: {len(parasha_data)} parashot")
+        print(f"Loaded parasha data from {parasha_file.name}: {len(parasha_data)} parashot")
 
-    print(f"Loaded {input_file}: {len(data['chapters'])} chapters")
+        # Convert parasha data to PARASHOT format if it uses start_chapter/start_verse keys
+        if parasha_data and isinstance(parasha_data, list) and 'start_chapter' in parasha_data[0]:
+            PARASHOT = []
+            for p in parasha_data:
+                PARASHOT.append({
+                    "name": p['name'],
+                    "he": p.get('he', p['name']),
+                    "start": (p['start_chapter'], p['start_verse']),
+                    "end": (p['end_chapter'], p['end_verse']),
+                })
+
+    print(f"Loaded {input_file}: {len(data['chapters'])} chapters, book={BOOK_NAME}")
 
     register_fonts()
 
