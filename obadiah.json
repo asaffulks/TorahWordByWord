@@ -1,0 +1,2055 @@
+{
+  "book": "Obadiah",
+  "he_name": "עוֹבַדְיָה",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Ovadyah 1:1",
+          "hebrew_full": "חֲז֖וֹן עֹֽבַדְיָ֑ה כֹּֽה־אָמַר֩ אֲדֹנָ֨י יֱהֹוִ֜ה לֶאֱד֗וֹם שְׁמוּעָ֨ה שָׁמַ֜עְנוּ מֵאֵ֤ת יְהֹוָה֙ וְצִיר֙ בַּגּוֹיִ֣ם שֻׁלָּ֔ח ק֛וּמוּ וְנָק֥וּמָה עָלֶ֖יהָ לַמִּלְחָמָֽה",
+          "translation": "The prophecy of Obadiah.We have received tidings from GOD,And an envoy has been sent out among the nations:“Up! Let us rise up against her for battle.”Thus said the Sovereign GOD concerning Edom:",
+          "rashi": "The vision of Obadiah—Why is Obadiah different that he was chosen to prophesy concerning Edom and did not prophesy any other prophecy? Our Sages of blessed memory stated: Obadiah was an Edomite proselyte. Said the Holy One, blessed be He: From them and in them will I bring upon them. Let Obadiah, who dwelt between two wicked people, Ahab and Jezebel, and did not learn from their deeds, come and impose retribution upon Esau, who dwelt between two righteous people, Isaac and Rebecca, and did not learn from their deeds. [from Sanhedrin 39b]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3286,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "חֲז֖וֹן",
+              "tr": "cha·zvo·N",
+              "root": "חזון",
+              "eng": "vision",
+              "gem": 71
+            },
+            {
+              "heb": "עֹֽבַדְיָ֑ה",
+              "tr": "o·va·de·ya·H",
+              "root": "",
+              "eng": "Obadiah = \"servant of Jehovah\"",
+              "gem": 91
+            },
+            {
+              "heb": "כֹּֽה־אָמַר֩",
+              "tr": "ko·h-'a·ma·R",
+              "root": "אמר",
+              "eng": "thus·to say",
+              "gem": 266
+            },
+            {
+              "heb": "אֲדֹנָ֨י",
+              "tr": "a·do·na·Y",
+              "root": "אדון",
+              "eng": "firm",
+              "gem": 65
+            },
+            {
+              "heb": "יֱהֹוִ֜ה",
+              "tr": "ye·ho·vi·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "לֶאֱד֗וֹם",
+              "tr": "le·'e·dvo·M",
+              "root": "אדם",
+              "eng": "Edom = \"red\"",
+              "gem": 81
+            },
+            {
+              "heb": "שְׁמוּעָ֨ה",
+              "tr": "she·mv'a·H",
+              "root": "",
+              "eng": "report",
+              "gem": 421
+            },
+            {
+              "heb": "שָׁמַ֜עְנוּ",
+              "tr": "sha·ma·'e·NV",
+              "root": "שמע",
+              "eng": "v",
+              "gem": 466
+            },
+            {
+              "heb": "מֵאֵ֤ת",
+              "tr": "me·'e·T",
+              "root": "מאה",
+              "eng": "hundred",
+              "gem": 441
+            },
+            {
+              "heb": "יְהֹוָה֙",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "וְצִיר֙",
+              "tr": "ve·tsi·YR",
+              "root": "ציר",
+              "eng": "envoy",
+              "gem": 306
+            },
+            {
+              "heb": "בַּגּוֹיִ֣ם",
+              "tr": "ba·gvo·yi·M",
+              "root": "גוי",
+              "eng": "n m",
+              "gem": 61
+            },
+            {
+              "heb": "שֻׁלָּ֔ח",
+              "tr": "shu·la·CH",
+              "root": "שלח",
+              "eng": "to send",
+              "gem": 338
+            },
+            {
+              "heb": "ק֛וּמוּ",
+              "tr": "KVMV",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 152
+            },
+            {
+              "heb": "וְנָק֥וּמָה",
+              "tr": "ve·na·kvma·H",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 207
+            },
+            {
+              "heb": "עָלֶ֖יהָ",
+              "tr": "a·le·YHA",
+              "root": "על",
+              "eng": "on",
+              "gem": 115
+            },
+            {
+              "heb": "לַמִּלְחָמָֽה",
+              "tr": "la·mi·le·cha·ma·H",
+              "root": "",
+              "eng": "battle",
+              "gem": 153
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "ref": "Ovadyah 1:2",
+          "hebrew_full": "הִנֵּ֥ה קָטֹ֛ן נְתַתִּ֖יךָ בַּגּוֹיִ֑ם בָּז֥וּי אַתָּ֖ה מְאֹֽד",
+          "translation": "I will make you least among nations,You shall be most despised.",
+          "rashi": "Behold I have made you small—In contrast with what his father called him, his big son, and his mother called him her big son, the Holy One, blessed be He, says: In My eyes, he is small (Pesikta d’Rav Kahana p. 56; Pesikta Rabbathi, ed. Meir Ish Shalom p. 79a; Pesikta Rabbathi ed. Warsaw p. 144; Gen. Rabbah 65:11). And our Sages (Avodah Zarah 10a) expounded: small for they have neither script nor language. [from Avodah Zarah 10a] despised—That they did not crown a king the son of a king.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1636,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "הִנֵּ֥ה",
+              "tr": "hi·ne·H",
+              "root": "הן",
+              "eng": "they",
+              "gem": 60
+            },
+            {
+              "heb": "קָטֹ֛ן",
+              "tr": "ka·to·N",
+              "root": "קטן",
+              "eng": "young",
+              "gem": 159
+            },
+            {
+              "heb": "נְתַתִּ֖יךָ",
+              "tr": "ne·ta·ti·YCHA",
+              "root": "נתן",
+              "eng": "to give",
+              "gem": 880
+            },
+            {
+              "heb": "בַּגּוֹיִ֑ם",
+              "tr": "ba·gvo·yi·M",
+              "root": "גוי",
+              "eng": "n m",
+              "gem": 61
+            },
+            {
+              "heb": "בָּז֥וּי",
+              "tr": "ba·ZVY",
+              "root": "בזה",
+              "eng": "to despise",
+              "gem": 25
+            },
+            {
+              "heb": "אַתָּ֖ה",
+              "tr": "a·ta·H",
+              "root": "אתה",
+              "eng": "you (second pers. sing. masc.)",
+              "gem": 406
+            },
+            {
+              "heb": "מְאֹֽד",
+              "tr": "me·'o·D",
+              "root": "מאד",
+              "eng": "adv",
+              "gem": 45
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "ref": "Ovadyah 1:3",
+          "hebrew_full": "זְד֤וֹן לִבְּךָ֙ הִשִּׁיאֶ֔ךָ שֹׁכְנִ֥י בְחַגְוֵי־סֶ֖לַע מְר֣וֹם שִׁבְתּ֑וֹ אֹמֵ֣ר בְּלִבּ֔וֹ מִ֥י יוֹרִדֵ֖נִי אָֽרֶץ",
+          "translation": "Your arrogant heart has seduced you,You who dwell in clefts of the rock,In your lofty abode.You think in your heart,“Who can pull me down to earth?”",
+          "rashi": "who dwell in the clefts of the rock—Who relies on the support of his ancestors, Abraham and Isaac, but they shall not avail him. the clefts Heb. חַגְוֵי. Cf. (Isa. 19:17) “And the land of Judah shall be to Egypt for a dread (לְחָגָּא),” frayteyne [or fraite] in O.F., a cleft of a rock. And do not wonder about the “vav” of (Gen. 21:16) “like a shot (כִּמְטַחֲוֵי) ;” in which there is no radical in the word but the “teth” and the “heth.”",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2920,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "זְד֤וֹן",
+              "tr": "ze·dvo·N",
+              "root": "זדון",
+              "eng": "pride",
+              "gem": 67
+            },
+            {
+              "heb": "לִבְּךָ֙",
+              "tr": "li·be·CHA",
+              "root": "לב",
+              "eng": "inner man",
+              "gem": 52
+            },
+            {
+              "heb": "הִשִּׁיאֶ֔ךָ",
+              "tr": "hi·shi·y'e·CHA",
+              "root": "נשא",
+              "eng": "to beguile",
+              "gem": 336
+            },
+            {
+              "heb": "שֹׁכְנִ֥י",
+              "tr": "sho·che·ni·Y",
+              "root": "שכן",
+              "eng": "to settle down",
+              "gem": 380
+            },
+            {
+              "heb": "בְחַגְוֵי־סֶ֖לַע",
+              "tr": "ve·cha·ge·ve·y-se·LA",
+              "root": "חגו",
+              "eng": "clefts·crag",
+              "gem": 189
+            },
+            {
+              "heb": "מְר֣וֹם",
+              "tr": "me·rvo·M",
+              "root": "מרום",
+              "eng": "Merom = \"high place\"",
+              "gem": 286
+            },
+            {
+              "heb": "שִׁבְתּ֑וֹ",
+              "tr": "shi·ve·TVO",
+              "root": "ישב",
+              "eng": "to dwell",
+              "gem": 708
+            },
+            {
+              "heb": "אֹמֵ֣ר",
+              "tr": "o·me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 241
+            },
+            {
+              "heb": "בְּלִבּ֔וֹ",
+              "tr": "be·li·BVO",
+              "root": "לב",
+              "eng": "inner man",
+              "gem": 40
+            },
+            {
+              "heb": "מִ֥י",
+              "tr": "mi·Y",
+              "root": "מי",
+              "eng": "who?",
+              "gem": 50
+            },
+            {
+              "heb": "יוֹרִדֵ֖נִי",
+              "tr": "yvo·ri·de·ni·Y",
+              "root": "ירד",
+              "eng": "to go down",
+              "gem": 280
+            },
+            {
+              "heb": "אָֽרֶץ",
+              "tr": "a·re·TS",
+              "root": "ארץ",
+              "eng": "land",
+              "gem": 291
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "ref": "Ovadyah 1:4",
+          "hebrew_full": "אִם־תַּגְבִּ֣יהַּ כַּנֶּ֔שֶׁר וְאִם־בֵּ֥ין כּֽוֹכָבִ֖ים שִׂ֣ים קִנֶּ֑ךָ מִשָּׁ֥ם אוֹרִֽידְךָ֖ נְאֻם־יְהֹוָֽה",
+          "translation": "Should you nest as high as the eagle,Should your eyrie be lodged ’mong the stars,Even from there I will pull you down—declares GOD.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2496,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "אִם־תַּגְבִּ֣יהַּ",
+              "tr": "i·m-ta·ge·bi·YHA",
+              "root": "גבה",
+              "eng": "mother·to be high",
+              "gem": 461
+            },
+            {
+              "heb": "כַּנֶּ֔שֶׁר",
+              "tr": "ka·ne·she·R",
+              "root": "נשר",
+              "eng": "eagle",
+              "gem": 570
+            },
+            {
+              "heb": "וְאִם־בֵּ֥ין",
+              "tr": "ve·'i·m-be·YN",
+              "root": "בין",
+              "eng": "if·between",
+              "gem": 109
+            },
+            {
+              "heb": "כּֽוֹכָבִ֖ים",
+              "tr": "kvo·cha·vi·YM",
+              "root": "כוכב",
+              "eng": "star",
+              "gem": 98
+            },
+            {
+              "heb": "שִׂ֣ים",
+              "tr": "si·YM",
+              "root": "שום",
+              "eng": "to put",
+              "gem": 350
+            },
+            {
+              "heb": "קִנֶּ֑ךָ",
+              "tr": "ki·ne·CHA",
+              "root": "קן",
+              "eng": "nest",
+              "gem": 170
+            },
+            {
+              "heb": "מִשָּׁ֥ם",
+              "tr": "mi·sha·M",
+              "root": "שם",
+              "eng": "there",
+              "gem": 380
+            },
+            {
+              "heb": "אוֹרִֽידְךָ֖",
+              "tr": "vo·ri·yde·CHA",
+              "root": "ירד",
+              "eng": "to go down",
+              "gem": 241
+            },
+            {
+              "heb": "נְאֻם־יְהֹוָֽה",
+              "tr": "ne·'u·m-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "utterance·Commonly transcribed YHWH",
+              "gem": 117
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "ref": "Ovadyah 1:5",
+          "hebrew_full": "אִם־גַּנָּבִ֤ים בָּאֽוּ־לְךָ֙ אִם־שׁ֣וֹדְדֵי לַ֔יְלָה אֵ֣יךְ נִדְמֵ֔יתָה הֲל֥וֹא יִגְנְב֖וּ דַּיָּ֑ם אִם־בֹּֽצְרִים֙ בָּ֣אוּ לָ֔ךְ הֲל֖וֹא יַשְׁאִ֥ירוּ עֹלֵלֽוֹת",
+          "translation": "If thieves were to come to you,Marauders by night,They would steal no more than they needed.If vintagers came to you,They would surely leave some gleanings.How utterly you are destroyed!",
+          "rashi": "come upon you Heb. בָּאוּ לְךָ, lit., came to you. How were you silent?—Why were you sleeping soundly and still until they stole all they desired? would (the vintagers) not leave over some gleaning grapes?—But these will not leave you anything, for they will search and reveal and seek out your hidden things.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2899,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "אִם־גַּנָּבִ֤ים",
+              "tr": "i·m-ga·na·vi·YM",
+              "root": "גנב",
+              "eng": "mother·thief",
+              "gem": 146
+            },
+            {
+              "heb": "בָּאֽוּ־לְךָ֙",
+              "tr": "ba·'v-le·CHA",
+              "root": "בוא",
+              "eng": "to go in·unto thee",
+              "gem": 59
+            },
+            {
+              "heb": "אִם־שׁ֣וֹדְדֵי",
+              "tr": "i·m-shvo·de·de·Y",
+              "root": "שדד",
+              "eng": "mother·to deal violently with",
+              "gem": 365
+            },
+            {
+              "heb": "לַ֔יְלָה",
+              "tr": "la·ye·la·H",
+              "root": "ליל",
+              "eng": "night",
+              "gem": 75
+            },
+            {
+              "heb": "אֵ֣יךְ",
+              "tr": "e·YCHE",
+              "root": "איך",
+              "eng": "interrog adv",
+              "gem": 31
+            },
+            {
+              "heb": "נִדְמֵ֔יתָה",
+              "tr": "ni·de·me·yta·H",
+              "root": "דמה",
+              "eng": "to be like",
+              "gem": 509
+            },
+            {
+              "heb": "הֲל֥וֹא",
+              "tr": "ha·LVO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 42
+            },
+            {
+              "heb": "יִגְנְב֖וּ",
+              "tr": "yi·ge·ne·VV",
+              "root": "גנב",
+              "eng": "to steal",
+              "gem": 71
+            },
+            {
+              "heb": "דַּיָּ֑ם",
+              "tr": "da·ya·M",
+              "root": "די",
+              "eng": "sufficiency",
+              "gem": 54
+            },
+            {
+              "heb": "אִם־בֹּֽצְרִים֙",
+              "tr": "i·m-bo·tse·ri·YM",
+              "root": "בצר",
+              "eng": "mother·to gather",
+              "gem": 383
+            },
+            {
+              "heb": "בָּ֣אוּ",
+              "tr": "ba·'V",
+              "root": "בוא",
+              "eng": "to go in",
+              "gem": 9
+            },
+            {
+              "heb": "לָ֔ךְ",
+              "tr": "la·CHE",
+              "root": "לך",
+              "eng": "unto thee",
+              "gem": 50
+            },
+            {
+              "heb": "הֲל֖וֹא",
+              "tr": "ha·LVO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 42
+            },
+            {
+              "heb": "יַשְׁאִ֥ירוּ",
+              "tr": "ya·she·'i·YRV",
+              "root": "שאר",
+              "eng": "to remain",
+              "gem": 527
+            },
+            {
+              "heb": "עֹלֵלֽוֹת",
+              "tr": "o·le·lvo·T",
+              "root": "עללה",
+              "eng": "gleaning",
+              "gem": 536
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "ref": "Ovadyah 1:6",
+          "hebrew_full": "אֵ֚יךְ נֶחְפְּשׂ֣וּ עֵשָׂ֔ו נִבְע֖וּ מַצְפֻּנָֽיו",
+          "translation": "How thoroughly rifled is Esau, How ransacked his hoards!",
+          "rashi": "were revealed Heb. נִבְעוּ. Jonathan rendered: were revealed, and it is an Aramaic expression: נִבְעוּ means “sought out.” Cf. (Isa. 21: 12) “If you will request, request (אִם תִּבְעָיוּן בְּעָיוּ).”",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1255,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "אֵ֚יךְ",
+              "tr": "e·YCHE",
+              "root": "איך",
+              "eng": "interrog adv",
+              "gem": 31
+            },
+            {
+              "heb": "נֶחְפְּשׂ֣וּ",
+              "tr": "ne·che·pe·SV",
+              "root": "חפש",
+              "eng": "to search",
+              "gem": 444
+            },
+            {
+              "heb": "עֵשָׂ֔ו",
+              "tr": "e·sa·V",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 376
+            },
+            {
+              "heb": "נִבְע֖וּ",
+              "tr": "ni·ve·'V",
+              "root": "בעה",
+              "eng": "to seek out",
+              "gem": 128
+            },
+            {
+              "heb": "מַצְפֻּנָֽיו",
+              "tr": "ma·tse·pu·na·YV",
+              "root": "מצפן",
+              "eng": "hidden treasure",
+              "gem": 276
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "ref": "Ovadyah 1:7",
+          "hebrew_full": "עַֽד־הַגְּב֣וּל שִׁלְּח֗וּךָ כֹּ֚ל אַנְשֵׁ֣י בְרִיתֶ֔ךָ הִשִּׁיא֛וּךָ יָכְל֥וּ לְךָ֖ אַנְשֵׁ֣י שְׁלֹמֶ֑ךָ לַחְמְךָ֗ יָשִׂ֤ימוּ מָזוֹר֙ תַּחְתֶּ֔יךָ אֵ֥ין תְּבוּנָ֖ה בּֽוֹ",
+          "translation": "All your allies turned you backAt the frontier;Your own confederatesHave duped and overcome you;[Those who ate] your breadHave planted snares under you.He is bereft of understanding.",
+          "rashi": "Until the border... escorted you—Those who promised to aid you, came with you and escorted you to the border of your land, to the boundary, whence they came upon you in war, and with this they enticed you and succeeded. they prevailed against you—to entice you to leave, and they deserted you. your food they lay as a wound under you—Even your food your brother Jacob made for you as a wound, for he gave you bread and a pottage of lentils, and thereby you despised the birthright. wound Heb. מָזוֹר.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4823,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "עַֽד־הַגְּב֣וּל",
+              "tr": "a·d-ha·ge·VVL",
+              "root": "גבול",
+              "eng": "perpetuity·border",
+              "gem": 120
+            },
+            {
+              "heb": "שִׁלְּח֗וּךָ",
+              "tr": "shi·le·CHVCHA",
+              "root": "שלח",
+              "eng": "to send",
+              "gem": 364
+            },
+            {
+              "heb": "כֹּ֚ל",
+              "tr": "ko·L",
+              "root": "כל",
+              "eng": "all",
+              "gem": 50
+            },
+            {
+              "heb": "אַנְשֵׁ֣י",
+              "tr": "a·ne·she·Y",
+              "root": "איש",
+              "eng": "man",
+              "gem": 361
+            },
+            {
+              "heb": "בְרִיתֶ֔ךָ",
+              "tr": "ve·ri·yte·CHA",
+              "root": "ברית",
+              "eng": "covenant",
+              "gem": 632
+            },
+            {
+              "heb": "הִשִּׁיא֛וּךָ",
+              "tr": "hi·shi·Y'VCHA",
+              "root": "נשא",
+              "eng": "to beguile",
+              "gem": 342
+            },
+            {
+              "heb": "יָכְל֥וּ",
+              "tr": "ya·che·LV",
+              "root": "יכל",
+              "eng": "to prevail",
+              "gem": 66
+            },
+            {
+              "heb": "לְךָ֖",
+              "tr": "le·CHA",
+              "root": "לך",
+              "eng": "unto thee",
+              "gem": 50
+            },
+            {
+              "heb": "אַנְשֵׁ֣י",
+              "tr": "a·ne·she·Y",
+              "root": "איש",
+              "eng": "man",
+              "gem": 361
+            },
+            {
+              "heb": "שְׁלֹמֶ֑ךָ",
+              "tr": "she·lo·me·CHA",
+              "root": "שלום",
+              "eng": "completeness",
+              "gem": 390
+            },
+            {
+              "heb": "לַחְמְךָ֗",
+              "tr": "la·che·me·CHA",
+              "root": "לחם",
+              "eng": "bread",
+              "gem": 98
+            },
+            {
+              "heb": "יָשִׂ֤ימוּ",
+              "tr": "ya·si·YMV",
+              "root": "שום",
+              "eng": "to put",
+              "gem": 366
+            },
+            {
+              "heb": "מָזוֹר֙",
+              "tr": "ma·zvo·R",
+              "root": "מזור",
+              "eng": "net",
+              "gem": 253
+            },
+            {
+              "heb": "תַּחְתֶּ֔יךָ",
+              "tr": "ta·che·te·YCHA",
+              "root": "תחת",
+              "eng": "the under part",
+              "gem": 838
+            },
+            {
+              "heb": "אֵ֥ין",
+              "tr": "e·YN",
+              "root": "אין",
+              "eng": "nothing",
+              "gem": 61
+            },
+            {
+              "heb": "תְּבוּנָ֖ה",
+              "tr": "te·vvna·H",
+              "root": "תבון",
+              "eng": "understanding",
+              "gem": 463
+            },
+            {
+              "heb": "בּֽוֹ",
+              "tr": "BVO",
+              "root": "בו",
+              "eng": "inflected third pers. singular m. of בּֽ◌ ᴵ",
+              "gem": 8
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "ref": "Ovadyah 1:8",
+          "hebrew_full": "הֲל֛וֹא בַּיּ֥וֹם הַה֖וּא נְאֻם־יְהֹוָ֑ה וְהַאֲבַדְתִּ֤י חֲכָמִים֙ מֵֽאֱד֔וֹם וּתְבוּנָ֖ה מֵהַ֥ר עֵשָֽׂו",
+          "translation": "In that day—declares GOD—I will make the wise vanish from Edom,Understanding from Esau’s mount.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1961,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "הֲל֛וֹא",
+              "tr": "ha·LVO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 42
+            },
+            {
+              "heb": "בַּיּ֥וֹם",
+              "tr": "ba·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "הַה֖וּא",
+              "tr": "ha·HV",
+              "root": "הוא",
+              "eng": "pron 3p s",
+              "gem": 17
+            },
+            {
+              "heb": "נְאֻם־יְהֹוָ֑ה",
+              "tr": "ne·'u·m-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "utterance·Commonly transcribed YHWH",
+              "gem": 117
+            },
+            {
+              "heb": "וְהַאֲבַדְתִּ֤י",
+              "tr": "ve·ha·'a·va·de·ti·Y",
+              "root": "אבד",
+              "eng": "perish",
+              "gem": 428
+            },
+            {
+              "heb": "חֲכָמִים֙",
+              "tr": "cha·cha·mi·YM",
+              "root": "חכם",
+              "eng": "wise",
+              "gem": 118
+            },
+            {
+              "heb": "מֵֽאֱד֔וֹם",
+              "tr": "me·'e·dvo·M",
+              "root": "אדם",
+              "eng": "Edom = \"red\"",
+              "gem": 91
+            },
+            {
+              "heb": "וּתְבוּנָ֖ה",
+              "tr": "vte·vvna·H",
+              "root": "תבון",
+              "eng": "understanding",
+              "gem": 469
+            },
+            {
+              "heb": "מֵהַ֥ר",
+              "tr": "me·ha·R",
+              "root": "מהר",
+              "eng": "to hasten",
+              "gem": 245
+            },
+            {
+              "heb": "עֵשָֽׂו",
+              "tr": "e·sa·V",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 376
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "ref": "Ovadyah 1:9",
+          "hebrew_full": "וְחַתּ֥וּ גִבּוֹרֶ֖יךָ תֵּימָ֑ן לְמַ֧עַן יִכָּֽרֶת־אִ֛ישׁ מֵהַ֥ר עֵשָׂ֖ו מִקָּֽטֶל",
+          "translation": "Your warriors shall lose heart, O Teman,And no one on Esau’s mountShall survive the slaughter.",
+          "rashi": "And your mighty men shall be dismayed—They shall be dismayed and frightened to flee to the land of Israel [Malbim: to the land of Edom]. And Jonathan rendered: And your mighty men shall be dismayed, dwellers of the southland. in order that every man be cut off—I.e, every mighty man. [from Targum Jonathan] from the mountain of Esau by slaughter—By the great slaughter that will come upon them.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3092,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְחַתּ֥וּ",
+              "tr": "ve·cha·TV",
+              "root": "חתת",
+              "eng": "to be shattered",
+              "gem": 420
+            },
+            {
+              "heb": "גִבּוֹרֶ֖יךָ",
+              "tr": "gi·bvo·re·YCHA",
+              "root": "גבור",
+              "eng": "adj",
+              "gem": 241
+            },
+            {
+              "heb": "תֵּימָ֑ן",
+              "tr": "te·yma·N",
+              "root": "תימן",
+              "eng": "south",
+              "gem": 500
+            },
+            {
+              "heb": "לְמַ֧עַן",
+              "tr": "le·ma·'a·N",
+              "root": "מען",
+              "eng": "purpose",
+              "gem": 190
+            },
+            {
+              "heb": "יִכָּֽרֶת־אִ֛ישׁ",
+              "tr": "yi·ka·re·t-'i·YSH",
+              "root": "כרת",
+              "eng": "to cut·man",
+              "gem": 941
+            },
+            {
+              "heb": "מֵהַ֥ר",
+              "tr": "me·ha·R",
+              "root": "מהר",
+              "eng": "to hasten",
+              "gem": 245
+            },
+            {
+              "heb": "עֵשָׂ֖ו",
+              "tr": "e·sa·V",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 376
+            },
+            {
+              "heb": "מִקָּֽטֶל",
+              "tr": "mi·ka·te·L",
+              "root": "קטל",
+              "eng": "slaughter",
+              "gem": 179
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "ref": "Ovadyah 1:10",
+          "hebrew_full": "מֵחֲמַ֛ס אָחִ֥יךָ יַעֲקֹ֖ב תְּכַסְּךָ֣ בוּשָׁ֑ה וְנִכְרַ֖תָּ לְעוֹלָֽם",
+          "translation": "For the outrage to your brother Jacob,Disgrace shall engulf you,And you shall perish forever.",
+          "rashi": "Because of the violence of your brother Jacob—Because of the violence you inflicted upon Jacob.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2034,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "מֵחֲמַ֛ס",
+              "tr": "me·cha·ma·S",
+              "root": "חמס",
+              "eng": "violence",
+              "gem": 148
+            },
+            {
+              "heb": "אָחִ֥יךָ",
+              "tr": "a·chi·YCHA",
+              "root": "אח",
+              "eng": "brother",
+              "gem": 39
+            },
+            {
+              "heb": "יַעֲקֹ֖ב",
+              "tr": "ya·'a·ko·V",
+              "root": "יעקב",
+              "eng": "Jacob = \"heel holder\" or \"supplanter\"",
+              "gem": 182
+            },
+            {
+              "heb": "תְּכַסְּךָ֣",
+              "tr": "te·cha·se·CHA",
+              "root": "כסה",
+              "eng": "to cover",
+              "gem": 500
+            },
+            {
+              "heb": "בוּשָׁ֑ה",
+              "tr": "vvsha·H",
+              "root": "בוש",
+              "eng": "to put to shame",
+              "gem": 313
+            },
+            {
+              "heb": "וְנִכְרַ֖תָּ",
+              "tr": "ve·ni·che·ra·TA",
+              "root": "כרת",
+              "eng": "to cut",
+              "gem": 676
+            },
+            {
+              "heb": "לְעוֹלָֽם",
+              "tr": "le·'vo·la·M",
+              "root": "עולם",
+              "eng": "long duration",
+              "gem": 176
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "ref": "Ovadyah 1:11",
+          "hebrew_full": "בְּיוֹם֙ עֲמׇֽדְךָ֣ מִנֶּ֔גֶד בְּי֛וֹם שְׁב֥וֹת זָרִ֖ים חֵיל֑וֹ וְנׇכְרִ֞ים בָּ֣אוּ שְׁעָרָ֗ו וְעַל־יְרוּשָׁלִַ֙ם֙ יַדּ֣וּ גוֹרָ֔ל גַּם־אַתָּ֖ה כְּאַחַ֥ד מֵהֶֽם",
+          "translation": "On that day when you stood aloof,When aliens carried off his goods,When foreigners entered his gatesAnd cast lots for Jerusalem,You were as one of them.",
+          "rashi": "On the day you stood from afar—that you did not come to aid him. you, too, are like one of them—I account it for you as though you were one of their attackers.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3795,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "בְּיוֹם֙",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "עֲמׇֽדְךָ֣",
+              "tr": "a·mde·CHA",
+              "root": "עמד",
+              "eng": "to stand",
+              "gem": 134
+            },
+            {
+              "heb": "מִנֶּ֔גֶד",
+              "tr": "mi·ne·ge·D",
+              "root": "נגד",
+              "eng": "subst",
+              "gem": 97
+            },
+            {
+              "heb": "בְּי֛וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "שְׁב֥וֹת",
+              "tr": "she·vvo·T",
+              "root": "שבות",
+              "eng": "captivity",
+              "gem": 708
+            },
+            {
+              "heb": "זָרִ֖ים",
+              "tr": "za·ri·YM",
+              "root": "זור",
+              "eng": "to be strange",
+              "gem": 257
+            },
+            {
+              "heb": "חֵיל֑וֹ",
+              "tr": "che·YLVO",
+              "root": "חיל",
+              "eng": "rampart",
+              "gem": 54
+            },
+            {
+              "heb": "וְנׇכְרִ֞ים",
+              "tr": "ve·nche·ri·YM",
+              "root": "נכרי",
+              "eng": "foreign",
+              "gem": 326
+            },
+            {
+              "heb": "בָּ֣אוּ",
+              "tr": "ba·'V",
+              "root": "בוא",
+              "eng": "to go in",
+              "gem": 9
+            },
+            {
+              "heb": "שְׁעָרָ֗ו",
+              "tr": "she·'a·ra·V",
+              "root": "שער",
+              "eng": "hair",
+              "gem": 576
+            },
+            {
+              "heb": "וְעַל־יְרוּשָׁלִַ֙ם֙",
+              "tr": "ve·'a·l-ye·rvsha·lai·M",
+              "root": "עול",
+              "eng": "to give suck·Jerusalem = \"teaching of peace\"",
+              "gem": 692
+            },
+            {
+              "heb": "יַדּ֣וּ",
+              "tr": "ya·DV",
+              "root": "יד",
+              "eng": "hand",
+              "gem": 20
+            },
+            {
+              "heb": "גוֹרָ֔ל",
+              "tr": "gvo·ra·L",
+              "root": "גורל",
+              "eng": "lot",
+              "gem": 239
+            },
+            {
+              "heb": "גַּם־אַתָּ֖ה",
+              "tr": "ga·m-'a·ta·H",
+              "root": "אתה",
+              "eng": "also·you (second pers. sing. masc.)",
+              "gem": 449
+            },
+            {
+              "heb": "כְּאַחַ֥ד",
+              "tr": "ke·'a·cha·D",
+              "root": "אחד",
+              "eng": "one (number)",
+              "gem": 33
+            },
+            {
+              "heb": "מֵהֶֽם",
+              "tr": "me·he·M",
+              "root": "הם",
+              "eng": "abundance",
+              "gem": 85
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "ref": "Ovadyah 1:12",
+          "hebrew_full": "וְאַל־תֵּ֤רֶא בְיוֹם־אָחִ֙יךָ֙ בְּי֣וֹם נׇכְר֔וֹ וְאַל־תִּשְׂמַ֥ח לִבְנֵֽי־יְהוּדָ֖ה בְּי֣וֹם אׇבְדָ֑ם וְאַל־תַּגְדֵּ֥ל פִּ֖יךָ בְּי֥וֹם צָרָֽה",
+          "translation": "How could you gaze with gleeOn your brother that day,On his day of calamity!How could you gloatOver the people of JudahOn that day of ruin!How could you loudly jeerOn a day of anguish!",
+          "rashi": "And you should not have looked on the day of your brother—You should not have looked and stood from afar. on the day of his being delivered Heb. נָכְרוֹ. On the day of his being delivered into the hands of the heathens. And so does Scripture state concerning Saul: (I Sam. 23:7) “נִכַּר אֹתוֹ אֱלֹהִים בְּיָדְי,” “He has delivered him into my hand.”",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3018,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְאַל־תֵּ֤רֶא",
+              "tr": "ve·'a·l-te·RE",
+              "root": "ראה",
+              "eng": "god·to see",
+              "gem": 638
+            },
+            {
+              "heb": "בְיוֹם־אָחִ֙יךָ֙",
+              "tr": "ve·yvo·m-'a·chi·YCHA",
+              "root": "יום",
+              "eng": "day·brother",
+              "gem": 97
+            },
+            {
+              "heb": "בְּי֣וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "נׇכְר֔וֹ",
+              "tr": "nche·RVO",
+              "root": "נכר",
+              "eng": "to recognise",
+              "gem": 276
+            },
+            {
+              "heb": "וְאַל־תִּשְׂמַ֥ח",
+              "tr": "ve·'a·l-ti·se·ma·CH",
+              "root": "שמח",
+              "eng": "god·to rejoice",
+              "gem": 785
+            },
+            {
+              "heb": "לִבְנֵֽי־יְהוּדָ֖ה",
+              "tr": "li·ve·ne·y-ye·hvda·H",
+              "root": "בן",
+              "eng": "son·Judah = \"praised\"",
+              "gem": 122
+            },
+            {
+              "heb": "בְּי֣וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "אׇבְדָ֑ם",
+              "tr": "ve·da·M",
+              "root": "אבד",
+              "eng": "perish",
+              "gem": 47
+            },
+            {
+              "heb": "וְאַל־תַּגְדֵּ֥ל",
+              "tr": "ve·'a·l-ta·ge·de·L",
+              "root": "גדל",
+              "eng": "god·to grow",
+              "gem": 474
+            },
+            {
+              "heb": "פִּ֖יךָ",
+              "tr": "pi·YCHA",
+              "root": "פה",
+              "eng": "peh",
+              "gem": 110
+            },
+            {
+              "heb": "בְּי֥וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "צָרָֽה",
+              "tr": "tsa·ra·H",
+              "root": "צר",
+              "eng": "narrow",
+              "gem": 295
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "ref": "Ovadyah 1:13",
+          "hebrew_full": "אַל־תָּב֤וֹא בְשַֽׁעַר־עַמִּי֙ בְּי֣וֹם אֵידָ֔ם אַל־תֵּ֧רֶא גַם־אַתָּ֛ה בְּרָעָת֖וֹ בְּי֣וֹם אֵיד֑וֹ וְאַל־תִּשְׁלַ֥חְנָה בְחֵיל֖וֹ בְּי֥וֹם אֵידֽוֹ",
+          "translation": "How could you enter the gate of My peopleOn its day of disaster,Gaze in glee with the othersOn its misfortuneOn its day of disaster,And lay hands on its wealthOn its day of disaster!",
+          "rashi": "and you should not have stretched out upon their possessions—You should not have stretched out your hand upon their possessions. So did Jonathan render. And this is an ellipsis, to which we must add: “your hands.”",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4048,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "אַל־תָּב֤וֹא",
+              "tr": "a·l-ta·VVO",
+              "root": "איל",
+              "eng": "ram·to go in",
+              "gem": 440
+            },
+            {
+              "heb": "בְשַֽׁעַר־עַמִּי֙",
+              "tr": "ve·sha·'a·r-'a·mi·Y",
+              "root": "שער",
+              "eng": "gate·nation",
+              "gem": 692
+            },
+            {
+              "heb": "בְּי֣וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "אֵידָ֔ם",
+              "tr": "e·yda·M",
+              "root": "איד",
+              "eng": "distress",
+              "gem": 55
+            },
+            {
+              "heb": "אַל־תֵּ֧רֶא",
+              "tr": "a·l-te·RE",
+              "root": "איל",
+              "eng": "ram·to see",
+              "gem": 632
+            },
+            {
+              "heb": "גַם־אַתָּ֛ה",
+              "tr": "ga·m-'a·ta·H",
+              "root": "אתה",
+              "eng": "also·you (second pers. sing. masc.)",
+              "gem": 449
+            },
+            {
+              "heb": "בְּרָעָת֖וֹ",
+              "tr": "be·ra·'a·TVO",
+              "root": "רעה",
+              "eng": "to pasture",
+              "gem": 678
+            },
+            {
+              "heb": "בְּי֣וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "אֵיד֑וֹ",
+              "tr": "e·YDVO",
+              "root": "איד",
+              "eng": "distress",
+              "gem": 21
+            },
+            {
+              "heb": "וְאַל־תִּשְׁלַ֥חְנָה",
+              "tr": "ve·'a·l-ti·she·la·che·na·H",
+              "root": "שלח",
+              "eng": "god·to send",
+              "gem": 830
+            },
+            {
+              "heb": "בְחֵיל֖וֹ",
+              "tr": "ve·che·YLVO",
+              "root": "חיל",
+              "eng": "strength",
+              "gem": 56
+            },
+            {
+              "heb": "בְּי֥וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "אֵידֽוֹ",
+              "tr": "e·YDVO",
+              "root": "איד",
+              "eng": "distress",
+              "gem": 21
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "ref": "Ovadyah 1:14",
+          "hebrew_full": "וְאַֽל־תַּעֲמֹד֙ עַל־הַפֶּ֔רֶק לְהַכְרִ֖ית אֶת־פְּלִיטָ֑יו וְאַל־תַּסְגֵּ֥ר שְׂרִידָ֖יו בְּי֥וֹם צָרָֽה",
+          "translation": "How could you stand at the passes To cut down its fugitives!How could you betray those who fledOn that day of anguish!",
+          "rashi": "And you should not have stood by the gap Heb. הַפֶּרֶק. The place through which the escapees emerge to escape, and in French they call it “trou.” And you should not have stood by me gap—From here [we learn] that one may not interrupt between one paragraph and another in reading the “Shma.” [Haggadah of Rabbi Akiva]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3830,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְאַֽל־תַּעֲמֹד֙",
+              "tr": "ve·'a·l-ta·'a·mo·D",
+              "root": "עמד",
+              "eng": "god·to stand",
+              "gem": 551
+            },
+            {
+              "heb": "עַל־הַפֶּ֔רֶק",
+              "tr": "a·l-ha·pe·re·K",
+              "root": "פרק",
+              "eng": "subst·parting of ways",
+              "gem": 485
+            },
+            {
+              "heb": "לְהַכְרִ֖ית",
+              "tr": "le·ha·che·ri·YT",
+              "root": "כרת",
+              "eng": "to cut",
+              "gem": 665
+            },
+            {
+              "heb": "אֶת־פְּלִיטָ֑יו",
+              "tr": "e·t-pe·li·yta·YV",
+              "root": "פליט",
+              "eng": "sign of the definite direct object·refugee",
+              "gem": 546
+            },
+            {
+              "heb": "וְאַל־תַּסְגֵּ֥ר",
+              "tr": "ve·'a·l-ta·se·ge·R",
+              "root": "סגר",
+              "eng": "god·to shut",
+              "gem": 700
+            },
+            {
+              "heb": "שְׂרִידָ֖יו",
+              "tr": "se·ri·yda·YV",
+              "root": "שריד",
+              "eng": "survivor",
+              "gem": 530
+            },
+            {
+              "heb": "בְּי֥וֹם",
+              "tr": "be·yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 58
+            },
+            {
+              "heb": "צָרָֽה",
+              "tr": "tsa·ra·H",
+              "root": "צר",
+              "eng": "narrow",
+              "gem": 295
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "ref": "Ovadyah 1:15",
+          "hebrew_full": "כִּֽי־קָר֥וֹב יוֹם־יְהֹוָ֖ה עַל־כׇּל־הַגּוֹיִ֑ם כַּאֲשֶׁ֤ר עָשִׂ֙יתָ֙ יֵעָ֣שֶׂה לָּ֔ךְ גְּמֻלְךָ֖ יָשׁ֥וּב בְּרֹאשֶֽׁךָ",
+          "translation": "As you did, so shall it be done to you;Your conduct shall be requited.Yea, against all nationsThe day of GOD is at hand.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3304,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "כִּֽי־קָר֥וֹב",
+              "tr": "ki·y-ka·rvo·V",
+              "root": "קרוב",
+              "eng": "burning·near",
+              "gem": 338
+            },
+            {
+              "heb": "יוֹם־יְהֹוָ֖ה",
+              "tr": "yvo·m-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "day·Commonly transcribed YHWH",
+              "gem": 82
+            },
+            {
+              "heb": "עַל־כׇּל־הַגּוֹיִ֑ם",
+              "tr": "a·l-kl-ha·gvo·yi·M",
+              "root": "גוי",
+              "eng": "subst·all·n m",
+              "gem": 214
+            },
+            {
+              "heb": "כַּאֲשֶׁ֤ר",
+              "tr": "ka·'a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 521
+            },
+            {
+              "heb": "עָשִׂ֙יתָ֙",
+              "tr": "a·si·YTA",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 780
+            },
+            {
+              "heb": "יֵעָ֣שֶׂה",
+              "tr": "ye·'a·se·H",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 385
+            },
+            {
+              "heb": "לָּ֔ךְ",
+              "tr": "la·CHE",
+              "root": "לך",
+              "eng": "unto thee",
+              "gem": 50
+            },
+            {
+              "heb": "גְּמֻלְךָ֖",
+              "tr": "ge·mu·le·CHA",
+              "root": "גמול",
+              "eng": "dealing",
+              "gem": 93
+            },
+            {
+              "heb": "יָשׁ֥וּב",
+              "tr": "ya·SHVV",
+              "root": "ישוב",
+              "eng": "Jashub = \"he will return\"",
+              "gem": 318
+            },
+            {
+              "heb": "בְּרֹאשֶֽׁךָ",
+              "tr": "be·ro·'she·CHA",
+              "root": "ראש",
+              "eng": "head",
+              "gem": 523
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "ref": "Ovadyah 1:16",
+          "hebrew_full": "כִּ֗י כַּֽאֲשֶׁ֤ר שְׁתִיתֶם֙ עַל־הַ֣ר קׇדְשִׁ֔י יִשְׁתּ֥וּ כׇֽל־הַגּוֹיִ֖ם תָּמִ֑יד וְשָׁת֣וּ וְלָע֔וּ וְהָי֖וּ כְּל֥וֹא הָיֽוּ",
+          "translation": "That same cup that you drank on My Holy MountShall all nations drink evermore, Drink till their speech grows thick,And they become as though they had never been.",
+          "rashi": "For, as you drank on My Holy Mount—Just as you rejoiced concerning the destruction of My Holy Mount. [from Jonathan] and be stunned Heb. יְלָעוּ. As the Targum renders: וְיִסְתַּלְעֲמוּן, an expression of confusion, amazement, and benumbing the mind; etourdissant in French -stunning.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4633,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "כִּ֗י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "כַּֽאֲשֶׁ֤ר",
+              "tr": "ka·'a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 521
+            },
+            {
+              "heb": "שְׁתִיתֶם֙",
+              "tr": "she·ti·yte·M",
+              "root": "שתה",
+              "eng": "to drink",
+              "gem": 1150
+            },
+            {
+              "heb": "עַל־הַ֣ר",
+              "tr": "a·l-ha·R",
+              "root": "על",
+              "eng": "subst·hill",
+              "gem": 305
+            },
+            {
+              "heb": "קׇדְשִׁ֔י",
+              "tr": "kde·shi·Y",
+              "root": "קדש",
+              "eng": "",
+              "gem": 414
+            },
+            {
+              "heb": "יִשְׁתּ֥וּ",
+              "tr": "yi·she·TV",
+              "root": "שתה",
+              "eng": "to drink",
+              "gem": 716
+            },
+            {
+              "heb": "כׇֽל־הַגּוֹיִ֖ם",
+              "tr": "chl-ha·gvo·yi·M",
+              "root": "גוי",
+              "eng": "all·n m",
+              "gem": 114
+            },
+            {
+              "heb": "תָּמִ֑יד",
+              "tr": "ta·mi·YD",
+              "root": "תמיד",
+              "eng": "continuity",
+              "gem": 454
+            },
+            {
+              "heb": "וְשָׁת֣וּ",
+              "tr": "ve·sha·TV",
+              "root": "שתה",
+              "eng": "to drink",
+              "gem": 712
+            },
+            {
+              "heb": "וְלָע֔וּ",
+              "tr": "ve·la·'V",
+              "root": "לוע",
+              "eng": "to swallow",
+              "gem": 112
+            },
+            {
+              "heb": "וְהָי֖וּ",
+              "tr": "ve·ha·YV",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 27
+            },
+            {
+              "heb": "כְּל֥וֹא",
+              "tr": "ke·LVO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 57
+            },
+            {
+              "heb": "הָיֽוּ",
+              "tr": "ha·YV",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 21
+            }
+          ]
+        },
+        {
+          "verse": 17,
+          "ref": "Ovadyah 1:17",
+          "hebrew_full": "וּבְהַ֥ר צִיּ֛וֹן תִּהְיֶ֥ה פְלֵיטָ֖ה וְהָ֣יָה קֹ֑דֶשׁ וְיָֽרְשׁוּ֙ בֵּ֣ית יַֽעֲקֹ֔ב אֵ֖ת מוֹרָֽשֵׁיהֶֽם",
+          "translation": "But on Zion’s mount a remnant shall survive,And it shall be holy. The House of Jacob shall dispossessThose who dispossessed them.",
+          "rashi": "those who inherited them—The possessions of the people who inherited them. [from Targum Jonathan]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3471,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וּבְהַ֥ר",
+              "tr": "vve·ha·R",
+              "root": "הר",
+              "eng": "hill",
+              "gem": 213
+            },
+            {
+              "heb": "צִיּ֛וֹן",
+              "tr": "tsi·yvo·N",
+              "root": "בת",
+              "eng": "n f",
+              "gem": 156
+            },
+            {
+              "heb": "תִּהְיֶ֥ה",
+              "tr": "ti·he·ye·H",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 420
+            },
+            {
+              "heb": "פְלֵיטָ֖ה",
+              "tr": "fe·le·yta·H",
+              "root": "",
+              "eng": "escape",
+              "gem": 134
+            },
+            {
+              "heb": "וְהָ֣יָה",
+              "tr": "ve·ha·ya·H",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 26
+            },
+            {
+              "heb": "קֹ֑דֶשׁ",
+              "tr": "ko·de·SH",
+              "root": "קדש",
+              "eng": "male temple prostitute",
+              "gem": 404
+            },
+            {
+              "heb": "וְיָֽרְשׁוּ֙",
+              "tr": "ve·ya·re·SHV",
+              "root": "ירש",
+              "eng": "to seize",
+              "gem": 522
+            },
+            {
+              "heb": "בֵּ֣ית",
+              "tr": "be·YT",
+              "root": "בית",
+              "eng": "nm",
+              "gem": 412
+            },
+            {
+              "heb": "יַֽעֲקֹ֔ב",
+              "tr": "ya·'a·ko·V",
+              "root": "יעקב",
+              "eng": "Jacob = \"heel holder\" or \"supplanter\"",
+              "gem": 182
+            },
+            {
+              "heb": "אֵ֖ת",
+              "tr": "e·T",
+              "root": "את",
+              "eng": "sign of the definite direct object",
+              "gem": 401
+            },
+            {
+              "heb": "מוֹרָֽשֵׁיהֶֽם",
+              "tr": "mvo·ra·she·yhe·M",
+              "root": "מורש",
+              "eng": "possession",
+              "gem": 601
+            }
+          ]
+        },
+        {
+          "verse": 18,
+          "ref": "Ovadyah 1:18",
+          "hebrew_full": "וְהָיָה֩ בֵית־יַעֲקֹ֨ב אֵ֜שׁ וּבֵ֧ית יוֹסֵ֣ף לֶהָבָ֗ה וּבֵ֤ית עֵשָׂו֙ לְקַ֔שׁ וְדָלְק֥וּ בָהֶ֖ם וַאֲכָל֑וּם וְלֹֽא־יִֽהְיֶ֤ה שָׂרִיד֙ לְבֵ֣ית עֵשָׂ֔ו כִּ֥י יְהֹוָ֖ה דִּבֵּֽר",
+          "translation": "The House of Jacob shall be fire,And the House of Joseph flame,And the House of Esau shall be straw;They shall burn it and devour it,And no survivor shall be left of the House of Esau—for GOD has spoken.",
+          "rashi": "for the Lord has spoken—Now where did He speak? (Num. 24:19) “Out of Jacob shall come a ruler, and he shall destroy him that remains in the city.” [from Mechilta Bo 12:16, Pirké d’Rabbi Eliezer ch. 37]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4718,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְהָיָה֩",
+              "tr": "ve·ha·ya·H",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 26
+            },
+            {
+              "heb": "בֵית־יַעֲקֹ֨ב",
+              "tr": "ve·yt-ya·'a·ko·V",
+              "root": "יעקב",
+              "eng": "nm·Jacob = \"heel holder\" or \"supplanter\"",
+              "gem": 594
+            },
+            {
+              "heb": "אֵ֜שׁ",
+              "tr": "e·SH",
+              "root": "אש",
+              "eng": "fire",
+              "gem": 301
+            },
+            {
+              "heb": "וּבֵ֧ית",
+              "tr": "vve·YT",
+              "root": "בית",
+              "eng": "nm",
+              "gem": 418
+            },
+            {
+              "heb": "יוֹסֵ֣ף",
+              "tr": "yvo·se·F",
+              "root": "יוסף",
+              "eng": "Joseph = \"Jehovah has added\"",
+              "gem": 156
+            },
+            {
+              "heb": "לֶהָבָ֗ה",
+              "tr": "le·ha·va·H",
+              "root": "להבה",
+              "eng": "flame",
+              "gem": 42
+            },
+            {
+              "heb": "וּבֵ֤ית",
+              "tr": "vve·YT",
+              "root": "בית",
+              "eng": "nm",
+              "gem": 418
+            },
+            {
+              "heb": "עֵשָׂו֙",
+              "tr": "e·sa·V",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 376
+            },
+            {
+              "heb": "לְקַ֔שׁ",
+              "tr": "le·ka·SH",
+              "root": "קש",
+              "eng": "stubble",
+              "gem": 430
+            },
+            {
+              "heb": "וְדָלְק֥וּ",
+              "tr": "ve·da·le·KV",
+              "root": "דלק",
+              "eng": "to burn",
+              "gem": 146
+            },
+            {
+              "heb": "בָהֶ֖ם",
+              "tr": "va·he·M",
+              "root": "הם",
+              "eng": "Ham = \"hot\" or \"sunburnt\"",
+              "gem": 47
+            },
+            {
+              "heb": "וַאֲכָל֑וּם",
+              "tr": "va·'a·cha·LVM",
+              "root": "אכל",
+              "eng": "to eat",
+              "gem": 103
+            },
+            {
+              "heb": "וְלֹֽא־יִֽהְיֶ֤ה",
+              "tr": "ve·lo·'-yi·he·ye·H",
+              "root": "היה",
+              "eng": "not·to be",
+              "gem": 67
+            },
+            {
+              "heb": "שָׂרִיד֙",
+              "tr": "sa·ri·YD",
+              "root": "שריד",
+              "eng": "survivor",
+              "gem": 514
+            },
+            {
+              "heb": "לְבֵ֣ית",
+              "tr": "le·ve·YT",
+              "root": "בית",
+              "eng": "nm",
+              "gem": 442
+            },
+            {
+              "heb": "עֵשָׂ֔ו",
+              "tr": "e·sa·V",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 376
+            },
+            {
+              "heb": "כִּ֥י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "יְהֹוָ֖ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "דִּבֵּֽר",
+              "tr": "di·be·R",
+              "root": "דבר",
+              "eng": "to speak",
+              "gem": 206
+            }
+          ]
+        },
+        {
+          "verse": 19,
+          "ref": "Ovadyah 1:19",
+          "hebrew_full": "וְיָרְשׁ֨וּ הַנֶּ֜גֶב אֶת־הַ֣ר עֵשָׂ֗ו וְהַשְּׁפֵלָה֙ אֶת־פְּלִשְׁתִּ֔ים וְיָרְשׁוּ֙ אֶת־שְׂדֵ֣ה אֶפְרַ֔יִם וְאֵ֖ת שְׂדֵ֣ה שֹׁמְר֑וֹן וּבִנְיָמִ֖ן אֶת־הַגִּלְעָֽד",
+          "translation": "Thus they shall possess the Negeb and Mount Esau as well, the Shephelah and Philistia. They shall possess the Ephraimite country and the district of Samaria, and Benjamin along with Gilead.",
+          "rashi": "And [the inhabitants of] the southland shall inherit—Israel, who were dwelling in the south of Eretz Israel, shall inherit the mountain of Esau, which is at the southern boundary; and the people of the plain shall inherit the land of the Philistines and Mt. Ephraim and Mt. Shomeron. and Benjamin with [the inhabitants of] Gilead And the children of Manasseh, whose territory was the land of Gilead, shall spread beyond the borders of Eretz Israel on the east.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 6797,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְיָרְשׁ֨וּ",
+              "tr": "ve·ya·re·SHV",
+              "root": "ירש",
+              "eng": "to seize",
+              "gem": 522
+            },
+            {
+              "heb": "הַנֶּ֜גֶב",
+              "tr": "ha·ne·ge·V",
+              "root": "נגב",
+              "eng": "south-country",
+              "gem": 60
+            },
+            {
+              "heb": "אֶת־הַ֣ר",
+              "tr": "e·t-ha·R",
+              "root": "את",
+              "eng": "sign of the definite direct object·hill",
+              "gem": 606
+            },
+            {
+              "heb": "עֵשָׂ֗ו",
+              "tr": "e·sa·V",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 376
+            },
+            {
+              "heb": "וְהַשְּׁפֵלָה֙",
+              "tr": "ve·ha·she·fe·la·H",
+              "root": "שפלה",
+              "eng": "lowland",
+              "gem": 426
+            },
+            {
+              "heb": "אֶת־פְּלִשְׁתִּ֔ים",
+              "tr": "e·t-pe·li·she·ti·YM",
+              "root": "את",
+              "eng": "sign of the definite direct object·Philistine = \"immigrants\"",
+              "gem": 1261
+            },
+            {
+              "heb": "וְיָרְשׁוּ֙",
+              "tr": "ve·ya·re·SHV",
+              "root": "ירש",
+              "eng": "to seize",
+              "gem": 522
+            },
+            {
+              "heb": "אֶת־שְׂדֵ֣ה",
+              "tr": "e·t-se·de·H",
+              "root": "שדה",
+              "eng": "sign of the definite direct object·field",
+              "gem": 710
+            },
+            {
+              "heb": "אֶפְרַ֔יִם",
+              "tr": "e·fe·ra·yi·M",
+              "root": "",
+              "eng": "Ephraim = \"double ash-heap: I shall be doubly fruitful\"",
+              "gem": 331
+            },
+            {
+              "heb": "וְאֵ֖ת",
+              "tr": "ve·'e·T",
+              "root": "את",
+              "eng": "sign of the definite direct object",
+              "gem": 407
+            },
+            {
+              "heb": "שְׂדֵ֣ה",
+              "tr": "se·de·H",
+              "root": "שדה",
+              "eng": "field",
+              "gem": 309
+            },
+            {
+              "heb": "שֹׁמְר֑וֹן",
+              "tr": "sho·me·rvo·N",
+              "root": "",
+              "eng": "Shimron = \"watch-height\"",
+              "gem": 596
+            },
+            {
+              "heb": "וּבִנְיָמִ֖ן",
+              "tr": "vvi·ne·ya·mi·N",
+              "root": "",
+              "eng": "Benjamin = \"son of the right hand\"",
+              "gem": 158
+            },
+            {
+              "heb": "אֶת־הַגִּלְעָֽד",
+              "tr": "e·t-ha·gi·le·'a·D",
+              "root": "גלעד",
+              "eng": "sign of the definite direct object·n pr loc Gilead = \"rocky region\"",
+              "gem": 513
+            }
+          ]
+        },
+        {
+          "verse": 20,
+          "ref": "Ovadyah 1:20",
+          "hebrew_full": "וְגָלֻ֣ת הַֽחֵל־הַ֠זֶּ֠ה לִבְנֵ֨י יִשְׂרָאֵ֤ל אֲשֶֽׁר־כְּנַעֲנִים֙ עַד־צָ֣רְפַ֔ת וְגָלֻ֥ת יְרוּשָׁלִַ֖ם אֲשֶׁ֣ר בִּסְפָרַ֑ד יִֽרְשׁ֕וּ אֵ֖ת עָרֵ֥י הַנֶּֽגֶב",
+          "translation": "And that exiled force of Israelites [shall possess] what belongs to the Phoenicians as far as Zarephath, while the Jerusalemite exile community of Sepharad shall possess the towns of the Negeb.",
+          "rashi": "And this exiled host Heb. הַחֵל. Jonathan renders: This people. הַחֵל, An expression of a host. Cf. (Isa. 36:2) “And he came (sic) to Jerusalem with an army (חֵיל) of a great multitude,” which deals with Rabshakeh, only that this one is missing a “yud.” It is also possible to explain גָלֻת הַחֵל as “the exile of this valley.” who are [with] the Canaanites as far as Zarephath—The exile which is of the children of Israel who were exiled from the ten tribes to the land of the Canaanites as far as Zarephath and the exile of Jerusalem which is in Sepharad—who are of the people of Judah who were exiled to Sepharad - they shall inherit the cities of the southland, which are in the southern part of Eretz Israel. The exegetes claim that Zarephath is the kingdom called France in French. Sepharad—Jonathan renders: Spain.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 5846,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְגָלֻ֣ת",
+              "tr": "ve·ga·lu·T",
+              "root": "גלה",
+              "eng": "bowl",
+              "gem": 439
+            },
+            {
+              "heb": "הַֽחֵל־הַ֠זֶּ֠ה",
+              "tr": "ha·che·l-ha·ze·H",
+              "root": "חלל",
+              "eng": "to profane·(f. <a dir=\"rtl\" class=\"refLink\" href=\"/Klein Dictionary",
+              "gem": 60
+            },
+            {
+              "heb": "לִבְנֵ֨י",
+              "tr": "li·ve·ne·Y",
+              "root": "בן",
+              "eng": "son",
+              "gem": 92
+            },
+            {
+              "heb": "יִשְׂרָאֵ֤ל",
+              "tr": "yi·se·ra·'e·L",
+              "root": "",
+              "eng": "Israel.",
+              "gem": 541
+            },
+            {
+              "heb": "אֲשֶֽׁר־כְּנַעֲנִים֙",
+              "tr": "a·she·r-ke·na·'a·ni·YM",
+              "root": "אשר",
+              "eng": "(relative part.)·Canaanite = see Cana \"zealous\"",
+              "gem": 741
+            },
+            {
+              "heb": "עַד־צָ֣רְפַ֔ת",
+              "tr": "a·d-tsa·re·fa·T",
+              "root": "צרפת",
+              "eng": "perpetuity·Zarephath = \"refinery\"",
+              "gem": 844
+            },
+            {
+              "heb": "וְגָלֻ֥ת",
+              "tr": "ve·ga·lu·T",
+              "root": "גלה",
+              "eng": "bowl",
+              "gem": 439
+            },
+            {
+              "heb": "יְרוּשָׁלִַ֖ם",
+              "tr": "ye·rvsha·lai·M",
+              "root": "",
+              "eng": "Jerusalem = \"teaching of peace\"",
+              "gem": 586
+            },
+            {
+              "heb": "אֲשֶׁ֣ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "בִּסְפָרַ֑ד",
+              "tr": "bi·se·fa·ra·D",
+              "root": "ספרד",
+              "eng": "Sepharad = \"separated\"",
+              "gem": 346
+            },
+            {
+              "heb": "יִֽרְשׁ֕וּ",
+              "tr": "yi·re·SHV",
+              "root": "ירש",
+              "eng": "to seize",
+              "gem": 516
+            },
+            {
+              "heb": "אֵ֖ת",
+              "tr": "e·T",
+              "root": "את",
+              "eng": "sign of the definite direct object",
+              "gem": 401
+            },
+            {
+              "heb": "עָרֵ֥י",
+              "tr": "a·re·Y",
+              "root": "ערי",
+              "eng": "Eri = \"watchful\"",
+              "gem": 280
+            },
+            {
+              "heb": "הַנֶּֽגֶב",
+              "tr": "ha·ne·ge·V",
+              "root": "נגב",
+              "eng": "south-country",
+              "gem": 60
+            }
+          ]
+        },
+        {
+          "verse": 21,
+          "ref": "Ovadyah 1:21",
+          "hebrew_full": "וְעָל֤וּ מֽוֹשִׁעִים֙ בְּהַ֣ר צִיּ֔וֹן לִשְׁפֹּ֖ט אֶת־הַ֣ר עֵשָׂ֑ו וְהָיְתָ֥ה לַֽיהֹוָ֖ה הַמְּלוּכָֽה",
+          "translation": "For liberators shall march up on Mount Zion to wreak judgment on Mount Esau; and dominion shall be GOD’s.",
+          "rashi": "shall ascend—Princes of Israel as saviors on Mt. Zion. to judge the mountain of Esau—to exact retribution from the mountain of Esau for what they did to Israel. to judge Heb. לִשְׁפֹּט. joustiser in O.F. the mountain of Esau—Jonathan renders: the great city of Esau. and the Lord shall have the kingdom—This teaches you that His kingdom will not be complete until He exacts retribution from Amalek.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2930,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְעָל֤וּ",
+              "tr": "ve·'a·LV",
+              "root": "עלה",
+              "eng": "to go up",
+              "gem": 112
+            },
+            {
+              "heb": "מֽוֹשִׁעִים֙",
+              "tr": "mvo·shi·'i·YM",
+              "root": "ישע",
+              "eng": "to save",
+              "gem": 466
+            },
+            {
+              "heb": "בְּהַ֣ר",
+              "tr": "be·ha·R",
+              "root": "הר",
+              "eng": "hill",
+              "gem": 207
+            },
+            {
+              "heb": "צִיּ֔וֹן",
+              "tr": "tsi·yvo·N",
+              "root": "בת",
+              "eng": "n f",
+              "gem": 156
+            },
+            {
+              "heb": "לִשְׁפֹּ֖ט",
+              "tr": "li·she·po·T",
+              "root": "שפט",
+              "eng": "to judge",
+              "gem": 419
+            },
+            {
+              "heb": "אֶת־הַ֣ר",
+              "tr": "e·t-ha·R",
+              "root": "את",
+              "eng": "sign of the definite direct object·hill",
+              "gem": 606
+            },
+            {
+              "heb": "עֵשָׂ֑ו",
+              "tr": "e·sa·V",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 376
+            },
+            {
+              "heb": "וְהָיְתָ֥ה",
+              "tr": "ve·ha·ye·ta·H",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 426
+            },
+            {
+              "heb": "לַֽיהֹוָ֖ה",
+              "tr": "la·yho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 56
+            },
+            {
+              "heb": "הַמְּלוּכָֽה",
+              "tr": "ha·me·lvcha·H",
+              "root": "",
+              "eng": "kingship",
+              "gem": 106
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

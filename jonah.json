@@ -1,0 +1,4834 @@
+{
+  "book": "Jonah",
+  "he_name": "יוֹנָה",
+  "chapters": [
+    {
+      "chapter": 1,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Yonah 1:1",
+          "hebrew_full": "וַֽיְהִי֙ דְּבַר־יְהֹוָ֔ה אֶל־יוֹנָ֥ה בֶן־אֲמִתַּ֖י לֵאמֹֽר",
+          "translation": "The word of GOD came to Jonah son of Amittai:",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1139,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַֽיְהִי֙",
+              "tr": "va·ye·hi·Y",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 31
+            },
+            {
+              "heb": "דְּבַר־יְהֹוָ֔ה",
+              "tr": "de·va·r-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "to speak·Commonly transcribed YHWH",
+              "gem": 232
+            },
+            {
+              "heb": "אֶל־יוֹנָ֥ה",
+              "tr": "e·l-yvo·na·H",
+              "root": "יונה",
+              "eng": "ram·dove",
+              "gem": 102
+            },
+            {
+              "heb": "בֶן־אֲמִתַּ֖י",
+              "tr": "ve·n-'a·mi·ta·Y",
+              "root": "בין",
+              "eng": "between·maid-servant",
+              "gem": 503
+            },
+            {
+              "heb": "לֵאמֹֽר",
+              "tr": "le·'mo·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 271
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "ref": "Yonah 1:2",
+          "hebrew_full": "ק֠וּם לֵ֧ךְ אֶל־נִֽינְוֵ֛ה הָעִ֥יר הַגְּדוֹלָ֖ה וּקְרָ֣א עָלֶ֑יהָ כִּֽי־עָלְתָ֥ה רָעָתָ֖ם לְפָנָֽי",
+          "translation": "Go at once to Nineveh, that great city, and proclaim judgment upon it; for their wickedness has come before Me.",
+          "rashi": "and proclaim against—My proclamation.",
+          "ramban": "",
+          "ibn_ezra": "Nineveh - the royal seat of Assyria, which is a ruin today. And the sages of Israel in Greece say that it is the city called Ortei [Ortygia, Sicily?], but I do not know. Note that God did not command Jonah to say \"In forty days...\" only that \"their evil has come before Me.\" And those who explain that Jonah feared that he would be called a false prophet - by God forgiving them their evil - are incorrect, because God did not say this reason until the second time, where it says: 'the proclamation that I speak to you,\" - and that is when God says it will be forty days. Moreover, how could a prophet rebel against God's command out of his fear that the people of Nineveh would call him a false prophet? How would that harm him? Would he dwell among them? Further, the people of Nineveh weren't stupid. Why would God send a prophet to them for them to repent, and if they refused, the decree against them would be fulfilled - if they knew that this was so, that if they repent, God would forgive their evil - why would they then call Jonah a false prophet?! Our sages of blessed memory were correct when they said that Jonah was distressed, for Israel's sake, that the people of Nineveh would escape [their fate]. [...] The people of Nineveh had once been God-fearing, and had only begun to do evil in Jonah's time. And were it not that they used to be God-fearing, God would not have sent a prophet to them. We see that they did a complete, even unparalleled teshuvah, and we do not find any text that says they tore down their altars to Baal or their idols. And so we learn that they were not idolaters.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2523,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "ק֠וּם",
+              "tr": "KVM",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 146
+            },
+            {
+              "heb": "לֵ֧ךְ",
+              "tr": "le·CHE",
+              "root": "לך",
+              "eng": "unto thee",
+              "gem": 50
+            },
+            {
+              "heb": "אֶל־נִֽינְוֵ֛ה",
+              "tr": "e·l-ni·yne·ve·H",
+              "root": "איל",
+              "eng": "ram·Nineveh = \"abode of Ninus\"",
+              "gem": 152
+            },
+            {
+              "heb": "הָעִ֥יר",
+              "tr": "ha·'i·YR",
+              "root": "עיר",
+              "eng": "excitement",
+              "gem": 285
+            },
+            {
+              "heb": "הַגְּדוֹלָ֖ה",
+              "tr": "ha·ge·dvo·la·H",
+              "root": "גדול",
+              "eng": "adj",
+              "gem": 53
+            },
+            {
+              "heb": "וּקְרָ֣א",
+              "tr": "vke·RA",
+              "root": "קרא",
+              "eng": "to call",
+              "gem": 307
+            },
+            {
+              "heb": "עָלֶ֑יהָ",
+              "tr": "a·le·YHA",
+              "root": "על",
+              "eng": "on",
+              "gem": 115
+            },
+            {
+              "heb": "כִּֽי־עָלְתָ֥ה",
+              "tr": "ki·y-'a·le·ta·H",
+              "root": "עלה",
+              "eng": "burning·to go up",
+              "gem": 535
+            },
+            {
+              "heb": "רָעָתָ֖ם",
+              "tr": "ra·'a·ta·M",
+              "root": "רע",
+              "eng": "adj",
+              "gem": 710
+            },
+            {
+              "heb": "לְפָנָֽי",
+              "tr": "le·fa·na·Y",
+              "root": "פנים",
+              "eng": "face",
+              "gem": 170
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "ref": "Yonah 1:3",
+          "hebrew_full": "וַיָּ֤קׇם יוֹנָה֙ לִבְרֹ֣חַ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהֹוָ֑ה וַיֵּ֨רֶד יָפ֜וֹ וַיִּמְצָ֥א אֳנִיָּ֣ה בָּאָ֣ה תַרְשִׁ֗ישׁ וַיִּתֵּ֨ן שְׂכָרָ֜הּ וַיֵּ֤רֶד בָּהּ֙ לָב֤וֹא עִמָּהֶם֙ תַּרְשִׁ֔ישָׁה מִלִּפְנֵ֖י יְהֹוָֽה",
+          "translation": "Jonah, however, started out to flee to Tarshish from GOD’s service. He went down to Joppa and found a ship going to Tarshish. He paid the fare and went aboard to sail with the others to Tarshish, away from GOD’s service.",
+          "rashi": "to flee to Tarshish—I.e, to a sea named Tarshish, which is outside the Holy Land. He said, “I will flee to the sea, for the Shechinah does not rest outside the Holy Land.” Said the Holy One, blessed be He, to him, “By your life, I have messengers like you to send after you and fetch you from there.” This is illustrated by an allegory of a priest’s slave who fled from his master and entered a cemetery [making it impossible for his master to retrieve him]. His master said to him, “I have slaves like you to send after you and fetch you from there.” Now what did Jonah see that he did not wish to go to Nineveh? He said, “The gentiles are quick to repent. Should I prophesy to them and they repent, I will be found condemning Israel, who do not heed the words of the prophets.” [from Mechilta, Exodus 12:1] and he paid its hire—He paid its hire in advance; although it is not customary for those embarking upon the sea to pay the hire of the ship until they leave, he paid in advance. [Pirké d’Rabbi Eliezer, ch. 10; Tanhuma, Vayikra 8].",
+          "ramban": "",
+          "ibn_ezra": "He went and fled to Jaffa: The gaon said that Tarshish is Tarsus. But Rabbi Mevaser says that it is Tunis in Africa.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 6528,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיָּ֤קׇם",
+              "tr": "va·ya·KM",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 156
+            },
+            {
+              "heb": "יוֹנָה֙",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "לִבְרֹ֣חַ",
+              "tr": "li·ve·ro·CHA",
+              "root": "ברח",
+              "eng": "to go through",
+              "gem": 240
+            },
+            {
+              "heb": "תַּרְשִׁ֔ישָׁה",
+              "tr": "ta·re·shi·ysha·H",
+              "root": "",
+              "eng": "a precious stone or semi-precious gem",
+              "gem": 1215
+            },
+            {
+              "heb": "מִלִּפְנֵ֖י",
+              "tr": "mi·li·fe·ne·Y",
+              "root": "פנים",
+              "eng": "face",
+              "gem": 210
+            },
+            {
+              "heb": "יְהֹוָ֑ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "וַיֵּ֨רֶד",
+              "tr": "va·ye·re·D",
+              "root": "ירד",
+              "eng": "to go down",
+              "gem": 220
+            },
+            {
+              "heb": "יָפ֜וֹ",
+              "tr": "ya·FVO",
+              "root": "יפו",
+              "eng": "Joppa or Japho = \"beautiful\"",
+              "gem": 96
+            },
+            {
+              "heb": "וַיִּמְצָ֥א",
+              "tr": "va·yi·me·TSA",
+              "root": "מצא",
+              "eng": "to find",
+              "gem": 147
+            },
+            {
+              "heb": "אֳנִיָּ֣ה",
+              "tr": "o·ni·ya·H",
+              "root": "אניה",
+              "eng": "ship",
+              "gem": 66
+            },
+            {
+              "heb": "בָּאָ֣ה",
+              "tr": "ba·'a·H",
+              "root": "בוא",
+              "eng": "to go in",
+              "gem": 8
+            },
+            {
+              "heb": "תַרְשִׁ֗ישׁ",
+              "tr": "ta·re·shi·YSH",
+              "root": "",
+              "eng": "a precious stone or semi-precious gem",
+              "gem": 1210
+            },
+            {
+              "heb": "וַיִּתֵּ֨ן",
+              "tr": "va·yi·te·N",
+              "root": "נתן",
+              "eng": "to give",
+              "gem": 466
+            },
+            {
+              "heb": "שְׂכָרָ֜הּ",
+              "tr": "se·cha·ra·H",
+              "root": "שכר",
+              "eng": "hire",
+              "gem": 525
+            },
+            {
+              "heb": "וַיֵּ֤רֶד",
+              "tr": "va·ye·re·D",
+              "root": "ירד",
+              "eng": "to go down",
+              "gem": 220
+            },
+            {
+              "heb": "בָּהּ֙",
+              "tr": "ba·H",
+              "root": "בה",
+              "eng": "meaning ‘in her’",
+              "gem": 7
+            },
+            {
+              "heb": "לָב֤וֹא",
+              "tr": "la·VVO",
+              "root": "בוא",
+              "eng": "to go in",
+              "gem": 39
+            },
+            {
+              "heb": "עִמָּהֶם֙",
+              "tr": "i·ma·he·M",
+              "root": "עם",
+              "eng": "with",
+              "gem": 155
+            },
+            {
+              "heb": "תַּרְשִׁ֔ישָׁה",
+              "tr": "ta·re·shi·ysha·H",
+              "root": "",
+              "eng": "a precious stone or semi-precious gem",
+              "gem": 1215
+            },
+            {
+              "heb": "מִלִּפְנֵ֖י",
+              "tr": "mi·li·fe·ne·Y",
+              "root": "פנים",
+              "eng": "face",
+              "gem": 210
+            },
+            {
+              "heb": "יְהֹוָֽה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "ref": "Yonah 1:4",
+          "hebrew_full": "וַֽיהֹוָ֗ה הֵטִ֤יל רֽוּחַ־גְּדוֹלָה֙ אֶל־הַיָּ֔ם וַיְהִ֥י סַֽעַר־גָּד֖וֹל בַּיָּ֑ם וְהָ֣אֳנִיָּ֔ה חִשְּׁבָ֖ה לְהִשָּׁבֵֽר",
+          "translation": "But GOD cast a mighty wind upon the sea, and such a great tempest came upon the sea that the ship was in danger of breaking up.",
+          "rashi": "threatened to be broken—It appears as though it would be broken.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1819,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַֽיהֹוָ֗ה",
+              "tr": "va·yho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 32
+            },
+            {
+              "heb": "הֵטִ֤יל",
+              "tr": "he·ti·YL",
+              "root": "טול",
+              "eng": "to hurl",
+              "gem": 54
+            },
+            {
+              "heb": "רֽוּחַ־גְּדוֹלָה֙",
+              "tr": "rvcha-ge·dvo·la·H",
+              "root": "רוח",
+              "eng": "to smell",
+              "gem": 262
+            },
+            {
+              "heb": "אֶל־הַיָּ֔ם",
+              "tr": "e·l-ha·ya·M",
+              "root": "איל",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 86
+            },
+            {
+              "heb": "וַיְהִ֥י",
+              "tr": "va·ye·hi·Y",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 31
+            },
+            {
+              "heb": "סַֽעַר־גָּד֖וֹל",
+              "tr": "sa·'a·r-ga·dvo·L",
+              "root": "גדול",
+              "eng": "tempest·adj",
+              "gem": 373
+            },
+            {
+              "heb": "בַּיָּ֑ם",
+              "tr": "ba·ya·M",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 52
+            },
+            {
+              "heb": "וְהָ֣אֳנִיָּ֔ה",
+              "tr": "ve·ha·'o·ni·ya·H",
+              "root": "אניה",
+              "eng": "ship",
+              "gem": 77
+            },
+            {
+              "heb": "חִשְּׁבָ֖ה",
+              "tr": "chi·she·va·H",
+              "root": "חשב",
+              "eng": "to think",
+              "gem": 315
+            },
+            {
+              "heb": "לְהִשָּׁבֵֽר",
+              "tr": "le·hi·sha·ve·R",
+              "root": "שבר",
+              "eng": "to break",
+              "gem": 537
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "ref": "Yonah 1:5",
+          "hebrew_full": "וַיִּֽירְא֣וּ הַמַּלָּחִ֗ים וַֽיִּזְעֲקוּ֮ אִ֣ישׁ אֶל־אֱלֹהָיו֒ וַיָּטִ֨לוּ אֶת־הַכֵּלִ֜ים אֲשֶׁ֤ר בָּֽאֳנִיָּה֙ אֶל־הַיָּ֔ם לְהָקֵ֖ל מֵֽעֲלֵיהֶ֑ם וְיוֹנָ֗ה יָרַד֙ אֶל־יַרְכְּתֵ֣י הַסְּפִינָ֔ה וַיִּשְׁכַּ֖ב וַיֵּרָדַֽם",
+          "translation": "In their fright, the sailors cried out, each to his own god; and they flung the ship’s cargo overboard to make it lighter for them. Jonah, meanwhile, had gone down into the hold of the vessel where he lay down and fell asleep.",
+          "rashi": "And the sailors—The men who conducted the ship. each one... to his god—Of the seventy nations of the heathens were there.",
+          "ramban": "",
+          "ibn_ezra": "He lay down and slept - from seasickness, and perhaps this was his first time on a ship.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4311,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּֽירְא֣וּ",
+              "tr": "va·yi·yre·'V",
+              "root": "ירא",
+              "eng": "to fear",
+              "gem": 233
+            },
+            {
+              "heb": "הַמַּלָּחִ֗ים",
+              "tr": "ha·ma·la·chi·YM",
+              "root": "מלח",
+              "eng": "mariner",
+              "gem": 133
+            },
+            {
+              "heb": "וַֽיִּזְעֲקוּ֮",
+              "tr": "va·yi·ze·'a·KV",
+              "root": "זעק",
+              "eng": "to cry",
+              "gem": 199
+            },
+            {
+              "heb": "אִ֣ישׁ",
+              "tr": "i·YSH",
+              "root": "איש",
+              "eng": "man",
+              "gem": 311
+            },
+            {
+              "heb": "אֶל־אֱלֹהָיו֒",
+              "tr": "e·l-'e·lo·ha·YV",
+              "root": "איל",
+              "eng": "ram·(plural intensive-singular meaning)",
+              "gem": 83
+            },
+            {
+              "heb": "וַיָּטִ֨לוּ",
+              "tr": "va·ya·ti·LV",
+              "root": "טול",
+              "eng": "to hurl",
+              "gem": 61
+            },
+            {
+              "heb": "אֶת־הַכֵּלִ֜ים",
+              "tr": "e·t-ha·ke·li·YM",
+              "root": "כלי",
+              "eng": "sign of the definite direct object·article",
+              "gem": 506
+            },
+            {
+              "heb": "אֲשֶׁ֤ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "בָּֽאֳנִיָּה֙",
+              "tr": "ba·'o·ni·ya·H",
+              "root": "אניה",
+              "eng": "ship",
+              "gem": 68
+            },
+            {
+              "heb": "אֶל־הַיָּ֔ם",
+              "tr": "e·l-ha·ya·M",
+              "root": "איל",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 86
+            },
+            {
+              "heb": "לְהָקֵ֖ל",
+              "tr": "le·ha·ke·L",
+              "root": "קלל",
+              "eng": "to be slight",
+              "gem": 165
+            },
+            {
+              "heb": "מֵֽעֲלֵיהֶ֑ם",
+              "tr": "me·'a·le·yhe·M",
+              "root": "על",
+              "eng": "subst",
+              "gem": 195
+            },
+            {
+              "heb": "וְיוֹנָ֗ה",
+              "tr": "ve·yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 77
+            },
+            {
+              "heb": "יָרַד֙",
+              "tr": "ya·ra·D",
+              "root": "ירד",
+              "eng": "to go down",
+              "gem": 214
+            },
+            {
+              "heb": "אֶל־יַרְכְּתֵ֣י",
+              "tr": "e·l-ya·re·ke·te·Y",
+              "root": "ירכה",
+              "eng": "ram·flank",
+              "gem": 671
+            },
+            {
+              "heb": "הַסְּפִינָ֔ה",
+              "tr": "ha·se·fi·yna·H",
+              "root": "",
+              "eng": "ship",
+              "gem": 210
+            },
+            {
+              "heb": "וַיִּשְׁכַּ֖ב",
+              "tr": "va·yi·she·ka·V",
+              "root": "שכב",
+              "eng": "to lie down",
+              "gem": 338
+            },
+            {
+              "heb": "וַיֵּרָדַֽם",
+              "tr": "va·ye·ra·da·M",
+              "root": "רדם",
+              "eng": "to be asleep",
+              "gem": 260
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "ref": "Yonah 1:6",
+          "hebrew_full": "וַיִּקְרַ֤ב אֵלָיו֙ רַ֣ב הַחֹבֵ֔ל וַיֹּ֥אמֶר ל֖וֹ מַה־לְּךָ֣ נִרְדָּ֑ם ק֚וּם קְרָ֣א אֶל־אֱלֹהֶ֔יךָ אוּלַ֞י יִתְעַשֵּׁ֧ת הָאֱלֹהִ֛ים לָ֖נוּ וְלֹ֥א נֹאבֵֽד",
+          "translation": "The captain went over to him and cried out, “How can you be sleeping so soundly! Up, call upon your god! Perhaps the god will be kind to us and we will not perish.”",
+          "rashi": "The captain Heb. רַב הַחוֹבֵל, the captain of the sailors, for they, too, are called חוֹבְלֵי הַיָּם, the sailors of the sea; in O.F., gobernedors. “What is the matter with you, sleeper?”—What is the matter with you to be sound asleep? Now is no time to sleep. will think Heb. יִתְעַשֵּׁת, an expression of thought. Cf. (Ps. 146:4) “his thoughts (עֶשְׁתֹּנֹתָיו).” (Dan. 6:4) “And the king thought (עֲשִׁית).” [from Machberet Menachem p.139]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3336,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּקְרַ֤ב",
+              "tr": "va·yi·ke·ra·V",
+              "root": "קרב",
+              "eng": "to come near",
+              "gem": 318
+            },
+            {
+              "heb": "אֵלָיו֙",
+              "tr": "e·la·YV",
+              "root": "איל",
+              "eng": "ram",
+              "gem": 47
+            },
+            {
+              "heb": "רַ֣ב",
+              "tr": "ra·V",
+              "root": "רב",
+              "eng": "adj",
+              "gem": 202
+            },
+            {
+              "heb": "הַחֹבֵ֔ל",
+              "tr": "ha·cho·ve·L",
+              "root": "חבל",
+              "eng": "a cord",
+              "gem": 45
+            },
+            {
+              "heb": "וַיֹּ֥אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "ל֖וֹ",
+              "tr": "LVO",
+              "root": "לו",
+              "eng": "unto him; v. ל־.",
+              "gem": 36
+            },
+            {
+              "heb": "מַה־לְּךָ֣",
+              "tr": "ma·h-le·CHA",
+              "root": "הלך",
+              "eng": "to go",
+              "gem": 95
+            },
+            {
+              "heb": "נִרְדָּ֑ם",
+              "tr": "ni·re·da·M",
+              "root": "רדם",
+              "eng": "to be asleep",
+              "gem": 294
+            },
+            {
+              "heb": "ק֚וּם",
+              "tr": "KVM",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 146
+            },
+            {
+              "heb": "קְרָ֣א",
+              "tr": "ke·RA",
+              "root": "קרא",
+              "eng": "to call",
+              "gem": 301
+            },
+            {
+              "heb": "אֶל־אֱלֹהֶ֔יךָ",
+              "tr": "e·l-'e·lo·he·YCHA",
+              "root": "איל",
+              "eng": "ram·(plural intensive-singular meaning)",
+              "gem": 97
+            },
+            {
+              "heb": "אוּלַ֞י",
+              "tr": "vla·Y",
+              "root": "אולי",
+              "eng": "perhaps",
+              "gem": 47
+            },
+            {
+              "heb": "יִתְעַשֵּׁ֧ת",
+              "tr": "yi·te·'a·she·T",
+              "root": "עשת",
+              "eng": "to be smooth",
+              "gem": 1180
+            },
+            {
+              "heb": "הָאֱלֹהִ֛ים",
+              "tr": "ha·'e·lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 91
+            },
+            {
+              "heb": "לָ֖נוּ",
+              "tr": "la·NV",
+              "root": "לנו",
+              "eng": "inflected pers. pron. meaning ‘to us’.",
+              "gem": 86
+            },
+            {
+              "heb": "וְלֹ֥א",
+              "tr": "ve·LO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 37
+            },
+            {
+              "heb": "נֹאבֵֽד",
+              "tr": "no·'ve·D",
+              "root": "אבד",
+              "eng": "perish",
+              "gem": 57
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "ref": "Yonah 1:7",
+          "hebrew_full": "וַיֹּאמְר֞וּ אִ֣ישׁ אֶל־רֵעֵ֗הוּ לְכוּ֙ וְנַפִּ֣ילָה גֽוֹרָל֔וֹת וְנֵ֣דְעָ֔ה בְּשֶׁלְּמִ֛י הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ וַיַּפִּ֙לוּ֙ גּֽוֹרָל֔וֹת וַיִּפֹּ֥ל הַגּוֹרָ֖ל עַל־יוֹנָֽה",
+          "translation": "Those aboard said to one another, “Let us cast lots and find out on whose account this misfortune has come upon us.” They cast lots and the lot fell on Jonah.",
+          "rashi": "“Come, let’s cast lots”—They saw that the other ships were sailing in the sea calmly, and theirs was breaking. They said, “Because of one of us, this is taking place.” So we find in Pirké d’Rabbi Eliezer (ch. 10). because of whom Heb. בְּשֶׁלְמִי, because of the deeds of which one of us.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4382,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּאמְר֞וּ",
+              "tr": "va·yo·'me·RV",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 263
+            },
+            {
+              "heb": "אִ֣ישׁ",
+              "tr": "i·YSH",
+              "root": "איש",
+              "eng": "man",
+              "gem": 311
+            },
+            {
+              "heb": "אֶל־רֵעֵ֗הוּ",
+              "tr": "e·l-re·'e·HV",
+              "root": "איל",
+              "eng": "ram·shouting",
+              "gem": 312
+            },
+            {
+              "heb": "לְכוּ֙",
+              "tr": "le·CHV",
+              "root": "ילך",
+              "eng": "to go",
+              "gem": 56
+            },
+            {
+              "heb": "וְנַפִּ֣ילָה",
+              "tr": "ve·na·pi·yla·H",
+              "root": "נפל",
+              "eng": "to fall",
+              "gem": 181
+            },
+            {
+              "heb": "גֽוֹרָל֔וֹת",
+              "tr": "gvo·ra·lvo·T",
+              "root": "גורל",
+              "eng": "lot",
+              "gem": 645
+            },
+            {
+              "heb": "וְנֵ֣דְעָ֔ה",
+              "tr": "ve·ne·de·'a·H",
+              "root": "ידע",
+              "eng": "to know",
+              "gem": 135
+            },
+            {
+              "heb": "בְּשֶׁלְּמִ֛י",
+              "tr": "be·she·le·mi·Y",
+              "root": "מי",
+              "eng": "who?",
+              "gem": 382
+            },
+            {
+              "heb": "הָרָעָ֥ה",
+              "tr": "ha·ra·'a·H",
+              "root": "רע",
+              "eng": "adj",
+              "gem": 280
+            },
+            {
+              "heb": "הַזֹּ֖את",
+              "tr": "ha·zo·'T",
+              "root": "זאת",
+              "eng": "this",
+              "gem": 413
+            },
+            {
+              "heb": "לָ֑נוּ",
+              "tr": "la·NV",
+              "root": "לנו",
+              "eng": "inflected pers. pron. meaning ‘to us’.",
+              "gem": 86
+            },
+            {
+              "heb": "וַיַּפִּ֙לוּ֙",
+              "tr": "va·ya·pi·LV",
+              "root": "נפל",
+              "eng": "to fall",
+              "gem": 132
+            },
+            {
+              "heb": "גּֽוֹרָל֔וֹת",
+              "tr": "gvo·ra·lvo·T",
+              "root": "גורל",
+              "eng": "lot",
+              "gem": 645
+            },
+            {
+              "heb": "וַיִּפֹּ֥ל",
+              "tr": "va·yi·po·L",
+              "root": "נפל",
+              "eng": "to fall",
+              "gem": 126
+            },
+            {
+              "heb": "הַגּוֹרָ֖ל",
+              "tr": "ha·gvo·ra·L",
+              "root": "גורל",
+              "eng": "lot",
+              "gem": 244
+            },
+            {
+              "heb": "עַל־יוֹנָֽה",
+              "tr": "a·l-yvo·na·H",
+              "root": "יונה",
+              "eng": "subst·dove",
+              "gem": 171
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "ref": "Yonah 1:8",
+          "hebrew_full": "וַיֹּאמְר֣וּ אֵלָ֔יו הַגִּידָה־נָּ֣א לָ֔נוּ בַּאֲשֶׁ֛ר לְמִי־הָרָעָ֥ה הַזֹּ֖את לָ֑נוּ מַה־מְּלַאכְתְּךָ֙ וּמֵאַ֣יִן תָּב֔וֹא מָ֣ה אַרְצֶ֔ךָ וְאֵֽי־מִזֶּ֥ה עַ֖ם אָֽתָּה",
+          "translation": "They said to him, “Tell us, you who have brought this misfortune upon us, what is your business? Where have you come from? What is your country, and of what people are you?”",
+          "rashi": "“Tell us now, because of whom—Against whom have you sinned, that this evil should befall us because of it What is your work—Perhaps you were negligent in your work. and whence do you come? Perhaps a decree has been issued upon the people of that place even if you are not there. and from what people are you?”—Perhaps your people have sinned.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3849,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּאמְר֣וּ",
+              "tr": "va·yo·'me·RV",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 263
+            },
+            {
+              "heb": "אֵלָ֔יו",
+              "tr": "e·la·YV",
+              "root": "איל",
+              "eng": "ram",
+              "gem": 47
+            },
+            {
+              "heb": "הַגִּידָה־נָּ֣א",
+              "tr": "ha·gi·yda·H-NA",
+              "root": "נגד",
+              "eng": "to be conspicuous·I (we) pray",
+              "gem": 78
+            },
+            {
+              "heb": "לָ֔נוּ",
+              "tr": "la·NV",
+              "root": "לנו",
+              "eng": "inflected pers. pron. meaning ‘to us’.",
+              "gem": 86
+            },
+            {
+              "heb": "בַּאֲשֶׁ֛ר",
+              "tr": "ba·'a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 503
+            },
+            {
+              "heb": "לְמִי־הָרָעָ֥ה",
+              "tr": "le·mi·y-ha·ra·'a·H",
+              "root": "מי",
+              "eng": "who?·adj",
+              "gem": 360
+            },
+            {
+              "heb": "הַזֹּ֖את",
+              "tr": "ha·zo·'T",
+              "root": "זאת",
+              "eng": "this",
+              "gem": 413
+            },
+            {
+              "heb": "לָ֑נוּ",
+              "tr": "la·NV",
+              "root": "לנו",
+              "eng": "inflected pers. pron. meaning ‘to us’.",
+              "gem": 86
+            },
+            {
+              "heb": "מַה־מְּלַאכְתְּךָ֙",
+              "tr": "ma·h-me·la·'che·te·CHA",
+              "root": "מה",
+              "eng": "interr pron·occupation",
+              "gem": 556
+            },
+            {
+              "heb": "וּמֵאַ֣יִן",
+              "tr": "vme·'a·yi·N",
+              "root": "אין",
+              "eng": "nothing",
+              "gem": 107
+            },
+            {
+              "heb": "תָּב֔וֹא",
+              "tr": "ta·VVO",
+              "root": "בוא",
+              "eng": "to go in",
+              "gem": 409
+            },
+            {
+              "heb": "מָ֣ה",
+              "tr": "ma·H",
+              "root": "מה",
+              "eng": "interr pron",
+              "gem": 45
+            },
+            {
+              "heb": "אַרְצֶ֔ךָ",
+              "tr": "a·re·tse·CHA",
+              "root": "ארץ",
+              "eng": "land",
+              "gem": 311
+            },
+            {
+              "heb": "וְאֵֽי־מִזֶּ֥ה",
+              "tr": "ve·'e·y-mi·ze·H",
+              "root": "מזה",
+              "eng": "where?·Mizzah = \"fear\"",
+              "gem": 69
+            },
+            {
+              "heb": "עַ֖ם",
+              "tr": "a·M",
+              "root": "עם",
+              "eng": "nation",
+              "gem": 110
+            },
+            {
+              "heb": "אָֽתָּה",
+              "tr": "a·ta·H",
+              "root": "אתה",
+              "eng": "you (second pers. sing. masc.)",
+              "gem": 406
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "ref": "Yonah 1:9",
+          "hebrew_full": "וַיֹּ֥אמֶר אֲלֵיהֶ֖ם עִבְרִ֣י אָנֹ֑כִי וְאֶת־יְהֹוָ֞ה אֱלֹהֵ֤י הַשָּׁמַ֙יִם֙ אֲנִ֣י יָרֵ֔א אֲשֶׁר־עָשָׂ֥ה אֶת־הַיָּ֖ם וְאֶת־הַיַּבָּשָֽׁה",
+          "translation": "“I am a Hebrew,” he replied. “I worship the ETERNAL, the God of Heaven, who made both sea and land.”",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3913,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּ֥אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "אֲלֵיהֶ֖ם",
+              "tr": "a·le·yhe·M",
+              "root": "אל",
+              "eng": "god",
+              "gem": 86
+            },
+            {
+              "heb": "עִבְרִ֣י",
+              "tr": "i·ve·ri·Y",
+              "root": "עבר",
+              "eng": "to pass over or by or through",
+              "gem": 282
+            },
+            {
+              "heb": "אָנֹ֑כִי",
+              "tr": "a·no·chi·Y",
+              "root": "אנכי",
+              "eng": "I (first pers. sing.)",
+              "gem": 81
+            },
+            {
+              "heb": "וְאֶת־יְהֹוָ֞ה",
+              "tr": "ve·'e·t-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "sign of the definite direct object·Commonly transcribed YHWH",
+              "gem": 433
+            },
+            {
+              "heb": "אֱלֹהֵ֤י",
+              "tr": "e·lo·he·Y",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 46
+            },
+            {
+              "heb": "הַשָּׁמַ֙יִם֙",
+              "tr": "ha·sha·ma·yi·M",
+              "root": "שמים",
+              "eng": "heaven",
+              "gem": 395
+            },
+            {
+              "heb": "אֲנִ֣י",
+              "tr": "a·ni·Y",
+              "root": "אני",
+              "eng": "I (first pers. sing. -usually used for emphasis)",
+              "gem": 61
+            },
+            {
+              "heb": "יָרֵ֔א",
+              "tr": "ya·RE",
+              "root": "ירא",
+              "eng": "to fear",
+              "gem": 211
+            },
+            {
+              "heb": "אֲשֶׁר־עָשָׂ֥ה",
+              "tr": "a·she·r-'a·sa·H",
+              "root": "אשר",
+              "eng": "(relative part.)·to do",
+              "gem": 876
+            },
+            {
+              "heb": "אֶת־הַיָּ֖ם",
+              "tr": "e·t-ha·ya·M",
+              "root": "את",
+              "eng": "sign of the definite direct object·sea",
+              "gem": 456
+            },
+            {
+              "heb": "וְאֶת־הַיַּבָּשָֽׁה",
+              "tr": "ve·'e·t-ha·ya·ba·sha·H",
+              "root": "יבשה",
+              "eng": "sign of the definite direct object·dry land",
+              "gem": 729
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "ref": "Yonah 1:10",
+          "hebrew_full": "וַיִּֽירְא֤וּ הָֽאֲנָשִׁים֙ יִרְאָ֣ה גְדוֹלָ֔ה וַיֹּאמְר֥וּ אֵלָ֖יו מַה־זֹּ֣את עָשִׂ֑יתָ כִּֽי־יָדְע֣וּ הָאֲנָשִׁ֗ים כִּֽי־מִלִּפְנֵ֤י יְהֹוָה֙ ה֣וּא בֹרֵ֔חַ כִּ֥י הִגִּ֖יד לָהֶֽם",
+          "translation": "The men were greatly terrified, and they asked him, “What have you done?” And when the men learned that he was fleeing from GOD’s service—for so he told them—",
+          "rashi": "“What is this that you have done?”—Why have you done this, to flee from before such a Ruler?",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3587,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּֽירְא֤וּ",
+              "tr": "va·yi·yre·'V",
+              "root": "ירא",
+              "eng": "to fear",
+              "gem": 233
+            },
+            {
+              "heb": "הָֽאֲנָשִׁים֙",
+              "tr": "ha·'a·na·shi·YM",
+              "root": "איש",
+              "eng": "man",
+              "gem": 406
+            },
+            {
+              "heb": "יִרְאָ֣ה",
+              "tr": "yi·re·'a·H",
+              "root": "ירא",
+              "eng": "to fear",
+              "gem": 216
+            },
+            {
+              "heb": "גְדוֹלָ֔ה",
+              "tr": "ge·dvo·la·H",
+              "root": "",
+              "eng": "",
+              "gem": 48
+            },
+            {
+              "heb": "וַיֹּאמְר֥וּ",
+              "tr": "va·yo·'me·RV",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 263
+            },
+            {
+              "heb": "אֵלָ֖יו",
+              "tr": "e·la·YV",
+              "root": "איל",
+              "eng": "ram",
+              "gem": 47
+            },
+            {
+              "heb": "מַה־זֹּ֣את",
+              "tr": "ma·h-zo·'T",
+              "root": "זאת",
+              "eng": "this",
+              "gem": 453
+            },
+            {
+              "heb": "עָשִׂ֑יתָ",
+              "tr": "a·si·YTA",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 780
+            },
+            {
+              "heb": "כִּֽי־יָדְע֣וּ",
+              "tr": "ki·y-ya·de·'V",
+              "root": "ידע",
+              "eng": "burning·to know",
+              "gem": 120
+            },
+            {
+              "heb": "הָאֲנָשִׁ֗ים",
+              "tr": "ha·'a·na·shi·YM",
+              "root": "איש",
+              "eng": "man",
+              "gem": 406
+            },
+            {
+              "heb": "כִּֽי־מִלִּפְנֵ֤י",
+              "tr": "ki·y-mi·li·fe·ne·Y",
+              "root": "פנים",
+              "eng": "burning·face",
+              "gem": 240
+            },
+            {
+              "heb": "יְהֹוָה֙",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "ה֣וּא",
+              "tr": "HV",
+              "root": "אנתה",
+              "eng": "you",
+              "gem": 12
+            },
+            {
+              "heb": "בֹרֵ֔חַ",
+              "tr": "vo·re·CHA",
+              "root": "ברח",
+              "eng": "to go through",
+              "gem": 210
+            },
+            {
+              "heb": "כִּ֥י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "הִגִּ֖יד",
+              "tr": "hi·gi·YD",
+              "root": "נגד",
+              "eng": "to be conspicuous",
+              "gem": 22
+            },
+            {
+              "heb": "לָהֶֽם",
+              "tr": "la·he·M",
+              "root": "הם",
+              "eng": "abundance",
+              "gem": 75
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "ref": "Yonah 1:11",
+          "hebrew_full": "וַיֹּאמְר֤וּ אֵלָיו֙ מַה־נַּ֣עֲשֶׂה לָּ֔ךְ וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעָלֵ֑ינוּ כִּ֥י הַיָּ֖ם הוֹלֵ֥ךְ וְסֹעֵֽר",
+          "translation": "they said to him, “What must we do to you to make the sea calm around us?” For the sea was growing more and more stormy.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2389,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּאמְר֤וּ",
+              "tr": "va·yo·'me·RV",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 263
+            },
+            {
+              "heb": "אֵלָיו֙",
+              "tr": "e·la·YV",
+              "root": "איל",
+              "eng": "ram",
+              "gem": 47
+            },
+            {
+              "heb": "מַה־נַּ֣עֲשֶׂה",
+              "tr": "ma·h-na·'a·se·H",
+              "root": "עשה",
+              "eng": "interr pron·to do",
+              "gem": 470
+            },
+            {
+              "heb": "לָּ֔ךְ",
+              "tr": "la·CHE",
+              "root": "לך",
+              "eng": "unto thee",
+              "gem": 50
+            },
+            {
+              "heb": "וְיִשְׁתֹּ֥ק",
+              "tr": "ve·yi·she·to·K",
+              "root": "שתק",
+              "eng": "to be quiet",
+              "gem": 816
+            },
+            {
+              "heb": "הַיָּ֖ם",
+              "tr": "ha·ya·M",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 55
+            },
+            {
+              "heb": "מֵֽעָלֵ֑ינוּ",
+              "tr": "me·'a·le·YNV",
+              "root": "על",
+              "eng": "subst",
+              "gem": 206
+            },
+            {
+              "heb": "כִּ֥י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "הַיָּ֖ם",
+              "tr": "ha·ya·M",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 55
+            },
+            {
+              "heb": "הוֹלֵ֥ךְ",
+              "tr": "hvo·le·CHE",
+              "root": "הלך",
+              "eng": "to go",
+              "gem": 61
+            },
+            {
+              "heb": "וְסֹעֵֽר",
+              "tr": "ve·so·'e·R",
+              "root": "סער",
+              "eng": "tempest",
+              "gem": 336
+            }
+          ]
+        },
+        {
+          "verse": 12,
+          "ref": "Yonah 1:12",
+          "hebrew_full": "וַיֹּ֣אמֶר אֲלֵיהֶ֗ם שָׂא֙וּנִי֙ וַהֲטִילֻ֣נִי אֶל־הַיָּ֔ם וְיִשְׁתֹּ֥ק הַיָּ֖ם מֵֽעֲלֵיכֶ֑ם כִּ֚י יוֹדֵ֣עַ אָ֔נִי כִּ֣י בְשֶׁלִּ֔י הַסַּ֧עַר הַגָּד֛וֹל הַזֶּ֖ה עֲלֵיכֶֽם",
+          "translation": "He answered, “Heave me overboard, and the sea will calm down for you; for I know that this terrible storm came upon you on my account.”",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3120,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּ֣אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "אֲלֵיהֶ֗ם",
+              "tr": "a·le·yhe·M",
+              "root": "אל",
+              "eng": "god",
+              "gem": 86
+            },
+            {
+              "heb": "שָׂא֙וּנִי֙",
+              "tr": "sa·'vni·Y",
+              "root": "נשא",
+              "eng": "to lift",
+              "gem": 367
+            },
+            {
+              "heb": "וַהֲטִילֻ֣נִי",
+              "tr": "va·ha·ti·ylu·ni·Y",
+              "root": "טול",
+              "eng": "to hurl",
+              "gem": 120
+            },
+            {
+              "heb": "אֶל־הַיָּ֔ם",
+              "tr": "e·l-ha·ya·M",
+              "root": "איל",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 86
+            },
+            {
+              "heb": "וְיִשְׁתֹּ֥ק",
+              "tr": "ve·yi·she·to·K",
+              "root": "שתק",
+              "eng": "to be quiet",
+              "gem": 816
+            },
+            {
+              "heb": "הַיָּ֖ם",
+              "tr": "ha·ya·M",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 55
+            },
+            {
+              "heb": "מֵֽעֲלֵיכֶ֑ם",
+              "tr": "me·'a·le·yche·M",
+              "root": "על",
+              "eng": "subst",
+              "gem": 210
+            },
+            {
+              "heb": "כִּ֚י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "יוֹדֵ֣עַ",
+              "tr": "yvo·de·'A",
+              "root": "ידע",
+              "eng": "to know",
+              "gem": 90
+            },
+            {
+              "heb": "אָ֔נִי",
+              "tr": "a·ni·Y",
+              "root": "אני",
+              "eng": "I (first pers. sing. -usually used for emphasis)",
+              "gem": 61
+            },
+            {
+              "heb": "כִּ֣י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "בְשֶׁלִּ֔י",
+              "tr": "ve·she·li·Y",
+              "root": "של",
+              "eng": "who",
+              "gem": 342
+            },
+            {
+              "heb": "הַסַּ֧עַר",
+              "tr": "ha·sa·'a·R",
+              "root": "סער",
+              "eng": "tempest",
+              "gem": 335
+            },
+            {
+              "heb": "הַגָּד֛וֹל",
+              "tr": "ha·ga·dvo·L",
+              "root": "גדול",
+              "eng": "adj",
+              "gem": 48
+            },
+            {
+              "heb": "הַזֶּ֖ה",
+              "tr": "ha·ze·H",
+              "root": "זה",
+              "eng": "(f. <a dir=\"rtl\" class=\"refLink\" href=\"/Klein Dictionary",
+              "gem": 17
+            },
+            {
+              "heb": "עֲלֵיכֶֽם",
+              "tr": "a·le·yche·M",
+              "root": "על",
+              "eng": "subst",
+              "gem": 170
+            }
+          ]
+        },
+        {
+          "verse": 13,
+          "ref": "Yonah 1:13",
+          "hebrew_full": "וַיַּחְתְּר֣וּ הָאֲנָשִׁ֗ים לְהָשִׁ֛יב אֶל־הַיַּבָּשָׁ֖ה וְלֹ֣א יָכֹ֑לוּ כִּ֣י הַיָּ֔ם הוֹלֵ֥ךְ וְסֹעֵ֖ר עֲלֵיהֶֽם",
+          "translation": "Nevertheless, the men rowed hard to regain the shore, but they could not, for the sea was growing more and more stormy about them.",
+          "rashi": "And the men rowed vigorously Heb. וַיַחְתְּרוּ, they toiled and busied themselves like one who digs a tunnel.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2476,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיַּחְתְּר֣וּ",
+              "tr": "va·ya·che·te·RV",
+              "root": "חתר",
+              "eng": "to dig",
+              "gem": 630
+            },
+            {
+              "heb": "הָאֲנָשִׁ֗ים",
+              "tr": "ha·'a·na·shi·YM",
+              "root": "איש",
+              "eng": "man",
+              "gem": 406
+            },
+            {
+              "heb": "לְהָשִׁ֛יב",
+              "tr": "le·ha·shi·YV",
+              "root": "שוב",
+              "eng": "to return",
+              "gem": 347
+            },
+            {
+              "heb": "אֶל־הַיַּבָּשָׁ֖ה",
+              "tr": "e·l-ha·ya·ba·sha·H",
+              "root": "יבשה",
+              "eng": "ram·dry land",
+              "gem": 353
+            },
+            {
+              "heb": "וְלֹ֣א",
+              "tr": "ve·LO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 37
+            },
+            {
+              "heb": "יָכֹ֑לוּ",
+              "tr": "ya·cho·LV",
+              "root": "יכל",
+              "eng": "to prevail",
+              "gem": 66
+            },
+            {
+              "heb": "כִּ֣י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "הַיָּ֔ם",
+              "tr": "ha·ya·M",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 55
+            },
+            {
+              "heb": "הוֹלֵ֥ךְ",
+              "tr": "hvo·le·CHE",
+              "root": "הלך",
+              "eng": "to go",
+              "gem": 61
+            },
+            {
+              "heb": "וְסֹעֵ֖ר",
+              "tr": "ve·so·'e·R",
+              "root": "סער",
+              "eng": "tempest",
+              "gem": 336
+            },
+            {
+              "heb": "עֲלֵיהֶֽם",
+              "tr": "a·le·yhe·M",
+              "root": "על",
+              "eng": "subst",
+              "gem": 155
+            }
+          ]
+        },
+        {
+          "verse": 14,
+          "ref": "Yonah 1:14",
+          "hebrew_full": "וַיִּקְרְא֨וּ אֶל־יְהֹוָ֜ה וַיֹּאמְר֗וּ אָנָּ֤ה יְהֹוָה֙ אַל־נָ֣א נֹאבְדָ֗ה בְּנֶ֙פֶשׁ֙ הָאִ֣ישׁ הַזֶּ֔ה וְאַל־תִּתֵּ֥ן עָלֵ֖ינוּ דָּ֣ם נָקִ֑יא כִּֽי־אַתָּ֣ה יְהֹוָ֔ה כַּאֲשֶׁ֥ר חָפַ֖צְתָּ עָשִֽׂיתָ",
+          "translation": "Then they cried out to GOD: “Oh, please, ETERNAL One, do not let us perish on account of this man’s life. Do not hold us guilty of killing an innocent person! For You, O ETERNAL One, by Your will, have brought this about.”",
+          "rashi": "for the life of this man—I.e, for the sin of laying a hand upon his life.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 5233,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּקְרְא֨וּ",
+              "tr": "va·yi·ke·re·'V",
+              "root": "קרא",
+              "eng": "to call",
+              "gem": 323
+            },
+            {
+              "heb": "אֶל־יְהֹוָ֜ה",
+              "tr": "e·l-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "ram·Commonly transcribed YHWH",
+              "gem": 57
+            },
+            {
+              "heb": "וַיֹּאמְר֗וּ",
+              "tr": "va·yo·'me·RV",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 263
+            },
+            {
+              "heb": "אָנָּ֤ה",
+              "tr": "a·na·H",
+              "root": "אן",
+              "eng": "where?",
+              "gem": 56
+            },
+            {
+              "heb": "יְהֹוָה֙",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "אַל־נָ֣א",
+              "tr": "a·L-NA",
+              "root": "איל",
+              "eng": "ram·I (we) pray",
+              "gem": 82
+            },
+            {
+              "heb": "נֹאבְדָ֗ה",
+              "tr": "no·'ve·da·H",
+              "root": "אבד",
+              "eng": "perish",
+              "gem": 62
+            },
+            {
+              "heb": "בְּנֶ֙פֶשׁ֙",
+              "tr": "be·ne·fe·SH",
+              "root": "נפש",
+              "eng": "soul",
+              "gem": 432
+            },
+            {
+              "heb": "הָאִ֣ישׁ",
+              "tr": "ha·'i·YSH",
+              "root": "איש",
+              "eng": "man",
+              "gem": 316
+            },
+            {
+              "heb": "הַזֶּ֔ה",
+              "tr": "ha·ze·H",
+              "root": "זה",
+              "eng": "(f. <a dir=\"rtl\" class=\"refLink\" href=\"/Klein Dictionary",
+              "gem": 17
+            },
+            {
+              "heb": "וְאַל־תִּתֵּ֥ן",
+              "tr": "ve·'a·l-ti·te·N",
+              "root": "נתן",
+              "eng": "god·to give",
+              "gem": 887
+            },
+            {
+              "heb": "עָלֵ֖ינוּ",
+              "tr": "a·le·YNV",
+              "root": "על",
+              "eng": "subst",
+              "gem": 166
+            },
+            {
+              "heb": "דָּ֣ם",
+              "tr": "da·M",
+              "root": "דם",
+              "eng": "blood",
+              "gem": 44
+            },
+            {
+              "heb": "נָקִ֑יא",
+              "tr": "na·ki·Y",
+              "root": "נקי",
+              "eng": "clean",
+              "gem": 161
+            },
+            {
+              "heb": "כִּֽי־אַתָּ֣ה",
+              "tr": "ki·y-'a·ta·H",
+              "root": "אתה",
+              "eng": "burning·you (second pers. sing. masc.)",
+              "gem": 436
+            },
+            {
+              "heb": "יְהֹוָ֔ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "כַּאֲשֶׁ֥ר",
+              "tr": "ka·'a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 521
+            },
+            {
+              "heb": "חָפַ֖צְתָּ",
+              "tr": "cha·fa·tse·TA",
+              "root": "חפץ",
+              "eng": "to delight in",
+              "gem": 578
+            },
+            {
+              "heb": "עָשִֽׂיתָ",
+              "tr": "a·si·YTA",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 780
+            }
+          ]
+        },
+        {
+          "verse": 15,
+          "ref": "Yonah 1:15",
+          "hebrew_full": "וַיִּשְׂאוּ֙ אֶת־יוֹנָ֔ה וַיְטִלֻ֖הוּ אֶל־הַיָּ֑ם וַיַּעֲמֹ֥ד הַיָּ֖ם מִזַּעְפּֽוֹ",
+          "translation": "And they heaved Jonah overboard, and the sea stopped raging.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1335,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּשְׂאוּ֙",
+              "tr": "va·yi·se·'V",
+              "root": "נשא",
+              "eng": "to lift",
+              "gem": 323
+            },
+            {
+              "heb": "אֶת־יוֹנָ֔ה",
+              "tr": "e·t-yvo·na·H",
+              "root": "יונה",
+              "eng": "sign of the definite direct object·dove",
+              "gem": 472
+            },
+            {
+              "heb": "וַיְטִלֻ֖הוּ",
+              "tr": "va·ye·ti·lu·HV",
+              "root": "טול",
+              "eng": "to hurl",
+              "gem": 66
+            },
+            {
+              "heb": "אֶל־הַיָּ֑ם",
+              "tr": "e·l-ha·ya·M",
+              "root": "איל",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 86
+            },
+            {
+              "heb": "וַיַּעֲמֹ֥ד",
+              "tr": "va·ya·'a·mo·D",
+              "root": "עמד",
+              "eng": "to stand",
+              "gem": 130
+            },
+            {
+              "heb": "הַיָּ֖ם",
+              "tr": "ha·ya·M",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 55
+            },
+            {
+              "heb": "מִזַּעְפּֽוֹ",
+              "tr": "mi·za·'e·PVO",
+              "root": "זעף",
+              "eng": "rage",
+              "gem": 203
+            }
+          ]
+        },
+        {
+          "verse": 16,
+          "ref": "Yonah 1:16",
+          "hebrew_full": "וַיִּֽירְא֧וּ הָאֲנָשִׁ֛ים יִרְאָ֥ה גְדוֹלָ֖ה אֶת־יְהֹוָ֑ה וַיִּֽזְבְּחוּ־זֶ֙בַח֙ לַֽיהֹוָ֔ה וַֽיִּדְּר֖וּ נְדָרִֽים",
+          "translation": "The men feared GOD greatly; they offered a sacrifice to GOD and they made vows.",
+          "rashi": "and they made vows—that they would proselytize.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1972,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּֽירְא֧וּ",
+              "tr": "va·yi·yre·'V",
+              "root": "ירא",
+              "eng": "to fear",
+              "gem": 233
+            },
+            {
+              "heb": "הָאֲנָשִׁ֛ים",
+              "tr": "ha·'a·na·shi·YM",
+              "root": "איש",
+              "eng": "man",
+              "gem": 406
+            },
+            {
+              "heb": "יִרְאָ֥ה",
+              "tr": "yi·re·'a·H",
+              "root": "ירא",
+              "eng": "to fear",
+              "gem": 216
+            },
+            {
+              "heb": "גְדוֹלָ֖ה",
+              "tr": "ge·dvo·la·H",
+              "root": "",
+              "eng": "",
+              "gem": 48
+            },
+            {
+              "heb": "אֶת־יְהֹוָ֑ה",
+              "tr": "e·t-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "sign of the definite direct object·Commonly transcribed YHWH",
+              "gem": 427
+            },
+            {
+              "heb": "וַיִּֽזְבְּחוּ־זֶ֙בַח֙",
+              "tr": "va·yi·ze·be·chv-ze·va·CH",
+              "root": "זבח",
+              "eng": "to slaughter·sacrifice",
+              "gem": 56
+            },
+            {
+              "heb": "לַֽיהֹוָ֔ה",
+              "tr": "la·yho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 56
+            },
+            {
+              "heb": "וַֽיִּדְּר֖וּ",
+              "tr": "va·yi·de·RV",
+              "root": "נדר",
+              "eng": "to vow",
+              "gem": 226
+            },
+            {
+              "heb": "נְדָרִֽים",
+              "tr": "ne·da·ri·YM",
+              "root": "נדר",
+              "eng": "vow",
+              "gem": 304
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 2,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Yonah 2:1",
+          "hebrew_full": "וַיְמַ֤ן יְהֹוָה֙ דָּ֣ג גָּד֔וֹל לִבְלֹ֖עַ אֶת־יוֹנָ֑ה וַיְהִ֤י יוֹנָה֙ בִּמְעֵ֣י הַדָּ֔ג שְׁלֹשָׁ֥ה יָמִ֖ים וּשְׁלֹשָׁ֥ה לֵילֽוֹת",
+          "translation": "GOD provided a huge fish to swallow Jonah; and Jonah remained in the fish’s belly three days and three nights.",
+          "rashi": "a huge fish—It was a male, and he stood there with room, so that he did not think to pray. The Holy One, blessed he He, hinted to the fish, and it spewed him out into the mouth of a female, which was full of embryos, and it was crowded there, and he prayed there, as it is said: (verse 2) “from the belly of the fish (הַדָּגָה).” [from Pirké d’Rabbi Eliezer ch. 10, according to Yalkut Shimoni ; Midrash Yonah, second version, Otzar Medrashim p.219] [And the Lord appointed—Those sixteen days that Israel was missing the manna, since they did not eat it for a complete forty years - God took this manna and sustained the fish so that Jonah would not be digested in its intestines, and Jonah, too, ate within it from this manna. Therefore, it is stated וַיְמַן, the letters מָן י\"ו sixteen [days of] manna. Similarly, וַיְמַן קיקָיוֹן, and He appointed a kikayon, for he ate four omers; therefore, it says four times וַיְמַן (4:6 ff.). And in Greek, manna is called “kika.” For that reason, it is stated: קִיק יָוָן ; i.e, manna in Greek. -[Sod Mesharim]",
+          "ramban": "",
+          "ibn_ezra": "and Jonah remained: no one can survive in the belly of a fish even for an hour, so if this is the duration, it must have been a miracle.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2874,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיְמַ֤ן",
+              "tr": "va·ye·ma·N",
+              "root": "מנה",
+              "eng": "to count",
+              "gem": 106
+            },
+            {
+              "heb": "יְהֹוָה֙",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "דָּ֣ג",
+              "tr": "da·G",
+              "root": "דג",
+              "eng": "fish",
+              "gem": 7
+            },
+            {
+              "heb": "גָּד֔וֹל",
+              "tr": "ga·dvo·L",
+              "root": "גדול",
+              "eng": "adj",
+              "gem": 43
+            },
+            {
+              "heb": "לִבְלֹ֖עַ",
+              "tr": "li·ve·lo·'A",
+              "root": "בלע",
+              "eng": "a swallowing",
+              "gem": 132
+            },
+            {
+              "heb": "אֶת־יוֹנָ֑ה",
+              "tr": "e·t-yvo·na·H",
+              "root": "יונה",
+              "eng": "sign of the definite direct object·dove",
+              "gem": 472
+            },
+            {
+              "heb": "וַיְהִ֤י",
+              "tr": "va·ye·hi·Y",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 31
+            },
+            {
+              "heb": "יוֹנָה֙",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "בִּמְעֵ֣י",
+              "tr": "bi·me·'e·Y",
+              "root": "מעה",
+              "eng": "internal organs",
+              "gem": 122
+            },
+            {
+              "heb": "הַדָּ֔ג",
+              "tr": "ha·da·G",
+              "root": "דג",
+              "eng": "fish",
+              "gem": 12
+            },
+            {
+              "heb": "שְׁלֹשָׁ֥ה",
+              "tr": "she·lo·sha·H",
+              "root": "שלוש",
+              "eng": "three",
+              "gem": 635
+            },
+            {
+              "heb": "יָמִ֖ים",
+              "tr": "ya·mi·YM",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 100
+            },
+            {
+              "heb": "וּשְׁלֹשָׁ֥ה",
+              "tr": "vshe·lo·sha·H",
+              "root": "שלוש",
+              "eng": "three",
+              "gem": 641
+            },
+            {
+              "heb": "לֵילֽוֹת",
+              "tr": "le·ylvo·T",
+              "root": "ליל",
+              "eng": "night",
+              "gem": 476
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "ref": "Yonah 2:2",
+          "hebrew_full": "וַיִּתְפַּלֵּ֣ל יוֹנָ֔ה אֶל־יְהֹוָ֖ה אֱלֹהָ֑יו מִמְּעֵ֖י הַדָּגָֽה",
+          "translation": "Jonah prayed to the ETERNAL his God from the belly of the fish.",
+          "rashi": "[the Lord his God—He combined the Divine standard of justice with the Divine standard of mercy, the merit of Abraham and Isaac. from the belly of the fish—This is Jacob. [Sod Mesharim]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 913,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּתְפַּלֵּ֣ל",
+              "tr": "va·yi·te·pa·le·L",
+              "root": "פלל",
+              "eng": "to intervene",
+              "gem": 556
+            },
+            {
+              "heb": "יוֹנָ֔ה",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "אֶל־יְהֹוָ֖ה",
+              "tr": "e·l-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "ram·Commonly transcribed YHWH",
+              "gem": 57
+            },
+            {
+              "heb": "אֱלֹהָ֑יו",
+              "tr": "e·lo·ha·YV",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 52
+            },
+            {
+              "heb": "מִמְּעֵ֖י",
+              "tr": "mi·me·'e·Y",
+              "root": "מעה",
+              "eng": "internal organs",
+              "gem": 160
+            },
+            {
+              "heb": "הַדָּגָֽה",
+              "tr": "ha·da·ga·H",
+              "root": "דגה",
+              "eng": "fish",
+              "gem": 17
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "ref": "Yonah 2:3",
+          "hebrew_full": "וַיֹּ֗אמֶר קָ֠רָ֠אתִי מִצָּ֥רָה לִ֛י אֶל־יְהֹוָ֖ה וַֽיַּעֲנֵ֑נִי מִבֶּ֧טֶן שְׁא֛וֹל שִׁוַּ֖עְתִּי שָׁמַ֥עְתָּ קוֹלִֽי",
+          "translation": "He said:In my trouble I called to GOD,Who answered me;From the belly of Sheol I cried out,And You heard my voice.",
+          "rashi": "from the belly of the grave—From the belly of the fish, which is to me as the grave.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3776,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּ֗אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "קָ֠רָ֠אתִי",
+              "tr": "ka·ra·'ti·Y",
+              "root": "קרא",
+              "eng": "to call",
+              "gem": 711
+            },
+            {
+              "heb": "מִצָּ֥רָה",
+              "tr": "mi·tsa·ra·H",
+              "root": "צרר",
+              "eng": "to bind",
+              "gem": 335
+            },
+            {
+              "heb": "לִ֛י",
+              "tr": "li·Y",
+              "root": "לי",
+              "eng": "inflected pers. pron. meaning ‘to me’.",
+              "gem": 40
+            },
+            {
+              "heb": "אֶל־יְהֹוָ֖ה",
+              "tr": "e·l-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "ram·Commonly transcribed YHWH",
+              "gem": 57
+            },
+            {
+              "heb": "וַֽיַּעֲנֵ֑נִי",
+              "tr": "va·ya·'a·ne·ni·Y",
+              "root": "ענה",
+              "eng": "to answer",
+              "gem": 196
+            },
+            {
+              "heb": "מִבֶּ֧טֶן",
+              "tr": "mi·be·te·N",
+              "root": "בטן",
+              "eng": "belly",
+              "gem": 101
+            },
+            {
+              "heb": "שְׁא֛וֹל",
+              "tr": "she·'vo·L",
+              "root": "על",
+              "eng": "subst",
+              "gem": 337
+            },
+            {
+              "heb": "שִׁוַּ֖עְתִּי",
+              "tr": "shi·va·'e·ti·Y",
+              "root": "שוע",
+              "eng": "to cry out (for help)",
+              "gem": 786
+            },
+            {
+              "heb": "שָׁמַ֥עְתָּ",
+              "tr": "sha·ma·'e·TA",
+              "root": "שמע",
+              "eng": "v",
+              "gem": 810
+            },
+            {
+              "heb": "קוֹלִֽי",
+              "tr": "kvo·li·Y",
+              "root": "קול",
+              "eng": "voice",
+              "gem": 146
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "ref": "Yonah 2:4",
+          "hebrew_full": "וַתַּשְׁלִיכֵ֤נִי מְצוּלָה֙ בִּלְבַ֣ב יַמִּ֔ים וְנָהָ֖ר יְסֹבְבֵ֑נִי כׇּל־מִשְׁבָּרֶ֥יךָ וְגַלֶּ֖יךָ עָלַ֥י עָבָֽרוּ",
+          "translation": "You cast me into the depths,Into the heart of the sea,The floods engulfed me;All Your breakers and billowsSwept over me.",
+          "rashi": "all Your breakers and Your waves—All the breakers of the sea, since it breaks and parts the sea. [from Jonathan]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2607,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַתַּשְׁלִיכֵ֤נִי",
+              "tr": "va·ta·she·li·yche·ni·Y",
+              "root": "שלך",
+              "eng": "to throw",
+              "gem": 826
+            },
+            {
+              "heb": "מְצוּלָה֙",
+              "tr": "me·tsvla·H",
+              "root": "",
+              "eng": "depth",
+              "gem": 171
+            },
+            {
+              "heb": "בִּלְבַ֣ב",
+              "tr": "bi·le·va·V",
+              "root": "לבב",
+              "eng": "inner man",
+              "gem": 36
+            },
+            {
+              "heb": "יַמִּ֔ים",
+              "tr": "ya·mi·YM",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 100
+            },
+            {
+              "heb": "וְנָהָ֖ר",
+              "tr": "ve·na·ha·R",
+              "root": "נהר",
+              "eng": "stream",
+              "gem": 261
+            },
+            {
+              "heb": "יְסֹבְבֵ֑נִי",
+              "tr": "ye·so·ve·ve·ni·Y",
+              "root": "סבב",
+              "eng": "to turn",
+              "gem": 134
+            },
+            {
+              "heb": "כׇּל־מִשְׁבָּרֶ֥יךָ",
+              "tr": "kl-mi·she·ba·re·YCHA",
+              "root": "משבר",
+              "eng": "all·breaker",
+              "gem": 622
+            },
+            {
+              "heb": "וְגַלֶּ֖יךָ",
+              "tr": "ve·ga·le·YCHA",
+              "root": "גל",
+              "eng": "heap",
+              "gem": 69
+            },
+            {
+              "heb": "עָלַ֥י",
+              "tr": "a·la·Y",
+              "root": "על",
+              "eng": "subst",
+              "gem": 110
+            },
+            {
+              "heb": "עָבָֽרוּ",
+              "tr": "a·va·RV",
+              "root": "עבר",
+              "eng": "to pass over or by or through",
+              "gem": 278
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "ref": "Yonah 2:5",
+          "hebrew_full": "וַאֲנִ֣י אָמַ֔רְתִּי נִגְרַ֖שְׁתִּי מִנֶּ֣גֶד עֵינֶ֑יךָ אַ֚ךְ אוֹסִ֣יף לְהַבִּ֔יט אֶל־הֵיכַ֖ל קׇדְשֶֽׁךָ",
+          "translation": "I thought I was driven awayOut of Your sight:Would I ever gaze againUpon Your holy temple?",
+          "rashi": "And I said—when they cast me into the sea, “Behold I am dead, and I have been driven away from before Your eyes.” Instead—I saw that You have kept me alive all these days. I know that I will continue to gaze upon Your Holy Temple.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2692,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַאֲנִ֣י",
+              "tr": "va·'a·ni·Y",
+              "root": "אני",
+              "eng": "I (first pers. sing. -usually used for emphasis)",
+              "gem": 67
+            },
+            {
+              "heb": "אָמַ֔רְתִּי",
+              "tr": "a·ma·re·ti·Y",
+              "root": "אמרה",
+              "eng": "utterance",
+              "gem": 651
+            },
+            {
+              "heb": "נִגְרַ֖שְׁתִּי",
+              "tr": "ni·ge·ra·she·ti·Y",
+              "root": "גרש",
+              "eng": "to drive out",
+              "gem": 963
+            },
+            {
+              "heb": "מִנֶּ֣גֶד",
+              "tr": "mi·ne·ge·D",
+              "root": "נגד",
+              "eng": "subst",
+              "gem": 97
+            },
+            {
+              "heb": "עֵינֶ֑יךָ",
+              "tr": "e·yne·YCHA",
+              "root": "עין",
+              "eng": "eye",
+              "gem": 160
+            },
+            {
+              "heb": "אַ֚ךְ",
+              "tr": "a·CHE",
+              "root": "אך",
+              "eng": "indeed",
+              "gem": 21
+            },
+            {
+              "heb": "אוֹסִ֣יף",
+              "tr": "vo·si·YF",
+              "root": "יסף",
+              "eng": "to add",
+              "gem": 157
+            },
+            {
+              "heb": "לְהַבִּ֔יט",
+              "tr": "le·ha·bi·YT",
+              "root": "נבט",
+              "eng": "to look",
+              "gem": 56
+            },
+            {
+              "heb": "אֶל־הֵיכַ֖ל",
+              "tr": "e·l-he·ycha·L",
+              "root": "היכל",
+              "eng": "ram·palace",
+              "gem": 96
+            },
+            {
+              "heb": "קׇדְשֶֽׁךָ",
+              "tr": "kde·she·CHA",
+              "root": "קדש",
+              "eng": "apartness",
+              "gem": 424
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "ref": "Yonah 2:6",
+          "hebrew_full": "אֲפָפ֤וּנִי מַ֙יִם֙ עַד־נֶ֔פֶשׁ תְּה֖וֹם יְסֹבְבֵ֑נִי ס֖וּף חָב֥וּשׁ לְרֹאשִֽׁי",
+          "translation": "The waters closed in over me,The deep engulfed me.Weeds twined around my head.",
+          "rashi": "the Red Sea hangs over my head Lit., reeds are bound to my head. [Jonathan renders:] The Red Sea hangs over my head. For the Holy One, blessed he He, showed him the Red [lit., Reed] Sea and how Israel crossed in its midst, for the fish’s two eyes were like two windows, and he would look and see everything in the sea. [from Pirké d’Rabbi Eliezer ch. 10]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2409,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "אֲפָפ֤וּנִי",
+              "tr": "a·fa·fvni·Y",
+              "root": "אפף",
+              "eng": "to surround",
+              "gem": 227
+            },
+            {
+              "heb": "מַ֙יִם֙",
+              "tr": "ma·yi·M",
+              "root": "מים",
+              "eng": "water",
+              "gem": 90
+            },
+            {
+              "heb": "עַד־נֶ֔פֶשׁ",
+              "tr": "a·d-ne·fe·SH",
+              "root": "נפש",
+              "eng": "perpetuity·soul",
+              "gem": 504
+            },
+            {
+              "heb": "תְּה֖וֹם",
+              "tr": "te·hvo·M",
+              "root": "תהום",
+              "eng": "deep",
+              "gem": 451
+            },
+            {
+              "heb": "יְסֹבְבֵ֑נִי",
+              "tr": "ye·so·ve·ve·ni·Y",
+              "root": "סבב",
+              "eng": "to turn",
+              "gem": 134
+            },
+            {
+              "heb": "ס֖וּף",
+              "tr": "SVF",
+              "root": "סוף",
+              "eng": "to cease",
+              "gem": 146
+            },
+            {
+              "heb": "חָב֥וּשׁ",
+              "tr": "cha·VVSH",
+              "root": "חבש",
+              "eng": "to tie",
+              "gem": 316
+            },
+            {
+              "heb": "לְרֹאשִֽׁי",
+              "tr": "le·ro·'shi·Y",
+              "root": "ראש",
+              "eng": "head",
+              "gem": 541
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "ref": "Yonah 2:7",
+          "hebrew_full": "לְקִצְבֵ֤י הָרִים֙ יָרַ֔דְתִּי הָאָ֛רֶץ בְּרִחֶ֥יהָ בַעֲדִ֖י לְעוֹלָ֑ם וַתַּ֧עַל מִשַּׁ֛חַת חַיַּ֖י יְהֹוָ֥ה אֱלֹהָֽי",
+          "translation": "I sank to the base of the mountains;The bars of the earth closed upon me forever.Yet You brought my life up from the pit,My ETERNAL God!",
+          "rashi": "To the bottoms of the mountains I descended—To the end of the measure of the mountains fixed to the deep, I descended. And I said... the earth - its bars are closed on me Heb. בַּעֲדִי, against me, over me it is closed, and I will never go out. closed on me Heb. בַּעֲדִי. cf. (II Kings 4:4) “And you shall close the door about yourself (בַּעֲדֵךְ).” And so is every instance of בְּעַד in Scriptures, e.g. (Job 2:4) “Skin against (בְּעַד) skin,” a limb against a limb. forever This refers to what he said above, “And I said, ‘I have been driven away,’” and I said, “The earth - its bars are closed on me forever.” but You brought up my life from Gehinnom—But I saw Gehinnom here, and from there You brought me up, and, behold, I stand under the Temple in Jerusalem, similar to what is stated: “Indeed, I will continue to gaze upon Your Holy Temple,” “And my prayer came to You, to Your Holy Temple.” [from Pirké d’Rabbi Eliezer ch. 10]",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3248,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "לְקִצְבֵ֤י",
+              "tr": "le·ki·tse·ve·Y",
+              "root": "קצב",
+              "eng": "cut",
+              "gem": 232
+            },
+            {
+              "heb": "הָרִים֙",
+              "tr": "ha·ri·YM",
+              "root": "הר",
+              "eng": "hill",
+              "gem": 255
+            },
+            {
+              "heb": "יָרַ֔דְתִּי",
+              "tr": "ya·ra·de·ti·Y",
+              "root": "ירד",
+              "eng": "to go down",
+              "gem": 624
+            },
+            {
+              "heb": "הָאָ֛רֶץ",
+              "tr": "ha·'a·re·TS",
+              "root": "ארץ",
+              "eng": "earth.",
+              "gem": 296
+            },
+            {
+              "heb": "בְּרִחֶ֥יהָ",
+              "tr": "be·ri·che·YHA",
+              "root": "בריח",
+              "eng": "bar",
+              "gem": 225
+            },
+            {
+              "heb": "בַעֲדִ֖י",
+              "tr": "va·'a·di·Y",
+              "root": "בעד",
+              "eng": "behind",
+              "gem": 86
+            },
+            {
+              "heb": "לְעוֹלָ֑ם",
+              "tr": "le·'vo·la·M",
+              "root": "עולם",
+              "eng": "long duration",
+              "gem": 176
+            },
+            {
+              "heb": "וַתַּ֧עַל",
+              "tr": "va·ta·'a·L",
+              "root": "עלה",
+              "eng": "to go up",
+              "gem": 506
+            },
+            {
+              "heb": "מִשַּׁ֛חַת",
+              "tr": "mi·sha·cha·T",
+              "root": "משח",
+              "eng": "to smear",
+              "gem": 748
+            },
+            {
+              "heb": "חַיַּ֖י",
+              "tr": "cha·ya·Y",
+              "root": "חי",
+              "eng": "adj",
+              "gem": 28
+            },
+            {
+              "heb": "יְהֹוָ֥ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "אֱלֹהָֽי",
+              "tr": "e·lo·ha·Y",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 46
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "ref": "Yonah 2:8",
+          "hebrew_full": "בְּהִתְעַטֵּ֤ף עָלַי֙ נַפְשִׁ֔י אֶת־יְהֹוָ֖ה זָכָ֑רְתִּי וַתָּב֤וֹא אֵלֶ֙יךָ֙ תְּפִלָּתִ֔י אֶל־הֵיכַ֖ל קׇדְשֶֽׁךָ",
+          "translation": "When my life was ebbing away,I called GOD to mind;And my prayer came before You,Into Your holy temple.",
+          "rashi": "When my soul grew faint Heb. בְּהִתְעַטֵּף. [Jonathan renders:] When it grew faint. Cf. (Lam. 2: 11) “For the infants swoon (בֵּעָטֵף),” (verse 12) “When they swoon (בְּהִתְעַטְּפָם) like wounded men.”",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4096,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "בְּהִתְעַטֵּ֤ף",
+              "tr": "be·hi·te·'a·te·F",
+              "root": "עטף",
+              "eng": "to turn aside",
+              "gem": 566
+            },
+            {
+              "heb": "עָלַי֙",
+              "tr": "a·la·Y",
+              "root": "על",
+              "eng": "subst",
+              "gem": 110
+            },
+            {
+              "heb": "נַפְשִׁ֔י",
+              "tr": "na·fe·shi·Y",
+              "root": "נפש",
+              "eng": "soul",
+              "gem": 440
+            },
+            {
+              "heb": "אֶת־יְהֹוָ֖ה",
+              "tr": "e·t-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "sign of the definite direct object·Commonly transcribed YHWH",
+              "gem": 427
+            },
+            {
+              "heb": "זָכָ֑רְתִּי",
+              "tr": "za·cha·re·ti·Y",
+              "root": "זכר",
+              "eng": "to remember",
+              "gem": 637
+            },
+            {
+              "heb": "וַתָּב֤וֹא",
+              "tr": "va·ta·VVO",
+              "root": "בוא",
+              "eng": "to go in",
+              "gem": 415
+            },
+            {
+              "heb": "אֵלֶ֙יךָ֙",
+              "tr": "e·le·YCHA",
+              "root": "אל",
+              "eng": "god",
+              "gem": 61
+            },
+            {
+              "heb": "תְּפִלָּתִ֔י",
+              "tr": "te·fi·la·ti·Y",
+              "root": "תפלה",
+              "eng": "prayer",
+              "gem": 920
+            },
+            {
+              "heb": "אֶל־הֵיכַ֖ל",
+              "tr": "e·l-he·ycha·L",
+              "root": "היכל",
+              "eng": "ram·palace",
+              "gem": 96
+            },
+            {
+              "heb": "קׇדְשֶֽׁךָ",
+              "tr": "kde·she·CHA",
+              "root": "קדש",
+              "eng": "apartness",
+              "gem": 424
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "ref": "Yonah 2:9",
+          "hebrew_full": "מְשַׁמְּרִ֖ים הַבְלֵי־שָׁ֑וְא חַסְדָּ֖ם יַעֲזֹֽבוּ",
+          "translation": "They who cling to empty follyForsake their own welfare,",
+          "rashi": "Those who keep worthless futilities—The nations of the world, who worship idols. abandon their kindness—The fear of the Holy One, blessed be He, from Whom all their kindness and benefit emanate, they abandon; but I am not so, but “with a voice of thanks will I sacrifice to You.” In this manner did Jonathan render it. But in Pirké d’Rabbi Eliezer (ch. 10), they expounded this as an allusion to the sailors who abandoned their kindness that they were bestowing upon the idols and proselytized.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1191,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "מְשַׁמְּרִ֖ים",
+              "tr": "me·sha·me·ri·YM",
+              "root": "שמר",
+              "eng": "to keep",
+              "gem": 630
+            },
+            {
+              "heb": "הַבְלֵי־שָׁ֑וְא",
+              "tr": "ha·ve·le·y-sha·VE",
+              "root": "הבל",
+              "eng": "n m·emptiness",
+              "gem": 354
+            },
+            {
+              "heb": "חַסְדָּ֖ם",
+              "tr": "cha·se·da·M",
+              "root": "חסד",
+              "eng": "goodness",
+              "gem": 112
+            },
+            {
+              "heb": "יַעֲזֹֽבוּ",
+              "tr": "ya·'a·zo·VV",
+              "root": "עזב",
+              "eng": "to leave",
+              "gem": 95
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "ref": "Yonah 2:10",
+          "hebrew_full": "וַאֲנִ֗י בְּק֤וֹל תּוֹדָה֙ אֶזְבְּחָה־לָּ֔ךְ אֲשֶׁ֥ר נָדַ֖רְתִּי אֲשַׁלֵּ֑מָה יְשׁוּעָ֖תָה לַיהֹוָֽה",
+          "translation": "But I, with loud thanksgiving,Will sacrifice to You;What I have vowed I will perform.Deliverance is GOD’s!",
+          "rashi": "for the salvation of the Lord—Vows of peace-offerings and thanksgiving offerings I will pay, for the salvation of the Lord. for the salvation Heb. יְשׁוּעָתָה, like לִישׁוּעָה, for the salvation. Cf. (Ps. 44: 27) “Rise for our aid (עֶזְרָתָה),” equivalent to לְעֶזְרָה",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3081,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַאֲנִ֗י",
+              "tr": "va·'a·ni·Y",
+              "root": "אני",
+              "eng": "I (first pers. sing. -usually used for emphasis)",
+              "gem": 67
+            },
+            {
+              "heb": "בְּק֤וֹל",
+              "tr": "be·kvo·L",
+              "root": "קול",
+              "eng": "voice",
+              "gem": 138
+            },
+            {
+              "heb": "תּוֹדָה֙",
+              "tr": "tvo·da·H",
+              "root": "תודה",
+              "eng": "confession",
+              "gem": 415
+            },
+            {
+              "heb": "אֶזְבְּחָה־לָּ֔ךְ",
+              "tr": "e·ze·be·cha·h-la·CHE",
+              "root": "זבח",
+              "eng": "to slaughter·unto thee",
+              "gem": 73
+            },
+            {
+              "heb": "אֲשֶׁ֥ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "נָדַ֖רְתִּי",
+              "tr": "na·da·re·ti·Y",
+              "root": "נדר",
+              "eng": "to vow",
+              "gem": 664
+            },
+            {
+              "heb": "אֲשַׁלֵּ֑מָה",
+              "tr": "a·sha·le·ma·H",
+              "root": "שלם",
+              "eng": "to be in a covenant of peace",
+              "gem": 376
+            },
+            {
+              "heb": "יְשׁוּעָ֖תָה",
+              "tr": "ye·shv'a·ta·H",
+              "root": "",
+              "eng": "salvation",
+              "gem": 791
+            },
+            {
+              "heb": "לַיהֹוָֽה",
+              "tr": "la·yho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 56
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "ref": "Yonah 2:11",
+          "hebrew_full": "וַיֹּ֥אמֶר יְהֹוָ֖ה לַדָּ֑ג וַיָּקֵ֥א אֶת־יוֹנָ֖ה אֶל־הַיַּבָּשָֽׁה",
+          "translation": "GOD commanded the fish, and it spewed Jonah out upon dry land.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "Commanded: this is a metaphor. God caused it to do God's will.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1262,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּ֥אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "יְהֹוָ֖ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "לַדָּ֑ג",
+              "tr": "la·da·G",
+              "root": "דג",
+              "eng": "fish",
+              "gem": 37
+            },
+            {
+              "heb": "וַיָּקֵ֥א",
+              "tr": "va·ya·KE",
+              "root": "קוא",
+              "eng": "to vomit up",
+              "gem": 117
+            },
+            {
+              "heb": "אֶת־יוֹנָ֖ה",
+              "tr": "e·t-yvo·na·H",
+              "root": "יונה",
+              "eng": "sign of the definite direct object·dove",
+              "gem": 472
+            },
+            {
+              "heb": "אֶל־הַיַּבָּשָֽׁה",
+              "tr": "e·l-ha·ya·ba·sha·H",
+              "root": "יבשה",
+              "eng": "ram·dry land",
+              "gem": 353
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 3,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Yonah 3:1",
+          "hebrew_full": "וַיְהִ֧י דְבַר־יְהֹוָ֛ה אֶל־יוֹנָ֖ה שֵׁנִ֥ית לֵאמֹֽר",
+          "translation": "The word of GOD came to Jonah a second time:",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "\"And it was\"- [for] a second time.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1396,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיְהִ֧י",
+              "tr": "va·ye·hi·Y",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 31
+            },
+            {
+              "heb": "דְבַר־יְהֹוָ֛ה",
+              "tr": "de·va·r-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "to speak·Commonly transcribed YHWH",
+              "gem": 232
+            },
+            {
+              "heb": "אֶל־יוֹנָ֖ה",
+              "tr": "e·l-yvo·na·H",
+              "root": "יונה",
+              "eng": "ram·dove",
+              "gem": 102
+            },
+            {
+              "heb": "שֵׁנִ֥ית",
+              "tr": "she·ni·YT",
+              "root": "שני",
+              "eng": "second",
+              "gem": 760
+            },
+            {
+              "heb": "לֵאמֹֽר",
+              "tr": "le·'mo·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 271
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "ref": "Yonah 3:2",
+          "hebrew_full": "ק֛וּם לֵ֥ךְ אֶל־נִֽינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה וּקְרָ֤א אֵלֶ֙יהָ֙ אֶת־הַקְּרִיאָ֔ה אֲשֶׁ֥ר אָנֹכִ֖י דֹּבֵ֥ר אֵלֶֽיךָ",
+          "translation": "“Go at once to Nineveh, that great city, and proclaim to it what I tell you.”",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "\"Get up\"- He [God] is showing him [Yonah] that he did not go a way that distanced him from Nineveh [since the fish spat him out on the shore of Nineveh], [therefore] if He sends him a second time, he will go.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2610,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "ק֛וּם",
+              "tr": "KVM",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 146
+            },
+            {
+              "heb": "לֵ֥ךְ",
+              "tr": "le·CHE",
+              "root": "לך",
+              "eng": "unto thee",
+              "gem": 50
+            },
+            {
+              "heb": "אֶל־נִֽינְוֵ֖ה",
+              "tr": "e·l-ni·yne·ve·H",
+              "root": "איל",
+              "eng": "ram·Nineveh = \"abode of Ninus\"",
+              "gem": 152
+            },
+            {
+              "heb": "הָעִ֣יר",
+              "tr": "ha·'i·YR",
+              "root": "עיר",
+              "eng": "excitement",
+              "gem": 285
+            },
+            {
+              "heb": "הַגְּדוֹלָ֑ה",
+              "tr": "ha·ge·dvo·la·H",
+              "root": "גדול",
+              "eng": "adj",
+              "gem": 53
+            },
+            {
+              "heb": "וּקְרָ֤א",
+              "tr": "vke·RA",
+              "root": "קרא",
+              "eng": "to call",
+              "gem": 307
+            },
+            {
+              "heb": "אֵלֶ֙יהָ֙",
+              "tr": "e·le·YHA",
+              "root": "אל",
+              "eng": "god",
+              "gem": 46
+            },
+            {
+              "heb": "אֶת־הַקְּרִיאָ֔ה",
+              "tr": "e·t-ha·ke·ri·y'a·H",
+              "root": "את",
+              "eng": "sign of the definite direct object·proclamation",
+              "gem": 722
+            },
+            {
+              "heb": "אֲשֶׁ֥ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "אָנֹכִ֖י",
+              "tr": "a·no·chi·Y",
+              "root": "אנכי",
+              "eng": "I (first pers. sing.)",
+              "gem": 81
+            },
+            {
+              "heb": "דֹּבֵ֥ר",
+              "tr": "do·ve·R",
+              "root": "דבר",
+              "eng": "to speak",
+              "gem": 206
+            },
+            {
+              "heb": "אֵלֶֽיךָ",
+              "tr": "e·le·YCHA",
+              "root": "אל",
+              "eng": "god",
+              "gem": 61
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "ref": "Yonah 3:3",
+          "hebrew_full": "וַיָּ֣קׇם יוֹנָ֗ה וַיֵּ֛לֶךְ אֶל־נִֽינְוֵ֖ה כִּדְבַ֣ר יְהֹוָ֑ה וְנִֽינְוֵ֗ה הָיְתָ֤ה עִיר־גְּדוֹלָה֙ לֵֽאלֹהִ֔ים מַהֲלַ֖ךְ שְׁלֹ֥שֶׁת יָמִֽים",
+          "translation": "Jonah went at once to Nineveh in accordance with GOD’s command.Nineveh was an enormously large city a three days’ walk across.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "\"And he got up\": Rabbi Yeshuah said that the sailors went to Nineveh and spoke about [or, spoke the message of] Yonah. This is why they believed him, and the word \"to god\" explains this [to be the case]. \"a three-day walk\"- [to walk] around the city is a one day, [if one is only traveling] from one end to the other [and not throughout the entire city, as we might assume Yonah did], or [maybe] he did not walk [three days into the city] to call out, [rather he] only [walked] one day's walk because of this.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2913,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיָּ֣קׇם",
+              "tr": "va·ya·KM",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 156
+            },
+            {
+              "heb": "יוֹנָ֗ה",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "וַיֵּ֛לֶךְ",
+              "tr": "va·ye·le·CHE",
+              "root": "ילך",
+              "eng": "to go",
+              "gem": 66
+            },
+            {
+              "heb": "אֶל־נִֽינְוֵ֖ה",
+              "tr": "e·l-ni·yne·ve·H",
+              "root": "איל",
+              "eng": "ram·Nineveh = \"abode of Ninus\"",
+              "gem": 152
+            },
+            {
+              "heb": "כִּדְבַ֣ר",
+              "tr": "ki·de·va·R",
+              "root": "דבר",
+              "eng": "speech",
+              "gem": 226
+            },
+            {
+              "heb": "יְהֹוָ֑ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "וְנִֽינְוֵ֗ה",
+              "tr": "ve·ni·yne·ve·H",
+              "root": "",
+              "eng": "Nineveh = \"abode of Ninus\"",
+              "gem": 127
+            },
+            {
+              "heb": "הָיְתָ֤ה",
+              "tr": "ha·ye·ta·H",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 420
+            },
+            {
+              "heb": "עִיר־גְּדוֹלָה֙",
+              "tr": "i·yr-ge·dvo·la·H",
+              "root": "עיר",
+              "eng": "excitement",
+              "gem": 328
+            },
+            {
+              "heb": "לֵֽאלֹהִ֔ים",
+              "tr": "le·'lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 116
+            },
+            {
+              "heb": "מַהֲלַ֖ךְ",
+              "tr": "ma·ha·la·CHE",
+              "root": "הלך",
+              "eng": "to go",
+              "gem": 95
+            },
+            {
+              "heb": "שְׁלֹ֥שֶׁת",
+              "tr": "she·lo·she·T",
+              "root": "שלוש",
+              "eng": "three",
+              "gem": 1030
+            },
+            {
+              "heb": "יָמִֽים",
+              "tr": "ya·mi·YM",
+              "root": "ים",
+              "eng": "sea",
+              "gem": 100
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "ref": "Yonah 3:4",
+          "hebrew_full": "וַיָּ֤חֶל יוֹנָה֙ לָב֣וֹא בָעִ֔יר מַהֲלַ֖ךְ י֣וֹם אֶחָ֑ד וַיִּקְרָא֙ וַיֹּאמַ֔ר ע֚וֹד אַרְבָּעִ֣ים י֔וֹם וְנִֽינְוֵ֖ה נֶהְפָּֽכֶת",
+          "translation": "Jonah started out and made his way into the city the distance of one day’s walk, and proclaimed: “Forty days more, and Nineveh shall be overthrown!”",
+          "rashi": "overturned Destroyed. [He did not say, “Destroyed,” because “overturned” has two meanings, bad and good. If they do not repent, it will be destroyed; if they repent, then “overturned” refers to the people of Nineveh, that they will be changed from bad to good, and they will repent. Gloss of Rabbi Akiva(?)]",
+          "ramban": "",
+          "ibn_ezra": "\"And he started\"- Some say: that \"overturned\" [means] that it would overturn [itself] from [doing] it's evil actions, and this interpretation is not correct; [rather] the [interpretation of the] matter is only like [the verse]: \"For a moment I speak [of a nation to be destroyed and smashed...]\" (Jeremiah 18:7)",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2325,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיָּ֤חֶל",
+              "tr": "va·ya·che·L",
+              "root": "חול",
+              "eng": "to twist",
+              "gem": 54
+            },
+            {
+              "heb": "יוֹנָה֙",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "לָב֣וֹא",
+              "tr": "la·VVO",
+              "root": "בוא",
+              "eng": "to go in",
+              "gem": 39
+            },
+            {
+              "heb": "בָעִ֔יר",
+              "tr": "va·'i·YR",
+              "root": "עור",
+              "eng": "to rouse oneself",
+              "gem": 282
+            },
+            {
+              "heb": "מַהֲלַ֖ךְ",
+              "tr": "ma·ha·la·CHE",
+              "root": "הלך",
+              "eng": "to go",
+              "gem": 95
+            },
+            {
+              "heb": "י֣וֹם",
+              "tr": "yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 56
+            },
+            {
+              "heb": "אֶחָ֑ד",
+              "tr": "e·cha·D",
+              "root": "אחד",
+              "eng": "one (number)",
+              "gem": 13
+            },
+            {
+              "heb": "וַיִּקְרָא֙",
+              "tr": "va·yi·ke·RA",
+              "root": "קרא",
+              "eng": "to call",
+              "gem": 317
+            },
+            {
+              "heb": "וַיֹּאמַ֔ר",
+              "tr": "va·yo·'ma·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "ע֚וֹד",
+              "tr": "vo·D",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 80
+            },
+            {
+              "heb": "אַרְבָּעִ֣ים",
+              "tr": "a·re·ba·'i·YM",
+              "root": "",
+              "eng": "forty",
+              "gem": 323
+            },
+            {
+              "heb": "י֔וֹם",
+              "tr": "yvo·M",
+              "root": "יום",
+              "eng": "day",
+              "gem": 56
+            },
+            {
+              "heb": "וְנִֽינְוֵ֖ה",
+              "tr": "ve·ni·yne·ve·H",
+              "root": "",
+              "eng": "Nineveh = \"abode of Ninus\"",
+              "gem": 127
+            },
+            {
+              "heb": "נֶהְפָּֽכֶת",
+              "tr": "ne·he·pa·che·T",
+              "root": "הפך",
+              "eng": "to turn",
+              "gem": 555
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "ref": "Yonah 3:5",
+          "hebrew_full": "וַֽיַּאֲמִ֛ינוּ אַנְשֵׁ֥י נִֽינְוֵ֖ה בֵּֽאלֹהִ֑ים וַיִּקְרְאוּ־צוֹם֙ וַיִּלְבְּשׁ֣וּ שַׂקִּ֔ים מִגְּדוֹלָ֖ם וְעַד־קְטַנָּֽם",
+          "translation": "The people of Nineveh believed God. They proclaimed a fast, and great and small alike put on sackcloth.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "\"And they believed\"- [this case is] like [it says in the verse]: \"and the people believed\" (Shemot 4:31). and the essence of [the meaning of the word]: \"in God\" is [that the believed] \"in the word of God.\"",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2358,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַֽיַּאֲמִ֛ינוּ",
+              "tr": "va·ya·'a·mi·YNV",
+              "root": "אמן",
+              "eng": "to support",
+              "gem": 123
+            },
+            {
+              "heb": "אַנְשֵׁ֥י",
+              "tr": "a·ne·she·Y",
+              "root": "איש",
+              "eng": "man",
+              "gem": 361
+            },
+            {
+              "heb": "נִֽינְוֵ֖ה",
+              "tr": "ni·yne·ve·H",
+              "root": "",
+              "eng": "Nineveh = \"abode of Ninus\"",
+              "gem": 121
+            },
+            {
+              "heb": "בֵּֽאלֹהִ֑ים",
+              "tr": "be·'lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 88
+            },
+            {
+              "heb": "וַיִּקְרְאוּ־צוֹם֙",
+              "tr": "va·yi·ke·re·'v-tsvo·M",
+              "root": "קרא",
+              "eng": "to call·to command",
+              "gem": 459
+            },
+            {
+              "heb": "וַיִּלְבְּשׁ֣וּ",
+              "tr": "va·yi·le·be·SHV",
+              "root": "לבש",
+              "eng": "to dress",
+              "gem": 354
+            },
+            {
+              "heb": "שַׂקִּ֔ים",
+              "tr": "sa·ki·YM",
+              "root": "שק",
+              "eng": "mesh",
+              "gem": 450
+            },
+            {
+              "heb": "מִגְּדוֹלָ֖ם",
+              "tr": "mi·ge·dvo·la·M",
+              "root": "גדול",
+              "eng": "adj",
+              "gem": 123
+            },
+            {
+              "heb": "וְעַד־קְטַנָּֽם",
+              "tr": "ve·'a·d-ke·ta·na·M",
+              "root": "קטן",
+              "eng": "perpetuity·young",
+              "gem": 279
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "ref": "Yonah 3:6",
+          "hebrew_full": "וַיִּגַּ֤ע הַדָּבָר֙ אֶל־מֶ֣לֶךְ נִֽינְוֵ֔ה וַיָּ֙קׇם֙ מִכִּסְא֔וֹ וַיַּעֲבֵ֥ר אַדַּרְתּ֖וֹ מֵֽעָלָ֑יו וַיְכַ֣ס שַׂ֔ק וַיֵּ֖שֶׁב עַל־הָאֵֽפֶר",
+          "translation": "When the news reached the king of Nineveh, he rose from his throne, took off his robe, put on sackcloth, and sat in ashes.",
+          "rashi": "his royal robe Heb. אַדַּרְתּוֹ, the cloak of his honor.",
+          "ramban": "",
+          "ibn_ezra": "\"And it reached\"- this [was] before the donning of the sackcloth. \"And he took off\"- [this word ויעבר means] remove. \"And he covered\"- his flesh[himself] in sackcloth, [and this is not meant to be read that he simply \"covered\"], for this a transitive verb [which requires an object on which to act in the sentence, thus he covered himself].",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3080,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּגַּ֤ע",
+              "tr": "va·yi·GA",
+              "root": "נגע",
+              "eng": "to touch",
+              "gem": 89
+            },
+            {
+              "heb": "הַדָּבָר֙",
+              "tr": "ha·da·va·R",
+              "root": "דבר",
+              "eng": "to speak",
+              "gem": 211
+            },
+            {
+              "heb": "אֶל־מֶ֣לֶךְ",
+              "tr": "e·l-me·le·CHE",
+              "root": "איל",
+              "eng": "ram·king",
+              "gem": 121
+            },
+            {
+              "heb": "נִֽינְוֵ֔ה",
+              "tr": "ni·yne·ve·H",
+              "root": "",
+              "eng": "Nineveh = \"abode of Ninus\"",
+              "gem": 121
+            },
+            {
+              "heb": "וַיָּ֙קׇם֙",
+              "tr": "va·ya·KM",
+              "root": "קום",
+              "eng": "to rise",
+              "gem": 156
+            },
+            {
+              "heb": "מִכִּסְא֔וֹ",
+              "tr": "mi·ki·se·'VO",
+              "root": "כסא",
+              "eng": "seat (of honour)",
+              "gem": 127
+            },
+            {
+              "heb": "וַיַּעֲבֵ֥ר",
+              "tr": "va·ya·'a·ve·R",
+              "root": "עבר",
+              "eng": "to pass over or by or through",
+              "gem": 288
+            },
+            {
+              "heb": "אַדַּרְתּ֖וֹ",
+              "tr": "a·da·re·TVO",
+              "root": "אדרת",
+              "eng": "glory",
+              "gem": 611
+            },
+            {
+              "heb": "מֵֽעָלָ֑יו",
+              "tr": "me·'a·la·YV",
+              "root": "על",
+              "eng": "subst",
+              "gem": 156
+            },
+            {
+              "heb": "וַיְכַ֣ס",
+              "tr": "va·ye·cha·S",
+              "root": "כסה",
+              "eng": "to cover",
+              "gem": 96
+            },
+            {
+              "heb": "שַׂ֔ק",
+              "tr": "sa·K",
+              "root": "שק",
+              "eng": "mesh",
+              "gem": 400
+            },
+            {
+              "heb": "וַיֵּ֖שֶׁב",
+              "tr": "va·ye·she·V",
+              "root": "ישב",
+              "eng": "to dwell",
+              "gem": 318
+            },
+            {
+              "heb": "עַל־הָאֵֽפֶר",
+              "tr": "a·l-ha·'e·fe·R",
+              "root": "אפר",
+              "eng": "subst·covering",
+              "gem": 386
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "ref": "Yonah 3:7",
+          "hebrew_full": "וַיַּזְעֵ֗ק וַיֹּ֙אמֶר֙ בְּנִֽינְוֵ֔ה מִטַּ֧עַם הַמֶּ֛לֶךְ וּגְדֹלָ֖יו לֵאמֹ֑ר הָאָדָ֨ם וְהַבְּהֵמָ֜ה הַבָּקָ֣ר וְהַצֹּ֗אן אַֽל־יִטְעֲמוּ֙ מְא֔וּמָה אַ֨ל־יִרְע֔וּ וּמַ֖יִם אַל־יִשְׁתּֽוּ",
+          "translation": "And he had the word cried through Nineveh: “By decree of the king and his nobles: No human or animal—of flock or herd—shall taste anything! They shall not graze, and they shall not drink water!",
+          "rashi": "And he caused it to be proclaimed Heb. וַיַּזְעֵק, he commanded to proclaim By the counsel of the king and his nobles—By the counsel of the king and his nobles, they commanded to announce.",
+          "ramban": "",
+          "ibn_ezra": "\"And he cried\" - [the understanding of this phrase stems] from the reasoning [that he screamed] from his counsel, knowledge, and intellect, like [it says in the verse] \"[A Psalm of David,] when he changed his sanity [before Avimelech, and he drove him out and he left...]\"(Tehillim 34:1).",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3147,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיַּזְעֵ֗ק",
+              "tr": "va·ya·ze·'e·K",
+              "root": "זעק",
+              "eng": "to cry",
+              "gem": 193
+            },
+            {
+              "heb": "וַיֹּ֙אמֶר֙",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "בְּנִֽינְוֵ֔ה",
+              "tr": "be·ni·yne·ve·H",
+              "root": "",
+              "eng": "Nineveh = \"abode of Ninus\"",
+              "gem": 123
+            },
+            {
+              "heb": "מִטַּ֧עַם",
+              "tr": "mi·ta·'a·M",
+              "root": "טעם",
+              "eng": "taste",
+              "gem": 159
+            },
+            {
+              "heb": "הַמֶּ֛לֶךְ",
+              "tr": "ha·me·le·CHE",
+              "root": "מלך",
+              "eng": "king",
+              "gem": 95
+            },
+            {
+              "heb": "וּגְדֹלָ֖יו",
+              "tr": "vge·do·la·YV",
+              "root": "גדול",
+              "eng": "adj",
+              "gem": 59
+            },
+            {
+              "heb": "לֵאמֹ֑ר",
+              "tr": "le·'mo·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 271
+            },
+            {
+              "heb": "הָאָדָ֨ם",
+              "tr": "ha·'a·da·M",
+              "root": "אדם",
+              "eng": "man",
+              "gem": 50
+            },
+            {
+              "heb": "וְהַבְּהֵמָ֜ה",
+              "tr": "ve·ha·be·he·ma·H",
+              "root": "בהמה",
+              "eng": "beast",
+              "gem": 63
+            },
+            {
+              "heb": "הַבָּקָ֣ר",
+              "tr": "ha·ba·ka·R",
+              "root": "בקר",
+              "eng": "morning",
+              "gem": 307
+            },
+            {
+              "heb": "וְהַצֹּ֗אן",
+              "tr": "ve·ha·tso·'N",
+              "root": "צאן",
+              "eng": "small cattle",
+              "gem": 152
+            },
+            {
+              "heb": "אַֽל־יִטְעֲמוּ֙",
+              "tr": "a·l-yi·te·'a·MV",
+              "root": "איל",
+              "eng": "ram·to taste",
+              "gem": 166
+            },
+            {
+              "heb": "מְא֔וּמָה",
+              "tr": "me·'vma·H",
+              "root": "",
+              "eng": "anything",
+              "gem": 92
+            },
+            {
+              "heb": "אַ֨ל־יִרְע֔וּ",
+              "tr": "a·l-yi·re·'V",
+              "root": "איל",
+              "eng": "ram·to pasture",
+              "gem": 317
+            },
+            {
+              "heb": "וּמַ֖יִם",
+              "tr": "vma·yi·M",
+              "root": "מים",
+              "eng": "water",
+              "gem": 96
+            },
+            {
+              "heb": "אַל־יִשְׁתּֽוּ",
+              "tr": "a·l-yi·she·TV",
+              "root": "איל",
+              "eng": "ram·to drink",
+              "gem": 747
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "ref": "Yonah 3:8",
+          "hebrew_full": "וְיִתְכַּסּ֣וּ שַׂקִּ֗ים הָֽאָדָם֙ וְהַבְּהֵמָ֔ה וְיִקְרְא֥וּ אֶל־אֱלֹהִ֖ים בְּחׇזְקָ֑ה וְיָשֻׁ֗בוּ אִ֚ישׁ מִדַּרְכּ֣וֹ הָֽרָעָ֔ה וּמִן־הֶחָמָ֖ס אֲשֶׁ֥ר בְּכַפֵּיהֶֽם",
+          "translation": "They shall be covered with sackcloth—human and animal—and shall cry mightily to God. Let everyone turn back from their own evil ways and from the injustice of which they are guilty.",
+          "rashi": "and they shall call mightily to God—They bound the dams alone and the young alone. They said to Him, “Lord of the world! If You have no pity on us, we will not have pity on these.” [See Taanith 16a]",
+          "ramban": "",
+          "ibn_ezra": "\"And they shall cover themselves,\" \"and they shall call out [to God]\"- [The king's proclamation said:] \"Any man who is a knowledgeable person, or someone who knows they have done evil,\" or [the decree was saying] like [that which it says when Avraham entreated God regarding Sodom] \"Perhaps [there are ten good men to be found there?]\" (Bereshit 18:32). And the word \"and he will return\" is [going] on the glorious name [of God].",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3679,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְיִתְכַּסּ֣וּ",
+              "tr": "ve·yi·te·ka·SV",
+              "root": "כסה",
+              "eng": "to cover",
+              "gem": 502
+            },
+            {
+              "heb": "שַׂקִּ֗ים",
+              "tr": "sa·ki·YM",
+              "root": "שק",
+              "eng": "mesh",
+              "gem": 450
+            },
+            {
+              "heb": "הָֽאָדָם֙",
+              "tr": "ha·'a·da·M",
+              "root": "אדם",
+              "eng": "man",
+              "gem": 50
+            },
+            {
+              "heb": "וְהַבְּהֵמָ֔ה",
+              "tr": "ve·ha·be·he·ma·H",
+              "root": "בהמה",
+              "eng": "beast",
+              "gem": 63
+            },
+            {
+              "heb": "וְיִקְרְא֥וּ",
+              "tr": "ve·yi·ke·re·'V",
+              "root": "קרא",
+              "eng": "to call",
+              "gem": 323
+            },
+            {
+              "heb": "אֶל־אֱלֹהִ֖ים",
+              "tr": "e·l-'e·lo·hi·YM",
+              "root": "איל",
+              "eng": "ram·(plural intensive-singular meaning)",
+              "gem": 117
+            },
+            {
+              "heb": "בְּחׇזְקָ֑ה",
+              "tr": "be·chze·ka·H",
+              "root": "חזקה",
+              "eng": "force",
+              "gem": 122
+            },
+            {
+              "heb": "וְיָשֻׁ֗בוּ",
+              "tr": "ve·ya·shu·VV",
+              "root": "שוב",
+              "eng": "to return",
+              "gem": 324
+            },
+            {
+              "heb": "אִ֚ישׁ",
+              "tr": "i·YSH",
+              "root": "איש",
+              "eng": "man",
+              "gem": 311
+            },
+            {
+              "heb": "מִדַּרְכּ֣וֹ",
+              "tr": "mi·da·re·KVO",
+              "root": "דרך",
+              "eng": "way",
+              "gem": 270
+            },
+            {
+              "heb": "הָֽרָעָ֔ה",
+              "tr": "ha·ra·'a·H",
+              "root": "רע",
+              "eng": "adj",
+              "gem": 280
+            },
+            {
+              "heb": "וּמִן־הֶחָמָ֖ס",
+              "tr": "vmi·n-he·cha·ma·S",
+              "root": "חמס",
+              "eng": "prep·violence",
+              "gem": 209
+            },
+            {
+              "heb": "אֲשֶׁ֥ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "בְּכַפֵּיהֶֽם",
+              "tr": "be·cha·pe·yhe·M",
+              "root": "כף",
+              "eng": "palm",
+              "gem": 157
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "ref": "Yonah 3:9",
+          "hebrew_full": "מִֽי־יוֹדֵ֣עַ יָשׁ֔וּב וְנִחַ֖ם הָאֱלֹהִ֑ים וְשָׁ֛ב מֵחֲר֥וֹן אַפּ֖וֹ וְלֹ֥א נֹאבֵֽד",
+          "translation": "Who knows but that God may turn and relent? [God] may turn back from wrathfulness, so that we do not perish.”",
+          "rashi": "Whoever knows—the sins he has committed, shall repent.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 1446,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "מִֽי־יוֹדֵ֣עַ",
+              "tr": "mi·y-yvo·de·'A",
+              "root": "ידע",
+              "eng": "who?·to know",
+              "gem": 140
+            },
+            {
+              "heb": "יָשׁ֔וּב",
+              "tr": "ya·SHVV",
+              "root": "ישוב",
+              "eng": "Jashub = \"he will return\"",
+              "gem": 318
+            },
+            {
+              "heb": "וְנִחַ֖ם",
+              "tr": "ve·ni·cha·M",
+              "root": "נחם",
+              "eng": "to be sorry",
+              "gem": 104
+            },
+            {
+              "heb": "הָאֱלֹהִ֑ים",
+              "tr": "ha·'e·lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 91
+            },
+            {
+              "heb": "וְשָׁ֛ב",
+              "tr": "ve·sha·V",
+              "root": "ישב",
+              "eng": "to dwell",
+              "gem": 308
+            },
+            {
+              "heb": "מֵחֲר֥וֹן",
+              "tr": "me·cha·rvo·N",
+              "root": "חרון",
+              "eng": "anger",
+              "gem": 304
+            },
+            {
+              "heb": "אַפּ֖וֹ",
+              "tr": "a·PVO",
+              "root": "אף",
+              "eng": "",
+              "gem": 87
+            },
+            {
+              "heb": "וְלֹ֥א",
+              "tr": "ve·LO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 37
+            },
+            {
+              "heb": "נֹאבֵֽד",
+              "tr": "no·'ve·D",
+              "root": "אבד",
+              "eng": "perish",
+              "gem": 57
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "ref": "Yonah 3:10",
+          "hebrew_full": "וַיַּ֤רְא הָֽאֱלֹהִים֙ אֶת־מַ֣עֲשֵׂיהֶ֔ם כִּי־שָׁ֖בוּ מִדַּרְכָּ֣ם הָרָעָ֑ה וַיִּנָּ֣חֶם הָאֱלֹהִ֗ים עַל־הָרָעָ֛ה אֲשֶׁר־דִּבֶּ֥ר לַעֲשׂוֹת־לָהֶ֖ם וְלֹ֥א עָשָֽׂה",
+          "translation": "God saw what they did, how they were turning back from their evil ways. And God renounced the punishment that had been planned for them, and did not carry it out.",
+          "rashi": "and God will relent—He will think about the evil to repent of it.",
+          "ramban": "",
+          "ibn_ezra": "\"And God saw\" - that they believed in him. And it [the people's belief] is like this [episode] in [Parshat] Yitro: \"before God.\" (Shemot 18:12). \"And he relented\"- [In describing God with human attributes, the Torah here employs the principle] \"The torah spoke like the language of human beings.\"",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4681,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיַּ֤רְא",
+              "tr": "va·ya·RE",
+              "root": "ראה",
+              "eng": "to see",
+              "gem": 217
+            },
+            {
+              "heb": "הָֽאֱלֹהִים֙",
+              "tr": "ha·'e·lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 91
+            },
+            {
+              "heb": "אֶת־מַ֣עֲשֵׂיהֶ֔ם",
+              "tr": "e·t-ma·'a·se·yhe·M",
+              "root": "מעשה",
+              "eng": "sign of the definite direct object·deed",
+              "gem": 866
+            },
+            {
+              "heb": "כִּי־שָׁ֖בוּ",
+              "tr": "ki·y-sha·VV",
+              "root": "ישב",
+              "eng": "burning·to dwell",
+              "gem": 338
+            },
+            {
+              "heb": "מִדַּרְכָּ֣ם",
+              "tr": "mi·da·re·ka·M",
+              "root": "דרך",
+              "eng": "way",
+              "gem": 304
+            },
+            {
+              "heb": "הָרָעָ֑ה",
+              "tr": "ha·ra·'a·H",
+              "root": "רע",
+              "eng": "adj",
+              "gem": 280
+            },
+            {
+              "heb": "וַיִּנָּ֣חֶם",
+              "tr": "va·yi·na·che·M",
+              "root": "נחם",
+              "eng": "to be sorry",
+              "gem": 114
+            },
+            {
+              "heb": "הָאֱלֹהִ֗ים",
+              "tr": "ha·'e·lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 91
+            },
+            {
+              "heb": "עַל־הָרָעָ֛ה",
+              "tr": "a·l-ha·ra·'a·H",
+              "root": "על",
+              "eng": "subst·adj",
+              "gem": 380
+            },
+            {
+              "heb": "אֲשֶׁר־דִּבֶּ֥ר",
+              "tr": "a·she·r-di·be·R",
+              "root": "אשר",
+              "eng": "(relative part.)·to speak",
+              "gem": 707
+            },
+            {
+              "heb": "לַעֲשׂוֹת־לָהֶ֖ם",
+              "tr": "la·'a·svo·t-la·he·M",
+              "root": "עשה",
+              "eng": "to do·abundance",
+              "gem": 881
+            },
+            {
+              "heb": "וְלֹ֥א",
+              "tr": "ve·LO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 37
+            },
+            {
+              "heb": "עָשָֽׂה",
+              "tr": "a·sa·H",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 375
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": 4,
+      "verses": [
+        {
+          "verse": 1,
+          "ref": "Yonah 4:1",
+          "hebrew_full": "וַיֵּ֥רַע אֶל־יוֹנָ֖ה רָעָ֣ה גְדוֹלָ֑ה וַיִּ֖חַר לֽוֹ",
+          "translation": "This displeased Jonah greatly, and he was grieved.",
+          "rashi": "Now it displeased Jonah—He said, “Now the nations will say that I am a false prophet.” [from Pirké d’Rabbi Eliezer ch. 10]",
+          "ramban": "",
+          "ibn_ezra": "\"And it displeased him...\"- that God relented.",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 971,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֵּ֥רַע",
+              "tr": "va·ye·RA",
+              "root": "רעע",
+              "eng": "to be bad",
+              "gem": 286
+            },
+            {
+              "heb": "אֶל־יוֹנָ֖ה",
+              "tr": "e·l-yvo·na·H",
+              "root": "יונה",
+              "eng": "ram·dove",
+              "gem": 102
+            },
+            {
+              "heb": "רָעָ֣ה",
+              "tr": "ra·'a·H",
+              "root": "רעה",
+              "eng": "to pasture",
+              "gem": 275
+            },
+            {
+              "heb": "גְדוֹלָ֑ה",
+              "tr": "ge·dvo·la·H",
+              "root": "",
+              "eng": "",
+              "gem": 48
+            },
+            {
+              "heb": "וַיִּ֖חַר",
+              "tr": "va·yi·cha·R",
+              "root": "חרה",
+              "eng": "to be hot",
+              "gem": 224
+            },
+            {
+              "heb": "לֽוֹ",
+              "tr": "LVO",
+              "root": "לו",
+              "eng": "unto him; v. ל־.",
+              "gem": 36
+            }
+          ]
+        },
+        {
+          "verse": 2,
+          "ref": "Yonah 4:2",
+          "hebrew_full": "וַיִּתְפַּלֵּ֨ל אֶל־יְהֹוָ֜ה וַיֹּאמַ֗ר אָנָּ֤ה יְהֹוָה֙ הֲלוֹא־זֶ֣ה דְבָרִ֗י עַד־הֱיוֹתִי֙ עַל־אַדְמָתִ֔י עַל־כֵּ֥ן קִדַּ֖מְתִּי לִבְרֹ֣חַ תַּרְשִׁ֑ישָׁה כִּ֣י יָדַ֗עְתִּי כִּ֤י אַתָּה֙ אֵֽל־חַנּ֣וּן וְרַח֔וּם אֶ֤רֶךְ אַפַּ֙יִם֙ וְרַב־חֶ֔סֶד וְנִחָ֖ם עַל־הָרָעָֽה",
+          "translation": "He prayed to GOD, saying, “O ETERNAL One! Isn’t this just what I said when I was still in my own country? That is why I fled beforehand to Tarshish. For I know that You are a compassionate and gracious God, slow to anger, abounding in kindness, renouncing punishment.",
+          "rashi": "was this not my contention—I know that, if they repent, You will not destroy them, and I will appear to them as a liar.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 6942,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיִּתְפַּלֵּ֨ל",
+              "tr": "va·yi·te·pa·le·L",
+              "root": "פלל",
+              "eng": "to intervene",
+              "gem": 556
+            },
+            {
+              "heb": "אֶל־יְהֹוָ֜ה",
+              "tr": "e·l-ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "ram·Commonly transcribed YHWH",
+              "gem": 57
+            },
+            {
+              "heb": "וַיֹּאמַ֗ר",
+              "tr": "va·yo·'ma·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "אָנָּ֤ה",
+              "tr": "a·na·H",
+              "root": "אן",
+              "eng": "where?",
+              "gem": 56
+            },
+            {
+              "heb": "יְהֹוָה֙",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "הֲלוֹא־זֶ֣ה",
+              "tr": "ha·lvo·'-ze·H",
+              "root": "לא",
+              "eng": "not·this",
+              "gem": 54
+            },
+            {
+              "heb": "דְבָרִ֗י",
+              "tr": "de·va·ri·Y",
+              "root": "דבר",
+              "eng": "speech",
+              "gem": 216
+            },
+            {
+              "heb": "עַד־הֱיוֹתִי֙",
+              "tr": "a·d-he·yvo·ti·Y",
+              "root": "היה",
+              "eng": "perpetuity·to be",
+              "gem": 505
+            },
+            {
+              "heb": "עַל־אַדְמָתִ֔י",
+              "tr": "a·l-'a·de·ma·ti·Y",
+              "root": "אדמה",
+              "eng": "subst·ground",
+              "gem": 555
+            },
+            {
+              "heb": "עַל־כֵּ֥ן",
+              "tr": "a·l-ke·N",
+              "root": "על",
+              "eng": "subst·adv",
+              "gem": 170
+            },
+            {
+              "heb": "קִדַּ֖מְתִּי",
+              "tr": "ki·da·me·ti·Y",
+              "root": "קדם",
+              "eng": "to meet",
+              "gem": 554
+            },
+            {
+              "heb": "לִבְרֹ֣חַ",
+              "tr": "li·ve·ro·CHA",
+              "root": "ברח",
+              "eng": "to go through",
+              "gem": 240
+            },
+            {
+              "heb": "תַּרְשִׁ֑ישָׁה",
+              "tr": "ta·re·shi·ysha·H",
+              "root": "",
+              "eng": "a precious stone or semi-precious gem",
+              "gem": 1215
+            },
+            {
+              "heb": "כִּ֣י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "יָדַ֗עְתִּי",
+              "tr": "ya·da·'e·ti·Y",
+              "root": "ידע",
+              "eng": "to know",
+              "gem": 494
+            },
+            {
+              "heb": "כִּ֤י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "אַתָּה֙",
+              "tr": "a·ta·H",
+              "root": "אתה",
+              "eng": "you (second pers. sing. masc.)",
+              "gem": 406
+            },
+            {
+              "heb": "אֵֽל־חַנּ֣וּן",
+              "tr": "e·l-cha·NVN",
+              "root": "חנון",
+              "eng": "ram·gracious",
+              "gem": 145
+            },
+            {
+              "heb": "וְרַח֔וּם",
+              "tr": "ve·ra·CHVM",
+              "root": "רחום",
+              "eng": "compassionate",
+              "gem": 260
+            },
+            {
+              "heb": "אֶ֤רֶךְ",
+              "tr": "e·re·CHE",
+              "root": "ארך",
+              "eng": "length",
+              "gem": 221
+            },
+            {
+              "heb": "אַפַּ֙יִם֙",
+              "tr": "a·pa·yi·M",
+              "root": "אף",
+              "eng": "",
+              "gem": 131
+            },
+            {
+              "heb": "וְרַב־חֶ֔סֶד",
+              "tr": "ve·ra·v-che·se·D",
+              "root": "חסד",
+              "eng": "adj·goodness",
+              "gem": 280
+            },
+            {
+              "heb": "וְנִחָ֖ם",
+              "tr": "ve·ni·cha·M",
+              "root": "נחם",
+              "eng": "to be sorry",
+              "gem": 104
+            },
+            {
+              "heb": "עַל־הָרָעָֽה",
+              "tr": "a·l-ha·ra·'a·H",
+              "root": "על",
+              "eng": "subst·adj",
+              "gem": 380
+            }
+          ]
+        },
+        {
+          "verse": 3,
+          "ref": "Yonah 4:3",
+          "hebrew_full": "וְעַתָּ֣ה יְהֹוָ֔ה קַח־נָ֥א אֶת־נַפְשִׁ֖י מִמֶּ֑נִּי כִּ֛י ט֥וֹב מוֹתִ֖י מֵחַיָּֽי",
+          "translation": "Please, ETERNAL One, take my life, for I would rather die than live.”",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "Now: seeing that Israel had not repented, he feared that harm would come to them, and so he prayed, \"please take my life,\" like Moses said \"erase me [from Your book]...",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2218,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וְעַתָּ֣ה",
+              "tr": "ve·'a·ta·H",
+              "root": "עתה",
+              "eng": "now",
+              "gem": 481
+            },
+            {
+              "heb": "יְהֹוָ֔ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "קַח־נָ֥א",
+              "tr": "ka·CH-NA",
+              "root": "לקח",
+              "eng": "to take·I (we) pray",
+              "gem": 159
+            },
+            {
+              "heb": "אֶת־נַפְשִׁ֖י",
+              "tr": "e·t-na·fe·shi·Y",
+              "root": "נפש",
+              "eng": "sign of the definite direct object·soul",
+              "gem": 841
+            },
+            {
+              "heb": "מִמֶּ֑נִּי",
+              "tr": "mi·me·ni·Y",
+              "root": "מן",
+              "eng": "prep",
+              "gem": 140
+            },
+            {
+              "heb": "כִּ֛י",
+              "tr": "ki·Y",
+              "root": "כי",
+              "eng": "burning",
+              "gem": 30
+            },
+            {
+              "heb": "ט֥וֹב",
+              "tr": "tvo·V",
+              "root": "טוב",
+              "eng": "to be good",
+              "gem": 17
+            },
+            {
+              "heb": "מוֹתִ֖י",
+              "tr": "mvo·ti·Y",
+              "root": "מות",
+              "eng": "to die",
+              "gem": 456
+            },
+            {
+              "heb": "מֵחַיָּֽי",
+              "tr": "me·cha·ya·Y",
+              "root": "חי",
+              "eng": "adj",
+              "gem": 68
+            }
+          ]
+        },
+        {
+          "verse": 4,
+          "ref": "Yonah 4:4",
+          "hebrew_full": "וַיֹּ֣אמֶר יְהֹוָ֔ה הַהֵיטֵ֖ב חָ֥רָה לָֽךְ",
+          "translation": "GOD replied, “Are you that deeply grieved?”",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 577,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּ֣אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "יְהֹוָ֔ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "הַהֵיטֵ֖ב",
+              "tr": "ha·he·yte·V",
+              "root": "יטב",
+              "eng": "to be good",
+              "gem": 31
+            },
+            {
+              "heb": "חָ֥רָה",
+              "tr": "cha·ra·H",
+              "root": "חרה",
+              "eng": "to be hot",
+              "gem": 213
+            },
+            {
+              "heb": "לָֽךְ",
+              "tr": "la·CHE",
+              "root": "לך",
+              "eng": "unto thee",
+              "gem": 50
+            }
+          ]
+        },
+        {
+          "verse": 5,
+          "ref": "Yonah 4:5",
+          "hebrew_full": "וַיֵּצֵ֤א יוֹנָה֙ מִן־הָעִ֔יר וַיֵּ֖שֶׁב מִקֶּ֣דֶם לָעִ֑יר וַיַּ֩עַשׂ֩ ל֨וֹ שָׁ֜ם סֻכָּ֗ה וַיֵּ֤שֶׁב תַּחְתֶּ֙יהָ֙ בַּצֵּ֔ל עַ֚ד אֲשֶׁ֣ר יִרְאֶ֔ה מַה־יִּהְיֶ֖ה בָּעִֽיר",
+          "translation": "Now Jonah had left the city and found a place east of the city. He made a booth there and sat under it in the shade, until he should see what happened to the city.",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4623,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֵּצֵ֤א",
+              "tr": "va·ye·TSE",
+              "root": "דוד",
+              "eng": "David = \"beloved\"",
+              "gem": 107
+            },
+            {
+              "heb": "יוֹנָה֙",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "מִן־הָעִ֔יר",
+              "tr": "mi·n-ha·'i·YR",
+              "root": "עיר",
+              "eng": "prep·excitement",
+              "gem": 375
+            },
+            {
+              "heb": "וַיֵּ֖שֶׁב",
+              "tr": "va·ye·she·V",
+              "root": "ישב",
+              "eng": "to dwell",
+              "gem": 318
+            },
+            {
+              "heb": "מִקֶּ֣דֶם",
+              "tr": "mi·ke·de·M",
+              "root": "קדם",
+              "eng": "n m",
+              "gem": 184
+            },
+            {
+              "heb": "לָעִ֑יר",
+              "tr": "la·'i·YR",
+              "root": "עיר",
+              "eng": "excitement",
+              "gem": 310
+            },
+            {
+              "heb": "וַיַּ֩עַשׂ֩",
+              "tr": "va·ya·'a·S",
+              "root": "עשה",
+              "eng": "to do",
+              "gem": 386
+            },
+            {
+              "heb": "ל֨וֹ",
+              "tr": "LVO",
+              "root": "לו",
+              "eng": "unto him; v. ל־.",
+              "gem": 36
+            },
+            {
+              "heb": "שָׁ֜ם",
+              "tr": "sha·M",
+              "root": "שם",
+              "eng": "there",
+              "gem": 340
+            },
+            {
+              "heb": "סֻכָּ֗ה",
+              "tr": "su·ka·H",
+              "root": "סכה",
+              "eng": "thicket",
+              "gem": 85
+            },
+            {
+              "heb": "וַיֵּ֤שֶׁב",
+              "tr": "va·ye·she·V",
+              "root": "ישב",
+              "eng": "to dwell",
+              "gem": 318
+            },
+            {
+              "heb": "תַּחְתֶּ֙יהָ֙",
+              "tr": "ta·che·te·YHA",
+              "root": "תחת",
+              "eng": "the under part",
+              "gem": 823
+            },
+            {
+              "heb": "בַּצֵּ֔ל",
+              "tr": "ba·tse·L",
+              "root": "צל",
+              "eng": "shadow",
+              "gem": 122
+            },
+            {
+              "heb": "עַ֚ד",
+              "tr": "a·D",
+              "root": "עד",
+              "eng": "perpetuity",
+              "gem": 74
+            },
+            {
+              "heb": "אֲשֶׁ֣ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "יִרְאֶ֔ה",
+              "tr": "yi·re·'e·H",
+              "root": "ירא",
+              "eng": "to fear",
+              "gem": 216
+            },
+            {
+              "heb": "מַה־יִּהְיֶ֖ה",
+              "tr": "ma·h-yi·he·ye·H",
+              "root": "היה",
+              "eng": "interr pron·to be",
+              "gem": 75
+            },
+            {
+              "heb": "בָּעִֽיר",
+              "tr": "ba·'i·YR",
+              "root": "עור",
+              "eng": "to rouse oneself",
+              "gem": 282
+            }
+          ]
+        },
+        {
+          "verse": 6,
+          "ref": "Yonah 4:6",
+          "hebrew_full": "וַיְמַ֣ן יְהֹוָֽה־אֱ֠לֹהִ֠ים קִיקָי֞וֹן וַיַּ֣עַל מֵעַ֣ל לְיוֹנָ֗ה לִֽהְי֥וֹת צֵל֙ עַל־רֹאשׁ֔וֹ לְהַצִּ֥יל ל֖וֹ מֵרָֽעָת֑וֹ וַיִּשְׂמַ֥ח יוֹנָ֛ה עַל־הַקִּֽיקָי֖וֹן שִׂמְחָ֥ה גְדוֹלָֽה",
+          "translation": "The ETERNAL God provided a ricinus plant, which grew up over Jonah, to provide shade for his head and save him from discomfort. Jonah was very happy about the plant.",
+          "rashi": "appointed Heb. וַיְמַן, an expression of preparation. [from Jonathan] to save him from his discomfort—From the heat of the sun. kikayon—A plant that grows high with many branches and it affords shade and that is its name.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4163,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיְמַ֣ן",
+              "tr": "va·ye·ma·N",
+              "root": "מנה",
+              "eng": "to count",
+              "gem": 106
+            },
+            {
+              "heb": "יְהֹוָֽה־אֱ֠לֹהִ֠ים",
+              "tr": "ye·ho·va·h-'e·lo·hi·YM",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH·(plural intensive-singular meaning)",
+              "gem": 112
+            },
+            {
+              "heb": "קִיקָי֞וֹן",
+              "tr": "ki·yka·yvo·N",
+              "root": "",
+              "eng": "a plant",
+              "gem": 276
+            },
+            {
+              "heb": "וַיַּ֣עַל",
+              "tr": "va·ya·'a·L",
+              "root": "עלה",
+              "eng": "to go up",
+              "gem": 116
+            },
+            {
+              "heb": "מֵעַ֣ל",
+              "tr": "me·'a·L",
+              "root": "על",
+              "eng": "subst",
+              "gem": 140
+            },
+            {
+              "heb": "לְיוֹנָ֗ה",
+              "tr": "le·yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 101
+            },
+            {
+              "heb": "לִֽהְי֥וֹת",
+              "tr": "li·he·yvo·T",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 451
+            },
+            {
+              "heb": "צֵל֙",
+              "tr": "tse·L",
+              "root": "צל",
+              "eng": "shadow",
+              "gem": 120
+            },
+            {
+              "heb": "עַל־רֹאשׁ֔וֹ",
+              "tr": "a·l-ro·'SHVO",
+              "root": "ראש",
+              "eng": "subst·head",
+              "gem": 607
+            },
+            {
+              "heb": "לְהַצִּ֥יל",
+              "tr": "le·ha·tsi·YL",
+              "root": "נצל",
+              "eng": "to snatch away",
+              "gem": 165
+            },
+            {
+              "heb": "ל֖וֹ",
+              "tr": "LVO",
+              "root": "לו",
+              "eng": "unto him; v. ל־.",
+              "gem": 36
+            },
+            {
+              "heb": "מֵרָֽעָת֑וֹ",
+              "tr": "me·ra·'a·TVO",
+              "root": "רע",
+              "eng": "adj",
+              "gem": 716
+            },
+            {
+              "heb": "וַיִּשְׂמַ֥ח",
+              "tr": "va·yi·se·ma·CH",
+              "root": "שמח",
+              "eng": "to rejoice",
+              "gem": 364
+            },
+            {
+              "heb": "יוֹנָ֛ה",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "עַל־הַקִּֽיקָי֖וֹן",
+              "tr": "a·l-ha·ki·yka·yvo·N",
+              "root": "על",
+              "eng": "subst·a plant",
+              "gem": 381
+            },
+            {
+              "heb": "שִׂמְחָ֥ה",
+              "tr": "si·me·cha·H",
+              "root": "שמחה",
+              "eng": "joy",
+              "gem": 353
+            },
+            {
+              "heb": "גְדוֹלָֽה",
+              "tr": "ge·dvo·la·H",
+              "root": "",
+              "eng": "",
+              "gem": 48
+            }
+          ]
+        },
+        {
+          "verse": 7,
+          "ref": "Yonah 4:7",
+          "hebrew_full": "וַיְמַ֤ן הָֽאֱלֹהִים֙ תּוֹלַ֔עַת בַּעֲל֥וֹת הַשַּׁ֖חַר לַֽמׇּחֳרָ֑ת וַתַּ֥ךְ אֶת־הַקִּֽיקָי֖וֹן וַיִּיבָֽשׁ",
+          "translation": "But the next day at dawn God provided a worm, which attacked the plant so that it withered.",
+          "rashi": "attacked Heb. וַתַּךְ. The worm attacked the kikayon. Where one would say for masculine וַיַךְ, he struck, he says for feminine וַתַּךְ, she struck.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4238,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיְמַ֤ן",
+              "tr": "va·ye·ma·N",
+              "root": "מנה",
+              "eng": "to count",
+              "gem": 106
+            },
+            {
+              "heb": "הָֽאֱלֹהִים֙",
+              "tr": "ha·'e·lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 91
+            },
+            {
+              "heb": "תּוֹלַ֔עַת",
+              "tr": "tvo·la·'a·T",
+              "root": "תולע",
+              "eng": "worm",
+              "gem": 906
+            },
+            {
+              "heb": "בַּעֲל֥וֹת",
+              "tr": "ba·'a·lvo·T",
+              "root": "",
+              "eng": "",
+              "gem": 508
+            },
+            {
+              "heb": "הַשַּׁ֖חַר",
+              "tr": "ha·sha·cha·R",
+              "root": "שחר",
+              "eng": "dawn",
+              "gem": 513
+            },
+            {
+              "heb": "לַֽמׇּחֳרָ֑ת",
+              "tr": "la·mcho·ra·T",
+              "root": "מחרת",
+              "eng": "the morrow",
+              "gem": 678
+            },
+            {
+              "heb": "וַתַּ֥ךְ",
+              "tr": "va·ta·CHE",
+              "root": "נכה",
+              "eng": "to strike",
+              "gem": 426
+            },
+            {
+              "heb": "אֶת־הַקִּֽיקָי֖וֹן",
+              "tr": "e·t-ha·ki·yka·yvo·N",
+              "root": "את",
+              "eng": "sign of the definite direct object·a plant",
+              "gem": 682
+            },
+            {
+              "heb": "וַיִּיבָֽשׁ",
+              "tr": "va·yi·yva·SH",
+              "root": "יבש",
+              "eng": "to make dry",
+              "gem": 328
+            }
+          ]
+        },
+        {
+          "verse": 8,
+          "ref": "Yonah 4:8",
+          "hebrew_full": "וַיְהִ֣י כִּזְרֹ֣חַ הַשֶּׁ֗מֶשׁ וַיְמַ֨ן אֱלֹהִ֜ים ר֤וּחַ קָדִים֙ חֲרִישִׁ֔ית וַתַּ֥ךְ הַשֶּׁ֛מֶשׁ עַל־רֹ֥אשׁ יוֹנָ֖ה וַיִּתְעַלָּ֑ף וַיִּשְׁאַ֤ל אֶת־נַפְשׁוֹ֙ לָמ֔וּת וַיֹּ֕אמֶר ט֥וֹב מוֹתִ֖י מֵחַיָּֽי",
+          "translation": "And when the sun rose, God provided a sultry east wind; the sun beat down on Jonah’s head, and he became faint. He begged for death, saying, “I would rather die than live.”",
+          "rashi": "stilling Heb. חֲרִישִׁית. Our Sages say: When it blows, it silences all the winds because of it, and it is very hot. So does Jonathan render: silencing. [from Gittin 31b] and he fainted Heb. וַיִּתְעַלָּף, pasmer (pamer), in O.F.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 7196,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיְהִ֣י",
+              "tr": "va·ye·hi·Y",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 31
+            },
+            {
+              "heb": "כִּזְרֹ֣חַ",
+              "tr": "ki·ze·ro·CHA",
+              "root": "זרח",
+              "eng": "to rise",
+              "gem": 235
+            },
+            {
+              "heb": "הַשֶּׁ֗מֶשׁ",
+              "tr": "ha·she·me·SH",
+              "root": "שמש",
+              "eng": "sun",
+              "gem": 645
+            },
+            {
+              "heb": "וַיְמַ֨ן",
+              "tr": "va·ye·ma·N",
+              "root": "מנה",
+              "eng": "to count",
+              "gem": 106
+            },
+            {
+              "heb": "אֱלֹהִ֜ים",
+              "tr": "e·lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 86
+            },
+            {
+              "heb": "ר֤וּחַ",
+              "tr": "RVCHA",
+              "root": "רוח",
+              "eng": "to smell",
+              "gem": 214
+            },
+            {
+              "heb": "קָדִים֙",
+              "tr": "ka·di·YM",
+              "root": "קדים",
+              "eng": "east",
+              "gem": 154
+            },
+            {
+              "heb": "חֲרִישִׁ֔ית",
+              "tr": "cha·ri·yshi·YT",
+              "root": "",
+              "eng": "harsh",
+              "gem": 928
+            },
+            {
+              "heb": "וַתַּ֥ךְ",
+              "tr": "va·ta·CHE",
+              "root": "נכה",
+              "eng": "to strike",
+              "gem": 426
+            },
+            {
+              "heb": "הַשֶּׁ֛מֶשׁ",
+              "tr": "ha·she·me·SH",
+              "root": "שמש",
+              "eng": "sun",
+              "gem": 645
+            },
+            {
+              "heb": "עַל־רֹ֥אשׁ",
+              "tr": "a·l-ro·'SH",
+              "root": "ראש",
+              "eng": "subst·head",
+              "gem": 601
+            },
+            {
+              "heb": "יוֹנָ֖ה",
+              "tr": "yvo·na·H",
+              "root": "יונה",
+              "eng": "dove",
+              "gem": 71
+            },
+            {
+              "heb": "וַיִּתְעַלָּ֑ף",
+              "tr": "va·yi·te·'a·la·F",
+              "root": "עלף",
+              "eng": "to cover",
+              "gem": 596
+            },
+            {
+              "heb": "וַיִּשְׁאַ֤ל",
+              "tr": "va·yi·she·'a·L",
+              "root": "שאל",
+              "eng": "to ask",
+              "gem": 347
+            },
+            {
+              "heb": "אֶת־נַפְשׁוֹ֙",
+              "tr": "e·t-na·fe·SHVO",
+              "root": "נפש",
+              "eng": "sign of the definite direct object·soul",
+              "gem": 837
+            },
+            {
+              "heb": "לָמ֔וּת",
+              "tr": "la·MVT",
+              "root": "מות",
+              "eng": "to die",
+              "gem": 476
+            },
+            {
+              "heb": "וַיֹּ֕אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "ט֥וֹב",
+              "tr": "tvo·V",
+              "root": "טוב",
+              "eng": "to be good",
+              "gem": 17
+            },
+            {
+              "heb": "מוֹתִ֖י",
+              "tr": "mvo·ti·Y",
+              "root": "מות",
+              "eng": "to die",
+              "gem": 456
+            },
+            {
+              "heb": "מֵחַיָּֽי",
+              "tr": "me·cha·ya·Y",
+              "root": "חי",
+              "eng": "adj",
+              "gem": 68
+            }
+          ]
+        },
+        {
+          "verse": 9,
+          "ref": "Yonah 4:9",
+          "hebrew_full": "וַיֹּ֤אמֶר אֱלֹהִים֙ אֶל־יוֹנָ֔ה הַהֵיטֵ֥ב חָרָֽה־לְךָ֖ עַל־הַקִּֽיקָי֑וֹן וַיֹּ֕אמֶר הֵיטֵ֥ב חָֽרָה־לִ֖י עַד־מָֽוֶת",
+          "translation": "Then God said to Jonah, “Are you so deeply grieved about the plant?” “Yes,” he replied, “so deeply that I want to die.”",
+          "rashi": "",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 2176,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּ֤אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "אֱלֹהִים֙",
+              "tr": "e·lo·hi·YM",
+              "root": "",
+              "eng": "(plural intensive-singular meaning)",
+              "gem": 86
+            },
+            {
+              "heb": "אֶל־יוֹנָ֔ה",
+              "tr": "e·l-yvo·na·H",
+              "root": "יונה",
+              "eng": "ram·dove",
+              "gem": 102
+            },
+            {
+              "heb": "הַהֵיטֵ֥ב",
+              "tr": "ha·he·yte·V",
+              "root": "יטב",
+              "eng": "to be good",
+              "gem": 31
+            },
+            {
+              "heb": "חָרָֽה־לְךָ֖",
+              "tr": "cha·ra·h-le·CHA",
+              "root": "חרה",
+              "eng": "to be hot·unto thee",
+              "gem": 263
+            },
+            {
+              "heb": "עַל־הַקִּֽיקָי֑וֹן",
+              "tr": "a·l-ha·ki·yka·yvo·N",
+              "root": "על",
+              "eng": "subst·a plant",
+              "gem": 381
+            },
+            {
+              "heb": "וַיֹּ֕אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "הֵיטֵ֥ב",
+              "tr": "he·yte·V",
+              "root": "יטב",
+              "eng": "to be good",
+              "gem": 26
+            },
+            {
+              "heb": "חָֽרָה־לִ֖י",
+              "tr": "cha·ra·h-li·Y",
+              "root": "חרה",
+              "eng": "to be hot·inflected pers. pron. meaning ‘to me’.",
+              "gem": 253
+            },
+            {
+              "heb": "עַד־מָֽוֶת",
+              "tr": "a·d-ma·ve·T",
+              "root": "מות",
+              "eng": "perpetuity·to die",
+              "gem": 520
+            }
+          ]
+        },
+        {
+          "verse": 10,
+          "ref": "Yonah 4:10",
+          "hebrew_full": "וַיֹּ֣אמֶר יְהֹוָ֔ה אַתָּ֥ה חַ֙סְתָּ֙ עַל־הַקִּ֣יקָי֔וֹן אֲשֶׁ֛ר לֹא־עָמַ֥לְתָּ בּ֖וֹ וְלֹ֣א גִדַּלְתּ֑וֹ שֶׁבִּן־לַ֥יְלָה הָיָ֖ה וּבִן־לַ֥יְלָה אָבָֽד",
+          "translation": "Then GOD said: “You cared about the plant, which you did not work for and which you did not grow, which appeared overnight and perished overnight.",
+          "rashi": "for which you did not toil—with plowing, sowing, or watering. one night Heb. בִּן-לַיְלָה, lit., one night old, like בֶּן לַיְלָה. It grew only one night.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 3685,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַיֹּ֣אמֶר",
+              "tr": "va·yo·'me·R",
+              "root": "אמר",
+              "eng": "to say",
+              "gem": 257
+            },
+            {
+              "heb": "יְהֹוָ֔ה",
+              "tr": "ye·ho·va·H",
+              "root": "יהוה",
+              "eng": "Commonly transcribed YHWH",
+              "gem": 26
+            },
+            {
+              "heb": "אַתָּ֥ה",
+              "tr": "a·ta·H",
+              "root": "אתה",
+              "eng": "you (second pers. sing. masc.)",
+              "gem": 406
+            },
+            {
+              "heb": "חַ֙סְתָּ֙",
+              "tr": "cha·se·TA",
+              "root": "חוס",
+              "eng": "to pity",
+              "gem": 468
+            },
+            {
+              "heb": "עַל־הַקִּ֣יקָי֔וֹן",
+              "tr": "a·l-ha·ki·yka·yvo·N",
+              "root": "על",
+              "eng": "subst·a plant",
+              "gem": 381
+            },
+            {
+              "heb": "אֲשֶׁ֛ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "לֹא־עָמַ֥לְתָּ",
+              "tr": "lo·'-'a·ma·le·TA",
+              "root": "עמל",
+              "eng": "not·to labour",
+              "gem": 571
+            },
+            {
+              "heb": "בּ֖וֹ",
+              "tr": "BVO",
+              "root": "בו",
+              "eng": "inflected third pers. singular m. of בּֽ◌ ᴵ",
+              "gem": 8
+            },
+            {
+              "heb": "וְלֹ֣א",
+              "tr": "ve·LO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 37
+            },
+            {
+              "heb": "גִדַּלְתּ֑וֹ",
+              "tr": "gi·da·le·TVO",
+              "root": "גדל",
+              "eng": "to grow",
+              "gem": 443
+            },
+            {
+              "heb": "שֶׁבִּן־לַ֥יְלָה",
+              "tr": "she·bi·n-la·ye·la·H",
+              "root": "ליל",
+              "eng": "son·night",
+              "gem": 427
+            },
+            {
+              "heb": "הָיָ֖ה",
+              "tr": "ha·ya·H",
+              "root": "היה",
+              "eng": "to be",
+              "gem": 20
+            },
+            {
+              "heb": "וּבִן־לַ֥יְלָה",
+              "tr": "vvi·n-la·ye·la·H",
+              "root": "ליל",
+              "eng": "son·night",
+              "gem": 133
+            },
+            {
+              "heb": "אָבָֽד",
+              "tr": "a·va·D",
+              "root": "אבד",
+              "eng": "perish",
+              "gem": 7
+            }
+          ]
+        },
+        {
+          "verse": 11,
+          "ref": "Yonah 4:11",
+          "hebrew_full": "וַֽאֲנִי֙ לֹ֣א אָח֔וּס עַל־נִינְוֵ֖ה הָעִ֣יר הַגְּדוֹלָ֑ה אֲשֶׁ֣ר יֶשׁ־בָּ֡הּ הַרְבֵּה֩ מִֽשְׁתֵּים־עֶשְׂרֵ֨ה רִבּ֜וֹ אָדָ֗ם אֲשֶׁ֤ר לֹֽא־יָדַע֙ בֵּין־יְמִינ֣וֹ לִשְׂמֹאל֔וֹ וּבְהֵמָ֖ה רַבָּֽה",
+          "translation": "And should not I care about Nineveh, that great city, in which there are more than a hundred and twenty thousand persons who do not yet know their right hand from their left, and many animals as well!”",
+          "rashi": "who do not know etc.—I.e, children. and many beasts as well—Adult, who have the intelligence of beasts, who do not recognize who created them.",
+          "ramban": "",
+          "ibn_ezra": "",
+          "sforno": "",
+          "or_hachaim": "",
+          "total_gematria": 4846,
+          "gem_note": "",
+          "words": [
+            {
+              "heb": "וַֽאֲנִי֙",
+              "tr": "va·'a·ni·Y",
+              "root": "אני",
+              "eng": "I (first pers. sing. -usually used for emphasis)",
+              "gem": 67
+            },
+            {
+              "heb": "לֹ֣א",
+              "tr": "LO",
+              "root": "לא",
+              "eng": "not",
+              "gem": 31
+            },
+            {
+              "heb": "אָח֔וּס",
+              "tr": "a·CHVS",
+              "root": "חוס",
+              "eng": "to pity",
+              "gem": 75
+            },
+            {
+              "heb": "עַל־נִינְוֵ֖ה",
+              "tr": "a·l-ni·yne·ve·H",
+              "root": "על",
+              "eng": "subst·Nineveh = \"abode of Ninus\"",
+              "gem": 221
+            },
+            {
+              "heb": "הָעִ֣יר",
+              "tr": "ha·'i·YR",
+              "root": "עיר",
+              "eng": "excitement",
+              "gem": 285
+            },
+            {
+              "heb": "הַגְּדוֹלָ֑ה",
+              "tr": "ha·ge·dvo·la·H",
+              "root": "גדול",
+              "eng": "adj",
+              "gem": 53
+            },
+            {
+              "heb": "אֲשֶׁ֣ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "יֶשׁ־בָּ֡הּ",
+              "tr": "ye·sh-ba·H",
+              "root": "ישב",
+              "eng": "to dwell",
+              "gem": 317
+            },
+            {
+              "heb": "הַרְבֵּה֩",
+              "tr": "ha·re·be·H",
+              "root": "רבה",
+              "eng": "be or become great",
+              "gem": 212
+            },
+            {
+              "heb": "מִֽשְׁתֵּים־עֶשְׂרֵ֨ה",
+              "tr": "mi·she·te·ym-'e·se·re·H",
+              "root": "שנים",
+              "eng": "two·ten",
+              "gem": 1365
+            },
+            {
+              "heb": "רִבּ֜וֹ",
+              "tr": "ri·BVO",
+              "root": "רבה",
+              "eng": "be or become great",
+              "gem": 208
+            },
+            {
+              "heb": "אָדָ֗ם",
+              "tr": "a·da·M",
+              "root": "אדם",
+              "eng": "man",
+              "gem": 45
+            },
+            {
+              "heb": "אֲשֶׁ֤ר",
+              "tr": "a·she·R",
+              "root": "אשר",
+              "eng": "(relative part.)",
+              "gem": 501
+            },
+            {
+              "heb": "לֹֽא־יָדַע֙",
+              "tr": "lo·'-ya·DA",
+              "root": "ידע",
+              "eng": "not·to know",
+              "gem": 115
+            },
+            {
+              "heb": "בֵּין־יְמִינ֣וֹ",
+              "tr": "be·yn-ye·mi·YNVO",
+              "root": "ימין",
+              "eng": "between·right",
+              "gem": 178
+            },
+            {
+              "heb": "לִשְׂמֹאל֔וֹ",
+              "tr": "li·se·mo·'LVO",
+              "root": "",
+              "eng": "the left",
+              "gem": 407
+            },
+            {
+              "heb": "וּבְהֵמָ֖ה",
+              "tr": "vve·he·ma·H",
+              "root": "בהמה",
+              "eng": "beast",
+              "gem": 58
+            },
+            {
+              "heb": "רַבָּֽה",
+              "tr": "ra·ba·H",
+              "root": "רב",
+              "eng": "adj",
+              "gem": 207
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
